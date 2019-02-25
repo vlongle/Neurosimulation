@@ -1,0 +1,26 @@
+1) // What is M_r: the inhibitory reversal potential? Why is it lower-bounded?
+
+2) What is find_index?
+
+Paper's r.v
+
+
+- External current drive: one Poisson process with exponential inter arrival time for each neuron
+
+X_1, X_2, ..., X_N: N number of neurons
+
+
+When the spike arrives at X_i, independent flip according to the P distribution for each neuron for connection.
+
+Once having a connection, draw from exponential dist for the delay neuron-neuron time.
+
+Then, the spiked neuron should go to refractory with time from exponential dist tau_R
+
+
+Reality:
+* Keep the now mean of the r.v. in 8-element array.
+* Randomly draw time increment from exponential with mean sum (using inverse CDF).
+* Use some weird method from find_index to identify which action to take among 8 exponential dist.
+
+
+

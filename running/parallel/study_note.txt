@@ -1,0 +1,28 @@
+Using openMP Intel Tutorial (Youtube)
+
+- Use Synchronization to protect against thread race condition
+- Synchronization is EXPENSIVE
+
+
+Fork-join parallelism
+Start with master thread
+    - fork threads with master (ID 0)
+    - the "team" of thread can join back to master
+
+-- Interchanging between serial and parallel.
+
+Can even nested fork-join
+
+
+counter-intuitive to our knowledge
+Outside of #pragma
+data available to all thread
+
+
+Hello-world of parallelism
+
+Integrate 4/(1+x)^2 from 0 to 1
+
+
+NOTE:
+Declare nthreads outside of the parallel region and set it value inside the parallel region. The runtime environment might decide to give you fewer threads than you requested!

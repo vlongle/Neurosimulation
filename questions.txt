@@ -1,0 +1,94 @@
+1) Connectivity between neurons. Why flipping each spike? Why not pre-determined before the simulation? Memory issue??
+
+2) while pre E after spike increases V by 1, the V of affected post neuron
+can increase as high as 5.
+double SEE = 5;
+double SIE = 3;
+
+3) where is tau_R: the refractory length of a neuron as exponential r.v.???
+
+4) what do these functions do???
+- int real2int()
+- int select(uniform_real_distribution) (inside Vector)
+- int find_index(Vector<double>& array, uniform_real_distribution);
+
+5) Some inconsistencies in the case 3 ...
+- HIE, SIE ??
+
+6) problem with the paper.
+Why does the potential scale lower bounded at M_R. What is inhibitory reversal potential?
+
+
+NOTE:
+https://stackoverflow.com/questions/11457571/how-to-set-initial-size-of-stdvector
+1. two ways to initialize C++ vectors
+-	std::vector<CustomClass *> whatever(20000);
+OR
+-	std::vector<CustomClass *> whatever;
+-	whatever.reserve(20000);
+
+2. push_back(val):
+Vector.append(val).
+
+3. Random number generators in C++
+mt19937: Mersenne Twister alg to generate pseudo-random 32-bits numbers. 
+
+```
+    mt19937 mt_rand(time(0)); // seed with time(0)
+    
+    cout << mt_rand() << endl;
+```
+==> output: 3957511588
+
+
+uniform_real_dist in conjunction with mt19937
+
+
+```
+    mt19937 mt_rand(time(0));
+    uniform_real_distribution<double> prob(0,1);
+    
+    cout << prob(mt_rand) << endl;
+    cout << prob(mt_rand) << endl;
+    cout << prob(mt_rand) << endl;
+
+```
+==> output: 
+0.422507                                                                      
+0.727241                                                                      
+0.870517
+
+For some weird reasons, to generate a random number in some range in C++. You need both:
+- a distribution (e.g. uniform_real_distribution)
+- a number generator algorithm (mt19937 Mersenne Twister alg)
+
+
+
+Some inconsistencies again....
+
+Comment seems to suggest that
+    Clock.reserve(8);
+    //0 Edrive, 1 Idrive, 2 HEE, 3, HEI, 4, HIE, 5, HII, 6, Eref, 7, Iref
+
+But in case 3:
+	we do 
+            case 3:
+                whichHit = HIE.select(mt, u);
+	instead of doing 
+                whichHit = HEE.select(mt, u);
+
+Why???
+
+The comment is wrong. It should be HIE is 3 and HEI is 4...
+
+
+It's possible to have zero spikes right??
+- terminate_time = 1.0
+E_spike = I_spike = 0
+
+SEE, SEI, SIE, SII 3.35085 -5.85189 4.36281 -5.39263 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+
+SEE, SEI, SIE, SII 4.54727 -5.43967 4.02348 -5.31159 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+
+SEE, SEI, SIE, SII 3.59385 -5.09054 7.19986 -5.87067 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+

@@ -1,0 +1,744 @@
+
+
+Data generated at Sun Feb 24 15:52:55 2019
+
+
+
+
+Data generated at Sun Feb 24 15:53:07 2019
+
+
+
+
+Data generated at Sun Feb 24 15:53:18 2019
+
+
+
+
+Data generated at Sun Feb 24 15:59:39 2019
+
+
+SEE, SEI, SIE, SII 3.25844 -5.53888 6.5485 -5.05825 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.29606 -5.55598 4.76858 -5.75228 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.25576 -5.68767 3.03916 -5.60774 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.78371 -5.7346 5.52964 -5.23863 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.87997 -5.36348 4.29104 -5.4442 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.4918 -5.37148 5.78549 -5.49842 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.55115 -5.58862 3.28781 -5.05368 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.04862 -5.29909 3.23837 -5.67655 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.21735 -5.28554 5.16104 -5.73634 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.69204 -5.96826 2.09922 -5.35804 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.83022 -5.11765 7.65982 -5.9207 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.74905 -5.69044 2.20056 -5.57438 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 16:20:15 2019
+
+
+SEE, SEI, SIE, SII 4.03685 -5.32828 3.28899 -5.83924 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.47813 -5.41211 4.98486 -5.29848 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.07117 -5.28464 4.27626 -5.2482 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.93807 -5.29197 4.56995 -5.01015 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.71982 -5.61597 3.97151 -5.60452 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.97861 -5.87642 7.09589 -5.68353 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.94602 -5.65438 2.05078 -5.44619 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.00882 -5.60683 7.60659 -5.76575 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.64871 -5.082 4.23251 -5.45894 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.79161 -5.68046 3.6637 -5.50294 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.61244 -5.20032 4.49096 -5.29965 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.30147 -5.99 3.63708 -5.52378 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:10:58 2019
+
+
+SEE, SEI, SIE, SII 3.89566 -5.02145 5.97683 -5.07282 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.09716 -5.63901 6.21876 -5.19996 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.28409 -5.8222 5.30018 -5.36032 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.11927 -5.2763 2.79215 -5.55404 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.59766 -5.79082 4.79787 -5.25865 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.21193 -5.17163 4.07057 -5.26005 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.71939 -5.39555 3.7234 -5.71355 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.09992 -5.47849 3.77045 -5.68837 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.7629 -5.29349 7.01313 -5.97419 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.66548 -5.5028 3.91241 -5.00186 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.31108 -5.02199 5.659 -5.23235 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.54464 -5.41157 4.03391 -5.83869 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:14:24 2019
+
+
+SEE, SEI, SIE, SII 4.295 -5.81581 2.81313 -5.02259 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.95327 -5.78449 4.76993 -5.16007 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.65543 -5.58313 5.7221 -5.08761 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.01205 -5.39511 5.8569 -5.155 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.73253 -5.32818 2.78389 -5.25083 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.69614 -5.55037 2.21091 -5.1541 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.83166 -5.63041 7.48526 -5.92534 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.55703 -5.55325 6.33646 -5.31149 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.41359 -5.13035 7.33737 -5.17683 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.49696 -5.73116 3.9672 -5.33002 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.30468 -5.44552 4.60694 -5.15572 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.28107 -5.0458 7.09942 -5.14953 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:17:13 2019
+
+
+SEE, SEI, SIE, SII 5.8455 -5.66911 5.12074 -5.87264 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.52787 -5.21282 7.61799 -5.31596 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.46799 -5.4605 5.75887 -5.86462 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.5015 -5.11047 6.62712 -5.26101 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.73978 -5.76896 2.81755 -5.42645 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.11419 -5.59221 6.10212 -5.79904 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.56275 -5.2051 3.3244 -5.30831 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.78114 -5.48064 2.95477 -5.76101 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.01119 -5.23858 3.09197 -5.98092 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.57745 -5.97033 3.67005 -5.67456 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.27863 -5.7658 3.8585 -5.03799 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.24842 -5.43744 2.28566 -5.927 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:17:23 2019
+
+
+SEE, SEI, SIE, SII 3.99942 -5.24209 5.55866 -5.19317 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.72736 -5.60843 2.95103 -5.50985 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.78011 -5.84624 5.24237 -5.37449 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.79452 -5.86369 4.97421 -5.94496 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.34065 -5.6894 3.04279 -5.22991 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.7972 -5.2359 2.18624 -5.60579 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.83256 -5.84242 3.88735 -5.64255 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.10157 -5.35813 2.84598 -5.31043 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.38434 -5.11072 3.42101 -5.03397 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.3341 -5.10862 4.3652 -5.4888 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.07519 -5.02002 2.16759 -5.16847 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.11858 -5.02519 3.07562 -5.4018 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:18:00 2019
+
+
+SEE, SEI, SIE, SII 3.25619 -5.11968 2.31011 -5.7802 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.28498 -5.46272 2.32097 -5.45795 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.98174 -5.94008 3.31279 -5.87082 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.22966 -5.62803 5.9352 -5.03353 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.85441 -5.49667 2.00052 -5.72412 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.00078 -5.93373 7.93263 -5.08038 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.36975 -5.83575 4.04999 -5.1673 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.14964 -5.68011 7.83516 -5.13218 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.70841 -5.87276 4.34348 -5.41786 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.11471 -5.71821 7.82052 -5.39227 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.8567 -5.66713 7.57707 -5.20481 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.58987 -5.37457 7.56188 -5.82863 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:19:08 2019
+
+
+SEE, SEI, SIE, SII 5.74551 -5.03427 6.12926 -5.22098 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.65105 -5.36293 2.10647 -5.87529 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.3431 -5.70221 6.13961 -5.75893 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.33235 -5.8146 4.79201 -5.06636 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.6468 -5.24532 6.6839 -5.72747 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.19065 -5.71439 3.15698 -5.51275 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.23461 -5.13641 4.61424 -5.29774 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.71882 -5.0465 7.49095 -5.12065 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.71884 -5.71878 4.53705 -5.1692 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.14846 -5.95219 5.20384 -5.45716 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.31158 -5.7611 4.81465 -5.74111 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.66952 -5.06878 2.0838 -5.80042 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:20:33 2019
+
+
+SEE, SEI, SIE, SII 5.05246 -5.0332 2.15504 -5.08629 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.29373 -5.46254 7.37542 -5.15542 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.97094 -5.70765 6.93212 -5.03813 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.92956 -5.14664 6.52767 -5.75194 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.52017 -5.26326 7.81737 -5.9292 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.06196 -5.15089 2.69322 -5.28434 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.32515 -5.88609 6.85086 -5.61705 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.01281 -5.54147 3.34975 -5.26064 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.23303 -5.33813 5.62701 -5.04047 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.98865 -5.46308 5.90507 -5.5479 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.82734 -5.84328 2.02236 -5.13987 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.3643 -5.84069 5.01662 -5.98544 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:22:01 2019
+
+
+SEE, SEI, SIE, SII 2.86707 -5.62173 3.40021 -5.71676 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.68623 -5.19181 7.5017 -5.24896 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.09993 -5.13734 4.90681 -5.40146 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.21411 -5.78137 6.11313 -5.60621 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.46457 -5.00224 4.00313 -5.59189 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.25017 -5.78793 2.70936 -5.77663 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.73883 -5.72061 6.1731 -5.78457 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.66891 -5.55261 5.69341 -5.82317 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.20429 -5.08017 2.1674 -5.06466 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.33467 -5.21355 3.03969 -5.28046 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.21936 -5.11148 4.80591 -5.67275 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.49578 -5.61565 3.95955 -5.79975 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:22:17 2019
+
+
+SEE, SEI, SIE, SII 7.97068 -5.65439 7.01343 -5.39452 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.92387 -5.28484 6.98526 -5.30589 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.41588 -5.47158 5.96041 -5.99986 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.96675 -5.52209 3.49905 -5.3944 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.8719 -5.6535 5.51315 -5.66283 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.79612 -5.78286 2.0283 -5.26935 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.473 -5.87361 7.51232 -5.59957 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.13435 -5.72648 3.78108 -5.23157 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.93815 -5.79039 4.99129 -5.41432 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.50399 -5.96693 7.95889 -5.38806 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.54511 -5.07621 4.66602 -5.76124 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.51833 -5.22446 6.66282 -5.16025 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:23:14 2019
+
+
+SEE, SEI, SIE, SII 5.60587 -5.03642 2.7152 -5.16134 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.43096 -5.6897 3.94886 -5.84748 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.13519 -5.54559 3.50167 -5.70079 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.54736 -5.2336 4.03014 -5.37211 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.53421 -5.63879 4.88289 -5.95073 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.77035 -5.72689 2.79856 -5.11181 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.26371 -5.70032 6.85281 -5.2221 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.65465 -5.27317 2.96069 -5.23751 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.86536 -5.9452 6.68671 -5.96307 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.93506 -5.65639 2.11134 -5.79295 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.25369 -5.46671 6.10138 -5.58788 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.77097 -5.96863 3.72376 -5.8481 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:24:12 2019
+
+
+SEE, SEI, SIE, SII 6.67698 -5.03525 7.66554 -5.142 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.73124 -5.18752 5.58886 -5.0977 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.56509 -5.81829 3.91568 -5.99416 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.74446 -5.29181 3.34945 -5.89859 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.00121 -5.43504 6.74911 -5.54306 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.41739 -5.85624 4.52794 -5.67522 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.39378 -5.853 3.71541 -5.45438 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.93176 -5.90478 4.40312 -5.25905 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.85337 -5.86539 3.64691 -5.04693 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.02795 -5.69496 4.67238 -5.46491 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.41252 -5.61642 2.53268 -5.11597 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.91312 -5.77784 4.7163 -5.14116 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:26:34 2019
+
+
+SEE, SEI, SIE, SII 6.73093 -5.4413 5.40728 -5.54662 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.66119 -5.9932 2.25072 -5.36164 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.14814 -5.05465 6.88103 -5.28883 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.14883 -5.80356 4.21022 -5.28044 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.11668 -5.09058 6.82842 -5.14788 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.93133 -5.39547 4.76519 -5.73377 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.79119 -5.80824 2.3534 -5.92814 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.86877 -5.59245 5.94408 -5.69967 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.0703 -5.81263 5.29005 -5.83407 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.67109 -5.79765 3.0725 -5.03142 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.46552 -5.098 3.79249 -5.88599 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.63649 -5.6603 3.92286 -5.35188 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:27:55 2019
+
+
+SEE, SEI, SIE, SII 2.17183 -5.81521 5.69144 -5.4455 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.69882 -5.03665 7.25421 -5.00531 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.86032 -5.14634 6.58579 -5.23016 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.76669 -5.83791 3.59627 -5.81581 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.10699 -5.29722 5.66434 -5.72318 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.39705 -5.13205 3.11964 -5.6503 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.76177 -5.41218 3.8441 -5.32965 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.02748 -5.29478 3.9011 -5.61359 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.46888 -5.78648 6.69203 -5.86263 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.52165 -5.15136 7.06259 -5.82911 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.17811 -5.55336 7.99108 -5.96287 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.48048 -5.86993 4.78503 -5.17247 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:30:16 2019
+
+
+SEE, SEI, SIE, SII 4.64493 -5.30983 6.96815 -5.8804 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.36886 -5.53186 2.10238 -5.81773 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.89337 -5.24367 2.88979 -5.1241 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.50279 -5.31296 5.99269 -5.02416 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.84604 -5.46628 3.31622 -5.45136 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.81275 -5.91607 6.67235 -5.62195 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.57874 -5.46542 2.66115 -5.20283 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.43211 -5.30571 4.958 -5.11602 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.08892 -5.32684 3.89347 -5.33806 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.18223 -5.44234 5.23294 -5.78344 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.53367 -5.71306 6.97066 -5.60351 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.10593 -5.76777 7.40468 -5.77028 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:51:37 2019
+
+
+SEE, SEI, SIE, SII 4.00759 -5.62452 4.85095 -5.9555 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.11381 -5.9998 3.04137 -5.86577 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.78141 -5.56631 2.65612 -5.29235 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.2574 -5.96158 3.29946 -5.03681 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.74778 -5.20075 4.21879 -5.66124 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.242 -5.15567 6.90917 -5.2273 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.39571 -5.02317 5.78608 -5.82778 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.12097 -5.88203 6.57781 -5.37267 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.67342 -5.99308 3.35099 -5.12564 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.04638 -5.86551 2.12932 -5.58607 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.80544 -5.15974 2.62811 -5.93889 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.00498 -5.77289 3.00045 -5.17169 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:52:14 2019
+
+
+SEE, SEI, SIE, SII 2.98501 -5.97176 3.51047 -5.86414 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.67621 -5.0206 4.52178 -5.06506 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.08552 -5.26054 7.47201 -5.72118 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:52:56 2019
+
+
+SEE, SEI, SIE, SII 7.67233 -5.2591 3.4217 -5.60991 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.84381 -5.13 5.08886 -5.72781 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.25358 -5.55315 2.14104 -5.10231 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:53:00 2019
+
+
+SEE, SEI, SIE, SII 2.16086 -5.25443 4.75377 -5.68211 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.47023 -5.8648 4.92611 -5.00903 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.64958 -5.32808 4.94539 -5.74455 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:55:49 2019
+
+
+SEE, SEI, SIE, SII 7.14106 -5.29435 4.57084 -5.06541 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.59328 -5.61443 3.32318 -5.03566 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.95219 -5.74169 7.75136 -5.38817 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:57:33 2019
+
+
+SEE, SEI, SIE, SII 2.15969 -5.41482 2.13861 -5.56431 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.41637 -5.97361 3.42144 -5.27146 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.31939 -5.64848 6.2221 -5.48574 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:58:00 2019
+
+
+SEE, SEI, SIE, SII 3.45192 -5.94186 4.51343 -5.82996 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.52423 -5.36177 2.56955 -5.94918 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.67058 -5.22422 7.73311 -5.71051 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:58:17 2019
+
+
+SEE, SEI, SIE, SII 3.71747 -5.78417 2.7667 -5.27953 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.27394 -5.96449 3.11037 -5.24724 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.95826 -5.03473 2.91411 -5.03509 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 17:59:57 2019
+
+
+SEE, SEI, SIE, SII 2.64013 -5.95262 4.15313 -5.42889 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.78823 -5.1384 4.05047 -5.56583 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.52344 -5.70384 7.55665 -5.23815 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 18:00:06 2019
+
+
+SEE, SEI, SIE, SII 2.50962 -5.23255 7.08969 -5.80454 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.83196 -5.49283 7.57189 -5.02895 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.76521 -5.2882 5.58617 -5.57878 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 18:06:40 2019
+
+
+SEE, SEI, SIE, SII 6.97531 -5.0318 4.2436 -5.23867 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.97005 -5.38708 6.24968 -5.06366 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.88738 -5.49506 4.5675 -5.33471 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 18:06:45 2019
+
+
+SEE, SEI, SIE, SII 7.71047 -5.91562 3.58187 -5.04109 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.03522 -5.24923 4.0393 -5.34825 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.16424 -5.14223 5.40973 -5.89457 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 19:40:37 2019
+
+
+SEE, SEI, SIE, SII 6.66539 -5.52877 3.87234 -5.14763 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.65147 -5.99257 5.6366 -5.2894 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.98114 -5.30571 2.10273 -5.04745 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 19:59:39 2019
+
+
+SEE, SEI, SIE, SII 7.82168 -5.82522 5.78981 -5.08949 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.52436 -5.77124 3.01849 -5.93598 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.65873 -5.67306 5.19984 -5.4941 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 19:59:48 2019
+
+
+SEE, SEI, SIE, SII 6.20771 -5.73142 2.13365 -5.06417 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.4897 -5.04236 4.23647 -5.33369 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.96894 -5.10007 7.41936 -5.14146 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 20:55:15 2019
+
+
+SEE, SEI, SIE, SII 5.75482 -5.08503 5.59246 -5.86786 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.86842 -5.24783 5.28827 -5.43133 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.41063 -5.31299 5.30136 -5.48274 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 20:57:32 2019
+
+
+SEE, SEI, SIE, SII 6.24974 -5.43219 2.83389 -5.06741 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.20514 -5.28123 2.25924 -5.7585 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.47442 -5.26138 2.50346 -5.65046 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 20:58:57 2019
+
+
+SEE, SEI, SIE, SII 4.09476 -5.93102 6.03511 -5.18696 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.96065 -5.02944 5.41798 -5.6685 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.39773 -5.78802 5.20742 -5.04055 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 20:59:49 2019
+
+
+SEE, SEI, SIE, SII 2.57434 -5.04824 6.97527 -5.1166 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.88099 -5.81253 6.45977 -5.66304 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.80711 -5.80956 2.6073 -5.512 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:01:04 2019
+
+
+SEE, SEI, SIE, SII 4.45825 -5.28157 6.94597 -5.11028 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.56652 -5.17633 5.4605 -5.24757 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.12369 -5.0533 7.92842 -5.76303 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:04:53 2019
+
+
+SEE, SEI, SIE, SII 3.80183 -5.44934 5.03165 -5.01618 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.1596 -5.62563 2.85649 -5.48967 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.90768 -5.02517 7.22017 -5.5511 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:07:56 2019
+
+
+SEE, SEI, SIE, SII 6.84996 -5.96794 5.43062 -5.45671 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.98782 -5.79737 2.24615 -5.06637 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.20444 -5.38957 6.21724 -5.6239 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:09:17 2019
+
+
+SEE, SEI, SIE, SII 4.00226 -5.59226 2.81532 -5.33491 kickE, kickI 1000 1000 | E_spike, I_spike 226 90
+SEE, SEI, SIE, SII 6.94644 -5.93412 3.67633 -5.80083 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.52345 -5.68366 7.32591 -5.01727 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:12:07 2019
+
+
+SEE, SEI, SIE, SII 6.1188 -5.36861 6.88235 -5.71075 kickE, kickI 1000 1000 | E_spike, I_spike 226 83
+SEE, SEI, SIE, SII 2.02955 -5.70947 7.79366 -5.12527 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.27723 -5.52938 5.2541 -5.59889 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:13:00 2019
+
+
+SEE, SEI, SIE, SII 5.16192 -5.02771 7.13321 -5.55294 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.52327 -5.03871 3.81544 -5.93544 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.49528 -5.57419 7.90397 -5.79963 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:24:03 2019
+
+
+SEE, SEI, SIE, SII 3.57786 -5.26828 5.90095 -5.66793 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.13346 -5.46708 3.32578 -5.52591 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.19122 -5.14124 5.04594 -5.89763 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:24:16 2019
+
+
+SEE, SEI, SIE, SII 3.39866 -5.25404 7.5273 -5.44258 kickE, kickI 1000 1000 | E_spike, I_spike 226 79
+SEE, SEI, SIE, SII 6.07353 -5.2227 4.23577 -5.25836 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.86286 -5.74789 3.91641 -5.14084 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:24:24 2019
+
+
+SEE, SEI, SIE, SII 2.70913 -5.59844 5.17465 -5.0498 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.92869 -5.04223 3.32233 -5.74655 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.9104 -5.33654 2.83023 -5.6574 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:24:28 2019
+
+
+SEE, SEI, SIE, SII 3.98482 -5.19298 7.84193 -5.51057 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.46822 -5.33207 3.79964 -5.5434 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.5897 -5.11267 3.5696 -5.84403 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:24:29 2019
+
+
+SEE, SEI, SIE, SII 5.46822 -5.33207 3.79964 -5.5434 kickE, kickI 1000 1000 | E_spike, I_spike 226 87
+SEE, SEI, SIE, SII 4.5897 -5.11267 3.5696 -5.84403 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.4809 -5.56635 4.26181 -5.19672 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:24:30 2019
+
+
+SEE, SEI, SIE, SII 4.5897 -5.11267 3.5696 -5.84403 kickE, kickI 1000 1000 | E_spike, I_spike 226 101
+SEE, SEI, SIE, SII 4.4809 -5.56635 4.26181 -5.19672 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.15157 -5.04649 6.38796 -5.36951 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:27:05 2019
+
+
+SEE, SEI, SIE, SII 4.54727 -5.43967 4.02348 -5.31159 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.32449 -5.17147 3.41662 -5.81632 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.99077 -5.13076 5.26853 -5.08244 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:29:11 2019
+
+
+SEE, SEI, SIE, SII 5.54772 -5.09079 2.95402 -5.71792 kickE, kickI 1000 1000 | E_spike, I_spike 226 76
+SEE, SEI, SIE, SII 7.4444 -5.9299 3.7905 -5.2816 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.87642 -5.59976 6.45452 -5.32686 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:29:25 2019
+
+
+SEE, SEI, SIE, SII 3.35085 -5.85189 4.36281 -5.39263 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.24039 -5.30959 2.72143 -5.15235 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.90027 -5.30954 6.13152 -5.2804 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:32:42 2019
+
+
+SEE, SEI, SIE, SII 3.59385 -5.09054 7.19986 -5.87067 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.43394 -5.5638 5.4426 -5.69411 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.50145 -5.88047 5.7391 -5.26643 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:33:42 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.01764 -5.79518 7.18959 -5.60453 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.80673 -5.76467 4.63693 -5.59358 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:33:46 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.30871 -5.76554 6.94699 -5.08959 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.92072 -5.12481 6.67558 -5.0812 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:33:48 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.0171 -5.54934 2.12565 -5.82625 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.06235 -5.23686 7.84408 -5.60003 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:38:54 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 226 75
+SEE, SEI, SIE, SII 5.91685 -5.60854 7.52726 -5.22464 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.954 -5.43963 7.85072 -5.63355 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:40:12 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.45187 -5.97324 6.86477 -5.14903 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.10095 -5.42858 5.03493 -5.5325 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:40:17 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 226 60
+SEE, SEI, SIE, SII 3.24978 -5.64986 3.01969 -5.87273 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.44299 -5.15643 7.11339 -5.1525 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:59:16 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.10365 -5.35109 2.27602 -5.30547 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.90158 -5.6563 3.28267 -5.29607 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:59:40 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.67645 -5.17024 6.10613 -5.59796 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.05134 -5.05938 6.91442 -5.03607 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:59:43 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.7637 -5.6107 4.13524 -5.31337 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.27925 -5.11168 3.745 -5.9182 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:59:44 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 7.27925 -5.11168 3.745 -5.9182 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.23912 -5.36952 6.0846 -5.26429 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:59:45 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 226 62
+SEE, SEI, SIE, SII 3.23912 -5.36952 6.0846 -5.26429 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.84848 -5.38837 3.04173 -5.92452 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 21:59:47 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.46254 -5.15698 3.626 -5.08358 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.78952 -5.87418 7.58148 -5.29714 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 22:57:34 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.61234 -5.89662 6.5859 -5.09765 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.51887 -5.99141 5.42826 -5.77087 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 22:57:40 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.72239 -5.113 7.8663 -5.47619 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.01566 -5.704 6.78695 -5.7493 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 23:04:48 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 226 0
+SEE, SEI, SIE, SII 5.15675 -5.02393 4.44607 -5.64085 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.45925 -5.11025 7.37602 -5.03919 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 23:05:04 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 226 0
+SEE, SEI, SIE, SII 4.07154 -5.05633 2.64671 -5.22869 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.06927 -5.63459 6.33715 -5.02044 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 23:05:07 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.72961 -5.58366 3.07877 -5.13617 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.79373 -5.90955 6.35703 -5.03279 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 23:05:37 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.57809 -5.05182 3.53131 -5.19809 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.80417 -5.82423 5.104 -5.50221 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 23:05:39 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 5.2792 -5.70291 7.52616 -5.05508 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 6.63949 -5.47141 3.46574 -5.21568 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 23:06:18 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 3.17881 -5.66692 2.15833 -5.5827 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.25583 -5.25923 6.14729 -5.4484 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
+
+
+Data generated at Sun Feb 24 23:06:19 2019
+
+
+SEE, SEI, SIE, SII 5 -2 3 -2 kickE, kickI 1000 1000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 2.25583 -5.25923 6.14729 -5.4484 kickE, kickI 3000 3000 | E_spike, I_spike 0 0
+SEE, SEI, SIE, SII 4.5054 -5.03321 5.11078 -5.86793 kickE, kickI 5000 5000 | E_spike, I_spike 0 0
