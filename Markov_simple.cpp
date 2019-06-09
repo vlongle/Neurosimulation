@@ -23,12 +23,24 @@ double PEE = 0.15;
 double PIE = 0.5;
 double PEI = 0.5;
 double PII = 0.4;
-double SEE = 5;
-double SIE = 3;
-double SEI = -2;
-double SII = -2;
+
+
+//double SEE = 5.76686;
+//double SIE = 7.22049;
+//double SEI = -5.50612;
+//double SII = -5.37775;
+
+double SEE = 5.0;
+double SIE = 5.0;
+double SEI = -3.0;
+double SII = -3.0;
+
+
 double kickE = 1000.0;
 double kickI = 1000.0;
+
+
+
 double Ref = 250.0;
 double HitE = 1000.0;
 double HitI = 1000.0;
@@ -54,12 +66,12 @@ class Vector : public vector<T> {
 private:
     T sum;
 public:
-    
+
     double get_sum()
     {
         return sum;
     }
-    
+
     void maintain()
     {
         T tmp_sum = 0;
@@ -68,7 +80,7 @@ public:
  //       cout<<tmp_sum<<endl;
         sum = tmp_sum;
     }
-    
+
     void switch_element(const int index, T element)
     //switch [index] by element and maintain sum
     {
@@ -76,7 +88,7 @@ public:
         (*this)[index] = element;
     }
     //The first three function is only for Clock[]
-    
+
     bool remove_elt(unsigned index)
     //remove element [index]
     {
@@ -94,7 +106,7 @@ public:
         }
         return true;
     }
-    
+
     int select(mt19937& mt, uniform_real_distribution<double>& u)
     {
         if( this->size() == 0)
@@ -110,7 +122,7 @@ public:
             return tmp;
         }
     }
-    
+
     int find_min() {
         if(!this -> empty()) {
             auto min = (*this)[0];
@@ -127,15 +139,15 @@ public:
         }
         return -1;
     }
-    
+
     void print_vector() {
         for(auto && it : (*this)) {
             cout<<it<<" ";
         }
         cout<<endl;
     }
-    
-}; 
+
+};
 
 
 int find_index(Vector<double>& array, mt19937& mt, uniform_real_distribution<double>& u)
@@ -156,7 +168,7 @@ int find_index(Vector<double>& array, mt19937& mt, uniform_real_distribution<dou
 
 void spikeE(const int whichHit, Vector<double>& Clock, vector<int> &VE, Vector<int> &HEE, Vector<int> &HIE, Vector<int> &Eref, vector<int> &awakeE, vector<int> &awakeI, mt19937& mt, uniform_real_distribution<double>& u)
 {
-    
+
 //    cout << "spikeE!!" << endl;
 
     E_spike ++;
@@ -181,17 +193,17 @@ void spikeE(const int whichHit, Vector<double>& Clock, vector<int> &VE, Vector<i
     }
     Clock.switch_element(2, HitE*HEE.size());
     Clock.switch_element(3, HitE*HIE.size());
-    
+
 }
 
 
 
 void spikeI(const int whichHit, Vector<double>& Clock, vector<int> &VI, Vector<int> &HEI, Vector<int> &HII, Vector<int> &Iref, vector<int> &awakeE, vector<int> &awakeI, mt19937& mt, uniform_real_distribution<double>& u)
 {
-    
+
 //    cout << "spikeI!!" << endl;
-    
-    
+
+
     I_spike ++;
     VI[whichHit] = 0;
     awakeI[whichHit] = 0;
@@ -330,12 +342,12 @@ int main()
     mt19937 mt(rd());
     uniform_real_distribution<double> u(0, 1);
     myfile.open("spike_info.txt");
-    
+
     Vector<int> VE, VI;
     VE.reserve(NE);
     VI.reserve(NI);
 
-    
+
     for(auto i : VE)
         i = 0;
     for(auto i : VI)
@@ -369,10 +381,10 @@ int main()
     update(time_spike, num_spike, Clock, VE, VI, HEE, HEI, HIE, HII, Eref, Iref, awakeE,awakeI, terminate_time, mt, u);
 //    for(auto& i : VE)
 //        cout<<i<<" ";
-    
+
     cout << "E_spike, I_spike " << E_spike << " " << I_spike << endl;
-    
-    
+
+
     cout<<"E spike rate= "<<(double)E_spike/(terminate_time*NE)<<endl;
     cout<<"I spike rate = "<<(double)I_spike/(terminate_time*NI)<<endl;
     int spike_count = time_spike.size();
@@ -394,19 +406,12 @@ int main()
     cout<<test.size()<<endl;
     test.print_vector();
     */
-    
-    
+
+
     gettimeofday(&t2, NULL);
     double delta = ((t2.tv_sec  - t1.tv_sec) * 1000000u +
                     t2.tv_usec - t1.tv_usec) / 1.e6;
-    
+
     cout << "total CPU time = " << delta <<endl;
-    
+
 }
-
-
-
-
-
-
-

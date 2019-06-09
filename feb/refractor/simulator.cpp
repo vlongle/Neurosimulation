@@ -24,8 +24,6 @@ void Population::set_random_engine(int thread_num){
     time_t seconds = time(NULL);
     mt19937 mt(seconds + (double)thread_num);
     uniform_real_distribution<double> u(0, 1);
-    
-    
     randEng.set_random_generator(mt, u);
     
 }

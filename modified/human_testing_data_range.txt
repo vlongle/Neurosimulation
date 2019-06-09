@@ -1,0 +1,4215 @@
+Data generated at Sun Jun  2 10:35:32 2019
+
+
+SEE, SIE, SEI, SII | 7.3297 10.3158 -6.37935 -4.28833 | kickE, kickI 1000 1000
+E_spike, I_spike | 8 372
+E spike rate= 0.0266667
+I spike rate = 3.72
+
+SEE, SIE, SEI, SII | 8.39724 7.00375 -5.73211 -5.64636 | kickE, kickI 1000 1000
+E_spike, I_spike | 80 383
+E spike rate= 0.266667
+I spike rate = 3.83
+
+SEE, SIE, SEI, SII | 10.4443 6.88137 -6.00523 -5.42041 | kickE, kickI 1000 1000
+E_spike, I_spike | 94 401
+E spike rate= 0.313333
+I spike rate = 4.01
+
+SEE, SIE, SEI, SII | 9.14809 8.01031 -4.54042 -5.58802 | kickE, kickI 1000 1000
+E_spike, I_spike | 174 520
+E spike rate= 0.58
+I spike rate = 5.2
+
+SEE, SIE, SEI, SII | 9.27608 9.79874 -6.15078 -5.12024 | kickE, kickI 1000 1000
+E_spike, I_spike | 20 349
+E spike rate= 0.0666667
+I spike rate = 3.49
+
+SEE, SIE, SEI, SII | 9.67071 5.80114 -3.58822 -5.29141 | kickE, kickI 1000 1000
+E_spike, I_spike | 776 1023
+E spike rate= 2.58667
+I spike rate = 10.23
+
+SEE, SIE, SEI, SII | 6.10208 9.77654 -4.48345 -5.88474 | kickE, kickI 1000 1000
+E_spike, I_spike | 122 475
+E spike rate= 0.406667
+I spike rate = 4.75
+
+SEE, SIE, SEI, SII | 6.67241 9.88515 -6.44371 -5.51554 | kickE, kickI 1000 1000
+E_spike, I_spike | 17 342
+E spike rate= 0.0566667
+I spike rate = 3.42
+
+SEE, SIE, SEI, SII | 9.70532 8.25316 -5.98704 -4.30216 | kickE, kickI 1000 1000
+E_spike, I_spike | 20 385
+E spike rate= 0.0666667
+I spike rate = 3.85
+
+SEE, SIE, SEI, SII | 6.57106 9.13079 -5.60439 -4.2006 | kickE, kickI 1000 1000
+E_spike, I_spike | 15 382
+E spike rate= 0.05
+I spike rate = 3.82
+
+SEE, SIE, SEI, SII | 5.57973 6.42759 -6.05651 -5.08369 | kickE, kickI 1000 1000
+E_spike, I_spike | 33 352
+E spike rate= 0.11
+I spike rate = 3.52
+
+SEE, SIE, SEI, SII | 8.645 8.50745 -4.59889 -5.37577 | kickE, kickI 1000 1000
+E_spike, I_spike | 140 493
+E spike rate= 0.466667
+I spike rate = 4.93
+
+SEE, SIE, SEI, SII | 7.10953 5.44895 -5.3141 -4.97781 | kickE, kickI 1000 1000
+E_spike, I_spike | 80 412
+E spike rate= 0.266667
+I spike rate = 4.12
+
+SEE, SIE, SEI, SII | 8.83136 5.1379 -5.34608 -3.87987 | kickE, kickI 1000 1000
+E_spike, I_spike | 31 408
+E spike rate= 0.103333
+I spike rate = 4.08
+
+SEE, SIE, SEI, SII | 9.61791 10.1683 -4.39082 -5.76984 | kickE, kickI 1000 1000
+E_spike, I_spike | 135 512
+E spike rate= 0.45
+I spike rate = 5.12
+
+SEE, SIE, SEI, SII | 5.50284 10.1443 -6.01582 -4.29972 | kickE, kickI 1000 1000
+E_spike, I_spike | 9 384
+E spike rate= 0.03
+I spike rate = 3.84
+
+SEE, SIE, SEI, SII | 8.44903 9.29788 -5.93337 -5.46461 | kickE, kickI 1000 1000
+E_spike, I_spike | 38 358
+E spike rate= 0.126667
+I spike rate = 3.58
+
+SEE, SIE, SEI, SII | 5.96011 7.17013 -4.29599 -5.53764 | kickE, kickI 1000 1000
+E_spike, I_spike | 177 502
+E spike rate= 0.59
+I spike rate = 5.02
+
+SEE, SIE, SEI, SII | 5.66768 9.98762 -5.94256 -4.47493 | kickE, kickI 1000 1000
+E_spike, I_spike | 12 368
+E spike rate= 0.04
+I spike rate = 3.68
+
+SEE, SIE, SEI, SII | 7.23828 7.35704 -6.32948 -5.85046 | kickE, kickI 1000 1000
+E_spike, I_spike | 17 324
+E spike rate= 0.0566667
+I spike rate = 3.24
+
+SEE, SIE, SEI, SII | 7.3297 10.3158 -6.37935 -4.28833 | kickE, kickI 3000 3000
+E_spike, I_spike | 11 1104
+E spike rate= 0.0366667
+I spike rate = 11.04
+
+SEE, SIE, SEI, SII | 8.39724 7.00375 -5.73211 -5.64636 | kickE, kickI 3000 3000
+E_spike, I_spike | 178 1105
+E spike rate= 0.593333
+I spike rate = 11.05
+
+SEE, SIE, SEI, SII | 10.4443 6.88137 -6.00523 -5.42041 | kickE, kickI 3000 3000
+E_spike, I_spike | 155 1102
+E spike rate= 0.516667
+I spike rate = 11.02
+
+SEE, SIE, SEI, SII | 9.14809 8.01031 -4.54042 -5.58802 | kickE, kickI 3000 3000
+E_spike, I_spike | 548 1588
+E spike rate= 1.82667
+I spike rate = 15.88
+
+SEE, SIE, SEI, SII | 9.27608 9.79874 -6.15078 -5.12024 | kickE, kickI 3000 3000
+E_spike, I_spike | 46 1041
+E spike rate= 0.153333
+I spike rate = 10.41
+
+SEE, SIE, SEI, SII | 9.67071 5.80114 -3.58822 -5.29141 | kickE, kickI 3000 3000
+E_spike, I_spike | 3083 3491
+E spike rate= 10.2767
+I spike rate = 34.91
+
+SEE, SIE, SEI, SII | 6.10208 9.77654 -4.48345 -5.88474 | kickE, kickI 3000 3000
+E_spike, I_spike | 360 1413
+E spike rate= 1.2
+I spike rate = 14.13
+
+SEE, SIE, SEI, SII | 6.67241 9.88515 -6.44371 -5.51554 | kickE, kickI 3000 3000
+E_spike, I_spike | 40 999
+E spike rate= 0.133333
+I spike rate = 9.99
+
+SEE, SIE, SEI, SII | 9.70532 8.25316 -5.98704 -4.30216 | kickE, kickI 3000 3000
+E_spike, I_spike | 19 1116
+E spike rate= 0.0633333
+I spike rate = 11.16
+
+SEE, SIE, SEI, SII | 6.57106 9.13079 -5.60439 -4.2006 | kickE, kickI 3000 3000
+E_spike, I_spike | 19 1145
+E spike rate= 0.0633333
+I spike rate = 11.45
+
+SEE, SIE, SEI, SII | 5.57973 6.42759 -6.05651 -5.08369 | kickE, kickI 3000 3000
+E_spike, I_spike | 45 1038
+E spike rate= 0.15
+I spike rate = 10.38
+
+SEE, SIE, SEI, SII | 8.645 8.50745 -4.59889 -5.37577 | kickE, kickI 3000 3000
+E_spike, I_spike | 413 1499
+E spike rate= 1.37667
+I spike rate = 14.99
+
+SEE, SIE, SEI, SII | 7.10953 5.44895 -5.3141 -4.97781 | kickE, kickI 3000 3000
+E_spike, I_spike | 252 1215
+E spike rate= 0.84
+I spike rate = 12.15
+
+SEE, SIE, SEI, SII | 8.83136 5.1379 -5.34608 -3.87987 | kickE, kickI 3000 3000
+E_spike, I_spike | 49 1200
+E spike rate= 0.163333
+I spike rate = 12
+
+SEE, SIE, SEI, SII | 9.61791 10.1683 -4.39082 -5.76984 | kickE, kickI 3000 3000
+E_spike, I_spike | 486 1633
+E spike rate= 1.62
+I spike rate = 16.33
+
+SEE, SIE, SEI, SII | 5.50284 10.1443 -6.01582 -4.29972 | kickE, kickI 3000 3000
+E_spike, I_spike | 5 1106
+E spike rate= 0.0166667
+I spike rate = 11.06
+
+SEE, SIE, SEI, SII | 8.44903 9.29788 -5.93337 -5.46461 | kickE, kickI 3000 3000
+E_spike, I_spike | 104 1091
+E spike rate= 0.346667
+I spike rate = 10.91
+
+SEE, SIE, SEI, SII | 5.96011 7.17013 -4.29599 -5.53764 | kickE, kickI 3000 3000
+E_spike, I_spike | 535 1514
+E spike rate= 1.78333
+I spike rate = 15.14
+
+SEE, SIE, SEI, SII | 5.66768 9.98762 -5.94256 -4.47493 | kickE, kickI 3000 3000
+E_spike, I_spike | 14 1098
+E spike rate= 0.0466667
+I spike rate = 10.98
+
+SEE, SIE, SEI, SII | 7.23828 7.35704 -6.32948 -5.85046 | kickE, kickI 3000 3000
+E_spike, I_spike | 113 1008
+E spike rate= 0.376667
+I spike rate = 10.08
+
+SEE, SIE, SEI, SII | 7.3297 10.3158 -6.37935 -4.28833 | kickE, kickI 5000 5000
+E_spike, I_spike | 0 1811
+E spike rate= 0
+I spike rate = 18.11
+
+SEE, SIE, SEI, SII | 8.39724 7.00375 -5.73211 -5.64636 | kickE, kickI 5000 5000
+E_spike, I_spike | 374 1908
+E spike rate= 1.24667
+I spike rate = 19.08
+
+SEE, SIE, SEI, SII | 10.4443 6.88137 -6.00523 -5.42041 | kickE, kickI 5000 5000
+E_spike, I_spike | 232 1812
+E spike rate= 0.773333
+I spike rate = 18.12
+
+SEE, SIE, SEI, SII | 9.14809 8.01031 -4.54042 -5.58802 | kickE, kickI 5000 5000
+E_spike, I_spike | 961 2682
+E spike rate= 3.20333
+I spike rate = 26.82
+
+SEE, SIE, SEI, SII | 9.27608 9.79874 -6.15078 -5.12024 | kickE, kickI 5000 5000
+E_spike, I_spike | 62 1733
+E spike rate= 0.206667
+I spike rate = 17.33
+
+SEE, SIE, SEI, SII | 9.67071 5.80114 -3.58822 -5.29141 | kickE, kickI 5000 5000
+E_spike, I_spike | 8684 7564
+E spike rate= 28.9467
+I spike rate = 75.64
+
+SEE, SIE, SEI, SII | 6.10208 9.77654 -4.48345 -5.88474 | kickE, kickI 5000 5000
+E_spike, I_spike | 676 2421
+E spike rate= 2.25333
+I spike rate = 24.21
+
+SEE, SIE, SEI, SII | 6.67241 9.88515 -6.44371 -5.51554 | kickE, kickI 5000 5000
+E_spike, I_spike | 62 1647
+E spike rate= 0.206667
+I spike rate = 16.47
+
+SEE, SIE, SEI, SII | 9.70532 8.25316 -5.98704 -4.30216 | kickE, kickI 5000 5000
+E_spike, I_spike | 26 1846
+E spike rate= 0.0866667
+I spike rate = 18.46
+
+SEE, SIE, SEI, SII | 6.57106 9.13079 -5.60439 -4.2006 | kickE, kickI 5000 5000
+E_spike, I_spike | 45 1901
+E spike rate= 0.15
+I spike rate = 19.01
+
+SEE, SIE, SEI, SII | 5.57973 6.42759 -6.05651 -5.08369 | kickE, kickI 5000 5000
+E_spike, I_spike | 99 1733
+E spike rate= 0.33
+I spike rate = 17.33
+
+SEE, SIE, SEI, SII | 8.645 8.50745 -4.59889 -5.37577 | kickE, kickI 5000 5000
+E_spike, I_spike | 704 2474
+E spike rate= 2.34667
+I spike rate = 24.74
+
+SEE, SIE, SEI, SII | 7.10953 5.44895 -5.3141 -4.97781 | kickE, kickI 5000 5000
+E_spike, I_spike | 451 2049
+E spike rate= 1.50333
+I spike rate = 20.49
+
+SEE, SIE, SEI, SII | 8.83136 5.1379 -5.34608 -3.87987 | kickE, kickI 5000 5000
+E_spike, I_spike | 232 2094
+E spike rate= 0.773333
+I spike rate = 20.94
+
+SEE, SIE, SEI, SII | 9.61791 10.1683 -4.39082 -5.76984 | kickE, kickI 5000 5000
+E_spike, I_spike | 857 2761
+E spike rate= 2.85667
+I spike rate = 27.61
+
+SEE, SIE, SEI, SII | 5.50284 10.1443 -6.01582 -4.29972 | kickE, kickI 5000 5000
+E_spike, I_spike | 17 1838
+E spike rate= 0.0566667
+I spike rate = 18.38
+
+SEE, SIE, SEI, SII | 8.44903 9.29788 -5.93337 -5.46461 | kickE, kickI 5000 5000
+E_spike, I_spike | 151 1780
+E spike rate= 0.503333
+I spike rate = 17.8
+
+SEE, SIE, SEI, SII | 5.96011 7.17013 -4.29599 -5.53764 | kickE, kickI 5000 5000
+E_spike, I_spike | 974 2582
+E spike rate= 3.24667
+I spike rate = 25.82
+
+SEE, SIE, SEI, SII | 5.66768 9.98762 -5.94256 -4.47493 | kickE, kickI 5000 5000
+E_spike, I_spike | 18 1799
+E spike rate= 0.06
+I spike rate = 17.99
+
+SEE, SIE, SEI, SII | 7.23828 7.35704 -6.32948 -5.85046 | kickE, kickI 5000 5000
+E_spike, I_spike | 184 1686
+E spike rate= 0.613333
+I spike rate = 16.86
+
+Data generated at Sun Jun  2 10:40:30 2019
+
+
+SEE, SIE, SEI, SII | 3.2873 4.05527 -5.063 -5.40792 | kickE, kickI 1000 1000
+E_spike, I_spike | 140 392
+E spike rate= 0.466667
+I spike rate = 3.92
+
+SEE, SIE, SEI, SII | 2.29947 4.2759 -5.49364 -5.52231 | kickE, kickI 1000 1000
+E_spike, I_spike | 93 365
+E spike rate= 0.31
+I spike rate = 3.65
+
+SEE, SIE, SEI, SII | 6.53812 2.43789 -5.33987 -5.02833 | kickE, kickI 1000 1000
+E_spike, I_spike | 323 450
+E spike rate= 1.07667
+I spike rate = 4.5
+
+SEE, SIE, SEI, SII | 2.4142 7.91424 -5.26481 -5.23931 | kickE, kickI 1000 1000
+E_spike, I_spike | 51 391
+E spike rate= 0.17
+I spike rate = 3.91
+
+SEE, SIE, SEI, SII | 6.99357 3.43421 -5.70613 -5.63598 | kickE, kickI 1000 1000
+E_spike, I_spike | 155 389
+E spike rate= 0.516667
+I spike rate = 3.89
+
+SEE, SIE, SEI, SII | 3.82393 7.64883 -5.26408 -5.48975 | kickE, kickI 1000 1000
+E_spike, I_spike | 68 393
+E spike rate= 0.226667
+I spike rate = 3.93
+
+SEE, SIE, SEI, SII | 6.80564 2.27769 -5.60811 -5.70287 | kickE, kickI 1000 1000
+E_spike, I_spike | 378 438
+E spike rate= 1.26
+I spike rate = 4.38
+
+SEE, SIE, SEI, SII | 7.75998 2.04543 -5.93959 -5.29992 | kickE, kickI 1000 1000
+E_spike, I_spike | 212 392
+E spike rate= 0.706667
+I spike rate = 3.92
+
+SEE, SIE, SEI, SII | 4.79109 5.03067 -5.69534 -5.1214 | kickE, kickI 1000 1000
+E_spike, I_spike | 60 368
+E spike rate= 0.2
+I spike rate = 3.68
+
+SEE, SIE, SEI, SII | 5.56147 3.66664 -5.75305 -5.35691 | kickE, kickI 1000 1000
+E_spike, I_spike | 112 366
+E spike rate= 0.373333
+I spike rate = 3.66
+
+SEE, SIE, SEI, SII | 4.02796 7.09348 -5.94615 -5.88883 | kickE, kickI 1000 1000
+E_spike, I_spike | 61 349
+E spike rate= 0.203333
+I spike rate = 3.49
+
+SEE, SIE, SEI, SII | 6.29314 3.29489 -5.9902 -5.5963 | kickE, kickI 1000 1000
+E_spike, I_spike | 127 364
+E spike rate= 0.423333
+I spike rate = 3.64
+
+SEE, SIE, SEI, SII | 4.27431 6.90452 -5.41603 -5.09376 | kickE, kickI 1000 1000
+E_spike, I_spike | 56 380
+E spike rate= 0.186667
+I spike rate = 3.8
+
+SEE, SIE, SEI, SII | 4.40779 4.82915 -5.82566 -5.28308 | kickE, kickI 1000 1000
+E_spike, I_spike | 52 363
+E spike rate= 0.173333
+I spike rate = 3.63
+
+SEE, SIE, SEI, SII | 3.372 6.22764 -5.94736 -5.89977 | kickE, kickI 1000 1000
+E_spike, I_spike | 56 346
+E spike rate= 0.186667
+I spike rate = 3.46
+
+SEE, SIE, SEI, SII | 7.88615 6.21669 -5.69746 -5.29877 | kickE, kickI 1000 1000
+E_spike, I_spike | 57 375
+E spike rate= 0.19
+I spike rate = 3.75
+
+SEE, SIE, SEI, SII | 5.28185 5.36561 -5.59266 -5.50353 | kickE, kickI 1000 1000
+E_spike, I_spike | 92 376
+E spike rate= 0.306667
+I spike rate = 3.76
+
+SEE, SIE, SEI, SII | 7.38761 3.9278 -5.25477 -5.88526 | kickE, kickI 1000 1000
+E_spike, I_spike | 326 480
+E spike rate= 1.08667
+I spike rate = 4.8
+
+SEE, SIE, SEI, SII | 6.01189 7.05836 -5.41316 -5.31665 | kickE, kickI 1000 1000
+E_spike, I_spike | 56 381
+E spike rate= 0.186667
+I spike rate = 3.81
+
+SEE, SIE, SEI, SII | 4.83215 6.83884 -5.35628 -5.39525 | kickE, kickI 1000 1000
+E_spike, I_spike | 76 388
+E spike rate= 0.253333
+I spike rate = 3.88
+
+SEE, SIE, SEI, SII | 3.2873 4.05527 -5.063 -5.40792 | kickE, kickI 3000 3000
+E_spike, I_spike | 436 1210
+E spike rate= 1.45333
+I spike rate = 12.1
+
+SEE, SIE, SEI, SII | 2.29947 4.2759 -5.49364 -5.52231 | kickE, kickI 3000 3000
+E_spike, I_spike | 278 1115
+E spike rate= 0.926667
+I spike rate = 11.15
+
+SEE, SIE, SEI, SII | 6.53812 2.43789 -5.33987 -5.02833 | kickE, kickI 3000 3000
+E_spike, I_spike | 861 1335
+E spike rate= 2.87
+I spike rate = 13.35
+
+SEE, SIE, SEI, SII | 2.4142 7.91424 -5.26481 -5.23931 | kickE, kickI 3000 3000
+E_spike, I_spike | 157 1163
+E spike rate= 0.523333
+I spike rate = 11.63
+
+SEE, SIE, SEI, SII | 6.99357 3.43421 -5.70613 -5.63598 | kickE, kickI 3000 3000
+E_spike, I_spike | 647 1256
+E spike rate= 2.15667
+I spike rate = 12.56
+
+SEE, SIE, SEI, SII | 3.82393 7.64883 -5.26408 -5.48975 | kickE, kickI 3000 3000
+E_spike, I_spike | 209 1183
+E spike rate= 0.696667
+I spike rate = 11.83
+
+SEE, SIE, SEI, SII | 6.80564 2.27769 -5.60811 -5.70287 | kickE, kickI 3000 3000
+E_spike, I_spike | 1762 1508
+E spike rate= 5.87333
+I spike rate = 15.08
+
+SEE, SIE, SEI, SII | 7.75998 2.04543 -5.93959 -5.29992 | kickE, kickI 3000 3000
+E_spike, I_spike | 1490 1432
+E spike rate= 4.96667
+I spike rate = 14.32
+
+SEE, SIE, SEI, SII | 4.79109 5.03067 -5.69534 -5.1214 | kickE, kickI 3000 3000
+E_spike, I_spike | 157 1103
+E spike rate= 0.523333
+I spike rate = 11.03
+
+SEE, SIE, SEI, SII | 5.56147 3.66664 -5.75305 -5.35691 | kickE, kickI 3000 3000
+E_spike, I_spike | 269 1107
+E spike rate= 0.896667
+I spike rate = 11.07
+
+SEE, SIE, SEI, SII | 4.02796 7.09348 -5.94615 -5.88883 | kickE, kickI 3000 3000
+E_spike, I_spike | 160 1061
+E spike rate= 0.533333
+I spike rate = 10.61
+
+SEE, SIE, SEI, SII | 6.29314 3.29489 -5.9902 -5.5963 | kickE, kickI 3000 3000
+E_spike, I_spike | 329 1088
+E spike rate= 1.09667
+I spike rate = 10.88
+
+SEE, SIE, SEI, SII | 4.27431 6.90452 -5.41603 -5.09376 | kickE, kickI 3000 3000
+E_spike, I_spike | 162 1142
+E spike rate= 0.54
+I spike rate = 11.42
+
+SEE, SIE, SEI, SII | 4.40779 4.82915 -5.82566 -5.28308 | kickE, kickI 3000 3000
+E_spike, I_spike | 151 1079
+E spike rate= 0.503333
+I spike rate = 10.79
+
+SEE, SIE, SEI, SII | 3.372 6.22764 -5.94736 -5.89977 | kickE, kickI 3000 3000
+E_spike, I_spike | 158 1040
+E spike rate= 0.526667
+I spike rate = 10.4
+
+SEE, SIE, SEI, SII | 7.88615 6.21669 -5.69746 -5.29877 | kickE, kickI 3000 3000
+E_spike, I_spike | 175 1127
+E spike rate= 0.583333
+I spike rate = 11.27
+
+SEE, SIE, SEI, SII | 5.28185 5.36561 -5.59266 -5.50353 | kickE, kickI 3000 3000
+E_spike, I_spike | 247 1137
+E spike rate= 0.823333
+I spike rate = 11.37
+
+SEE, SIE, SEI, SII | 7.38761 3.9278 -5.25477 -5.88526 | kickE, kickI 3000 3000
+E_spike, I_spike | 876 1398
+E spike rate= 2.92
+I spike rate = 13.98
+
+SEE, SIE, SEI, SII | 6.01189 7.05836 -5.41316 -5.31665 | kickE, kickI 3000 3000
+E_spike, I_spike | 227 1196
+E spike rate= 0.756667
+I spike rate = 11.96
+
+SEE, SIE, SEI, SII | 4.83215 6.83884 -5.35628 -5.39525 | kickE, kickI 3000 3000
+E_spike, I_spike | 224 1175
+E spike rate= 0.746667
+I spike rate = 11.75
+
+SEE, SIE, SEI, SII | 3.2873 4.05527 -5.063 -5.40792 | kickE, kickI 5000 5000
+E_spike, I_spike | 742 2028
+E spike rate= 2.47333
+I spike rate = 20.28
+
+SEE, SIE, SEI, SII | 2.29947 4.2759 -5.49364 -5.52231 | kickE, kickI 5000 5000
+E_spike, I_spike | 454 1842
+E spike rate= 1.51333
+I spike rate = 18.42
+
+SEE, SIE, SEI, SII | 6.53812 2.43789 -5.33987 -5.02833 | kickE, kickI 5000 5000
+E_spike, I_spike | 1680 2286
+E spike rate= 5.6
+I spike rate = 22.86
+
+SEE, SIE, SEI, SII | 2.4142 7.91424 -5.26481 -5.23931 | kickE, kickI 5000 5000
+E_spike, I_spike | 277 1951
+E spike rate= 0.923333
+I spike rate = 19.51
+
+SEE, SIE, SEI, SII | 6.99357 3.43421 -5.70613 -5.63598 | kickE, kickI 5000 5000
+E_spike, I_spike | 936 2005
+E spike rate= 3.12
+I spike rate = 20.05
+
+SEE, SIE, SEI, SII | 3.82393 7.64883 -5.26408 -5.48975 | kickE, kickI 5000 5000
+E_spike, I_spike | 366 1964
+E spike rate= 1.22
+I spike rate = 19.64
+
+SEE, SIE, SEI, SII | 6.80564 2.27769 -5.60811 -5.70287 | kickE, kickI 5000 5000
+E_spike, I_spike | 3398 2627
+E spike rate= 11.3267
+I spike rate = 26.27
+
+SEE, SIE, SEI, SII | 7.75998 2.04543 -5.93959 -5.29992 | kickE, kickI 5000 5000
+E_spike, I_spike | 2369 2343
+E spike rate= 7.89667
+I spike rate = 23.43
+
+SEE, SIE, SEI, SII | 4.79109 5.03067 -5.69534 -5.1214 | kickE, kickI 5000 5000
+E_spike, I_spike | 300 1844
+E spike rate= 1
+I spike rate = 18.44
+
+SEE, SIE, SEI, SII | 5.56147 3.66664 -5.75305 -5.35691 | kickE, kickI 5000 5000
+E_spike, I_spike | 467 1846
+E spike rate= 1.55667
+I spike rate = 18.46
+
+SEE, SIE, SEI, SII | 4.02796 7.09348 -5.94615 -5.88883 | kickE, kickI 5000 5000
+E_spike, I_spike | 249 1738
+E spike rate= 0.83
+I spike rate = 17.38
+
+SEE, SIE, SEI, SII | 6.29314 3.29489 -5.9902 -5.5963 | kickE, kickI 5000 5000
+E_spike, I_spike | 537 1811
+E spike rate= 1.79
+I spike rate = 18.11
+
+SEE, SIE, SEI, SII | 4.27431 6.90452 -5.41603 -5.09376 | kickE, kickI 5000 5000
+E_spike, I_spike | 272 1926
+E spike rate= 0.906667
+I spike rate = 19.26
+
+SEE, SIE, SEI, SII | 4.40779 4.82915 -5.82566 -5.28308 | kickE, kickI 5000 5000
+E_spike, I_spike | 267 1788
+E spike rate= 0.89
+I spike rate = 17.88
+
+SEE, SIE, SEI, SII | 3.372 6.22764 -5.94736 -5.89977 | kickE, kickI 5000 5000
+E_spike, I_spike | 287 1732
+E spike rate= 0.956667
+I spike rate = 17.32
+
+SEE, SIE, SEI, SII | 7.88615 6.21669 -5.69746 -5.29877 | kickE, kickI 5000 5000
+E_spike, I_spike | 320 1902
+E spike rate= 1.06667
+I spike rate = 19.02
+
+SEE, SIE, SEI, SII | 5.28185 5.36561 -5.59266 -5.50353 | kickE, kickI 5000 5000
+E_spike, I_spike | 394 1872
+E spike rate= 1.31333
+I spike rate = 18.72
+
+SEE, SIE, SEI, SII | 7.38761 3.9278 -5.25477 -5.88526 | kickE, kickI 5000 5000
+E_spike, I_spike | 1662 2418
+E spike rate= 5.54
+I spike rate = 24.18
+
+SEE, SIE, SEI, SII | 6.01189 7.05836 -5.41316 -5.31665 | kickE, kickI 5000 5000
+E_spike, I_spike | 371 1975
+E spike rate= 1.23667
+I spike rate = 19.75
+
+SEE, SIE, SEI, SII | 4.83215 6.83884 -5.35628 -5.39525 | kickE, kickI 5000 5000
+E_spike, I_spike | 366 1954
+E spike rate= 1.22
+I spike rate = 19.54
+
+Data generated at Sun Jun  2 10:50:55 2019
+
+
+SEE, SIE, SEI, SII | 4.73697 4.57397 -5.13414 -5.42115 | kickE, kickI 1000 1000
+E_spike, I_spike | 152 411
+E spike rate= 0.506667
+I spike rate = 4.11
+
+SEE, SIE, SEI, SII | 2.07444 5.04433 -5.97653 -5.47744 | kickE, kickI 1000 1000
+E_spike, I_spike | 47 355
+E spike rate= 0.156667
+I spike rate = 3.55
+
+SEE, SIE, SEI, SII | 6.99414 6.39537 -5.83537 -5.43982 | kickE, kickI 1000 1000
+E_spike, I_spike | 59 367
+E spike rate= 0.196667
+I spike rate = 3.67
+
+SEE, SIE, SEI, SII | 6.85918 3.05978 -5.24755 -5.25336 | kickE, kickI 1000 1000
+E_spike, I_spike | 296 455
+E spike rate= 0.986667
+I spike rate = 4.55
+
+SEE, SIE, SEI, SII | 2.18095 6.56391 -5.97577 -5.43765 | kickE, kickI 1000 1000
+E_spike, I_spike | 31 350
+E spike rate= 0.103333
+I spike rate = 3.5
+
+SEE, SIE, SEI, SII | 2.3394 7.33395 -5.6964 -5.082 | kickE, kickI 1000 1000
+E_spike, I_spike | 39 365
+E spike rate= 0.13
+I spike rate = 3.65
+
+SEE, SIE, SEI, SII | 3.95534 4.56287 -5.65748 -5.27205 | kickE, kickI 1000 1000
+E_spike, I_spike | 46 359
+E spike rate= 0.153333
+I spike rate = 3.59
+
+SEE, SIE, SEI, SII | 6.64182 3.00042 -5.11497 -5.80218 | kickE, kickI 1000 1000
+E_spike, I_spike | 474 514
+E spike rate= 1.58
+I spike rate = 5.14
+
+SEE, SIE, SEI, SII | 2.15197 4.49359 -5.13165 -5.3996 | kickE, kickI 1000 1000
+E_spike, I_spike | 238 477
+E spike rate= 0.793333
+I spike rate = 4.77
+
+SEE, SIE, SEI, SII | 4.81286 3.57088 -5.81195 -5.63681 | kickE, kickI 1000 1000
+E_spike, I_spike | 111 362
+E spike rate= 0.37
+I spike rate = 3.62
+
+SEE, SIE, SEI, SII | 2.14461 7.61668 -5.73691 -5.99796 | kickE, kickI 1000 1000
+E_spike, I_spike | 56 359
+E spike rate= 0.186667
+I spike rate = 3.59
+
+SEE, SIE, SEI, SII | 7.70684 2.30042 -5.71133 -5.3895 | kickE, kickI 1000 1000
+E_spike, I_spike | 627 531
+E spike rate= 2.09
+I spike rate = 5.31
+
+SEE, SIE, SEI, SII | 4.27738 5.1941 -5.62707 -5.53641 | kickE, kickI 1000 1000
+E_spike, I_spike | 81 368
+E spike rate= 0.27
+I spike rate = 3.68
+
+SEE, SIE, SEI, SII | 6.29857 4.00876 -5.43772 -5.29881 | kickE, kickI 1000 1000
+E_spike, I_spike | 114 396
+E spike rate= 0.38
+I spike rate = 3.96
+
+SEE, SIE, SEI, SII | 2.13167 4.61047 -5.78987 -5.69374 | kickE, kickI 1000 1000
+E_spike, I_spike | 71 357
+E spike rate= 0.236667
+I spike rate = 3.57
+
+SEE, SIE, SEI, SII | 4.45359 5.37631 -5.20722 -5.89499 | kickE, kickI 1000 1000
+E_spike, I_spike | 134 405
+E spike rate= 0.446667
+I spike rate = 4.05
+
+SEE, SIE, SEI, SII | 3.83801 4.07991 -5.4183 -5.59447 | kickE, kickI 1000 1000
+E_spike, I_spike | 128 377
+E spike rate= 0.426667
+I spike rate = 3.77
+
+SEE, SIE, SEI, SII | 6.13777 3.99014 -5.40352 -5.15697 | kickE, kickI 1000 1000
+E_spike, I_spike | 126 396
+E spike rate= 0.42
+I spike rate = 3.96
+
+SEE, SIE, SEI, SII | 2.14685 7.64466 -5.26709 -5.11783 | kickE, kickI 1000 1000
+E_spike, I_spike | 124 469
+E spike rate= 0.413333
+I spike rate = 4.69
+
+SEE, SIE, SEI, SII | 7.22371 3.43991 -5.10091 -5.76763 | kickE, kickI 1000 1000
+E_spike, I_spike | 345 488
+E spike rate= 1.15
+I spike rate = 4.88
+
+SEE, SIE, SEI, SII | 4.73697 4.57397 -5.13414 -5.42115 | kickE, kickI 3000 3000
+E_spike, I_spike | 379 1225
+E spike rate= 1.26333
+I spike rate = 12.25
+
+SEE, SIE, SEI, SII | 2.07444 5.04433 -5.97653 -5.47744 | kickE, kickI 3000 3000
+E_spike, I_spike | 120 1030
+E spike rate= 0.4
+I spike rate = 10.3
+
+SEE, SIE, SEI, SII | 6.99414 6.39537 -5.83537 -5.43982 | kickE, kickI 3000 3000
+E_spike, I_spike | 149 1098
+E spike rate= 0.496667
+I spike rate = 10.98
+
+SEE, SIE, SEI, SII | 6.85918 3.05978 -5.24755 -5.25336 | kickE, kickI 3000 3000
+E_spike, I_spike | 811 1356
+E spike rate= 2.70333
+I spike rate = 13.56
+
+SEE, SIE, SEI, SII | 2.18095 6.56391 -5.97577 -5.43765 | kickE, kickI 3000 3000
+E_spike, I_spike | 115 1041
+E spike rate= 0.383333
+I spike rate = 10.41
+
+SEE, SIE, SEI, SII | 2.3394 7.33395 -5.6964 -5.082 | kickE, kickI 3000 3000
+E_spike, I_spike | 92 1095
+E spike rate= 0.306667
+I spike rate = 10.95
+
+SEE, SIE, SEI, SII | 3.95534 4.56287 -5.65748 -5.27205 | kickE, kickI 3000 3000
+E_spike, I_spike | 175 1091
+E spike rate= 0.583333
+I spike rate = 10.91
+
+SEE, SIE, SEI, SII | 6.64182 3.00042 -5.11497 -5.80218 | kickE, kickI 3000 3000
+E_spike, I_spike | 1545 1583
+E spike rate= 5.15
+I spike rate = 15.83
+
+SEE, SIE, SEI, SII | 2.15197 4.49359 -5.13165 -5.3996 | kickE, kickI 3000 3000
+E_spike, I_spike | 335 1182
+E spike rate= 1.11667
+I spike rate = 11.82
+
+SEE, SIE, SEI, SII | 4.81286 3.57088 -5.81195 -5.63681 | kickE, kickI 3000 3000
+E_spike, I_spike | 338 1087
+E spike rate= 1.12667
+I spike rate = 10.87
+
+SEE, SIE, SEI, SII | 2.14461 7.61668 -5.73691 -5.99796 | kickE, kickI 3000 3000
+E_spike, I_spike | 177 1078
+E spike rate= 0.59
+I spike rate = 10.78
+
+SEE, SIE, SEI, SII | 7.70684 2.30042 -5.71133 -5.3895 | kickE, kickI 3000 3000
+E_spike, I_spike | 1408 1454
+E spike rate= 4.69333
+I spike rate = 14.54
+
+SEE, SIE, SEI, SII | 4.27738 5.1941 -5.62707 -5.53641 | kickE, kickI 3000 3000
+E_spike, I_spike | 226 1099
+E spike rate= 0.753333
+I spike rate = 10.99
+
+SEE, SIE, SEI, SII | 6.29857 4.00876 -5.43772 -5.29881 | kickE, kickI 3000 3000
+E_spike, I_spike | 404 1205
+E spike rate= 1.34667
+I spike rate = 12.05
+
+SEE, SIE, SEI, SII | 2.13167 4.61047 -5.78987 -5.69374 | kickE, kickI 3000 3000
+E_spike, I_spike | 207 1049
+E spike rate= 0.69
+I spike rate = 10.49
+
+SEE, SIE, SEI, SII | 4.45359 5.37631 -5.20722 -5.89499 | kickE, kickI 3000 3000
+E_spike, I_spike | 422 1212
+E spike rate= 1.40667
+I spike rate = 12.12
+
+SEE, SIE, SEI, SII | 3.83801 4.07991 -5.4183 -5.59447 | kickE, kickI 3000 3000
+E_spike, I_spike | 365 1149
+E spike rate= 1.21667
+I spike rate = 11.49
+
+SEE, SIE, SEI, SII | 6.13777 3.99014 -5.40352 -5.15697 | kickE, kickI 3000 3000
+E_spike, I_spike | 345 1194
+E spike rate= 1.15
+I spike rate = 11.94
+
+SEE, SIE, SEI, SII | 2.14685 7.64466 -5.26709 -5.11783 | kickE, kickI 3000 3000
+E_spike, I_spike | 142 1157
+E spike rate= 0.473333
+I spike rate = 11.57
+
+SEE, SIE, SEI, SII | 7.22371 3.43991 -5.10091 -5.76763 | kickE, kickI 3000 3000
+E_spike, I_spike | 1295 1555
+E spike rate= 4.31667
+I spike rate = 15.55
+
+SEE, SIE, SEI, SII | 4.73697 4.57397 -5.13414 -5.42115 | kickE, kickI 5000 5000
+E_spike, I_spike | 731 2067
+E spike rate= 2.43667
+I spike rate = 20.67
+
+SEE, SIE, SEI, SII | 2.07444 5.04433 -5.97653 -5.47744 | kickE, kickI 5000 5000
+E_spike, I_spike | 207 1717
+E spike rate= 0.69
+I spike rate = 17.17
+
+SEE, SIE, SEI, SII | 6.99414 6.39537 -5.83537 -5.43982 | kickE, kickI 5000 5000
+E_spike, I_spike | 282 1837
+E spike rate= 0.94
+I spike rate = 18.37
+
+SEE, SIE, SEI, SII | 6.85918 3.05978 -5.24755 -5.25336 | kickE, kickI 5000 5000
+E_spike, I_spike | 1483 2303
+E spike rate= 4.94333
+I spike rate = 23.03
+
+SEE, SIE, SEI, SII | 2.18095 6.56391 -5.97577 -5.43765 | kickE, kickI 5000 5000
+E_spike, I_spike | 160 1735
+E spike rate= 0.533333
+I spike rate = 17.35
+
+SEE, SIE, SEI, SII | 2.3394 7.33395 -5.6964 -5.082 | kickE, kickI 5000 5000
+E_spike, I_spike | 145 1802
+E spike rate= 0.483333
+I spike rate = 18.02
+
+SEE, SIE, SEI, SII | 3.95534 4.56287 -5.65748 -5.27205 | kickE, kickI 5000 5000
+E_spike, I_spike | 338 1827
+E spike rate= 1.12667
+I spike rate = 18.27
+
+SEE, SIE, SEI, SII | 6.64182 3.00042 -5.11497 -5.80218 | kickE, kickI 5000 5000
+E_spike, I_spike | 2645 2635
+E spike rate= 8.81667
+I spike rate = 26.35
+
+SEE, SIE, SEI, SII | 2.15197 4.49359 -5.13165 -5.3996 | kickE, kickI 5000 5000
+E_spike, I_spike | 575 1970
+E spike rate= 1.91667
+I spike rate = 19.7
+
+SEE, SIE, SEI, SII | 4.81286 3.57088 -5.81195 -5.63681 | kickE, kickI 5000 5000
+E_spike, I_spike | 512 1803
+E spike rate= 1.70667
+I spike rate = 18.03
+
+SEE, SIE, SEI, SII | 2.14461 7.61668 -5.73691 -5.99796 | kickE, kickI 5000 5000
+E_spike, I_spike | 296 1785
+E spike rate= 0.986667
+I spike rate = 17.85
+
+SEE, SIE, SEI, SII | 7.70684 2.30042 -5.71133 -5.3895 | kickE, kickI 5000 5000
+E_spike, I_spike | 2861 2564
+E spike rate= 9.53667
+I spike rate = 25.64
+
+SEE, SIE, SEI, SII | 4.27738 5.1941 -5.62707 -5.53641 | kickE, kickI 5000 5000
+E_spike, I_spike | 401 1862
+E spike rate= 1.33667
+I spike rate = 18.62
+
+SEE, SIE, SEI, SII | 6.29857 4.00876 -5.43772 -5.29881 | kickE, kickI 5000 5000
+E_spike, I_spike | 696 2019
+E spike rate= 2.32
+I spike rate = 20.19
+
+SEE, SIE, SEI, SII | 2.13167 4.61047 -5.78987 -5.69374 | kickE, kickI 5000 5000
+E_spike, I_spike | 358 1747
+E spike rate= 1.19333
+I spike rate = 17.47
+
+SEE, SIE, SEI, SII | 4.45359 5.37631 -5.20722 -5.89499 | kickE, kickI 5000 5000
+E_spike, I_spike | 700 2031
+E spike rate= 2.33333
+I spike rate = 20.31
+
+SEE, SIE, SEI, SII | 3.83801 4.07991 -5.4183 -5.59447 | kickE, kickI 5000 5000
+E_spike, I_spike | 614 1919
+E spike rate= 2.04667
+I spike rate = 19.19
+
+SEE, SIE, SEI, SII | 6.13777 3.99014 -5.40352 -5.15697 | kickE, kickI 5000 5000
+E_spike, I_spike | 646 2012
+E spike rate= 2.15333
+I spike rate = 20.12
+
+SEE, SIE, SEI, SII | 2.14685 7.64466 -5.26709 -5.11783 | kickE, kickI 5000 5000
+E_spike, I_spike | 263 1942
+E spike rate= 0.876667
+I spike rate = 19.42
+
+SEE, SIE, SEI, SII | 7.22371 3.43991 -5.10091 -5.76763 | kickE, kickI 5000 5000
+E_spike, I_spike | 2299 2646
+E spike rate= 7.66333
+I spike rate = 26.46
+
+Data generated at Sun Jun  2 10:51:16 2019
+
+
+SEE, SIE, SEI, SII | 6.48975 7.97264 -5.11009 -5.92391 | kickE, kickI 1000 1000
+E_spike, I_spike | 114 423
+E spike rate= 0.38
+I spike rate = 4.23
+
+SEE, SIE, SEI, SII | 5.45922 7.51569 -5.93878 -5.16722 | kickE, kickI 1000 1000
+E_spike, I_spike | 29 361
+E spike rate= 0.0966667
+I spike rate = 3.61
+
+SEE, SIE, SEI, SII | 5.86364 4.3867 -5.71495 -5.21489 | kickE, kickI 1000 1000
+E_spike, I_spike | 141 424
+E spike rate= 0.47
+I spike rate = 4.24
+
+SEE, SIE, SEI, SII | 2.70288 2.78142 -5.04336 -5.46118 | kickE, kickI 1000 1000
+E_spike, I_spike | 197 392
+E spike rate= 0.656667
+I spike rate = 3.92
+
+SEE, SIE, SEI, SII | 3.86103 5.38277 -5.58788 -5.51533 | kickE, kickI 1000 1000
+E_spike, I_spike | 89 379
+E spike rate= 0.296667
+I spike rate = 3.79
+
+SEE, SIE, SEI, SII | 7.24204 5.89636 -5.03977 -5.92739 | kickE, kickI 1000 1000
+E_spike, I_spike | 164 444
+E spike rate= 0.546667
+I spike rate = 4.44
+
+SEE, SIE, SEI, SII | 7.93542 4.5242 -5.49516 -5.65832 | kickE, kickI 1000 1000
+E_spike, I_spike | 177 420
+E spike rate= 0.59
+I spike rate = 4.2
+
+SEE, SIE, SEI, SII | 6.78794 3.95346 -5.25585 -5.53743 | kickE, kickI 1000 1000
+E_spike, I_spike | 181 435
+E spike rate= 0.603333
+I spike rate = 4.35
+
+SEE, SIE, SEI, SII | 2.13397 6.20698 -5.66244 -5.8056 | kickE, kickI 1000 1000
+E_spike, I_spike | 75 355
+E spike rate= 0.25
+I spike rate = 3.55
+
+SEE, SIE, SEI, SII | 2.17518 4.85909 -5.11166 -5.96895 | kickE, kickI 1000 1000
+E_spike, I_spike | 147 388
+E spike rate= 0.49
+I spike rate = 3.88
+
+SEE, SIE, SEI, SII | 4.90511 3.82525 -5.33352 -5.19456 | kickE, kickI 1000 1000
+E_spike, I_spike | 132 394
+E spike rate= 0.44
+I spike rate = 3.94
+
+SEE, SIE, SEI, SII | 7.4662 4.32709 -5.40212 -5.79937 | kickE, kickI 1000 1000
+E_spike, I_spike | 180 420
+E spike rate= 0.6
+I spike rate = 4.2
+
+SEE, SIE, SEI, SII | 2.46157 4.63548 -5.88578 -5.58204 | kickE, kickI 1000 1000
+E_spike, I_spike | 66 350
+E spike rate= 0.22
+I spike rate = 3.5
+
+SEE, SIE, SEI, SII | 2.49196 4.31517 -5.18221 -5.85389 | kickE, kickI 1000 1000
+E_spike, I_spike | 138 386
+E spike rate= 0.46
+I spike rate = 3.86
+
+SEE, SIE, SEI, SII | 6.03698 7.62533 -5.4663 -5.44722 | kickE, kickI 1000 1000
+E_spike, I_spike | 66 385
+E spike rate= 0.22
+I spike rate = 3.85
+
+SEE, SIE, SEI, SII | 3.98828 6.04226 -5.37729 -5.42488 | kickE, kickI 1000 1000
+E_spike, I_spike | 74 387
+E spike rate= 0.246667
+I spike rate = 3.87
+
+SEE, SIE, SEI, SII | 7.92832 7.61958 -5.0238 -5.04415 | kickE, kickI 1000 1000
+E_spike, I_spike | 217 541
+E spike rate= 0.723333
+I spike rate = 5.41
+
+SEE, SIE, SEI, SII | 5.72122 3.56194 -5.81029 -5.6629 | kickE, kickI 1000 1000
+E_spike, I_spike | 136 369
+E spike rate= 0.453333
+I spike rate = 3.69
+
+SEE, SIE, SEI, SII | 2.99925 6.87182 -5.2592 -5.09111 | kickE, kickI 1000 1000
+E_spike, I_spike | 59 396
+E spike rate= 0.196667
+I spike rate = 3.96
+
+SEE, SIE, SEI, SII | 2.59175 5.50672 -5.90373 -5.62242 | kickE, kickI 1000 1000
+E_spike, I_spike | 60 351
+E spike rate= 0.2
+I spike rate = 3.51
+
+SEE, SIE, SEI, SII | 6.48975 7.97264 -5.11009 -5.92391 | kickE, kickI 3000 3000
+E_spike, I_spike | 335 1266
+E spike rate= 1.11667
+I spike rate = 12.66
+
+SEE, SIE, SEI, SII | 5.45922 7.51569 -5.93878 -5.16722 | kickE, kickI 3000 3000
+E_spike, I_spike | 80 1078
+E spike rate= 0.266667
+I spike rate = 10.78
+
+SEE, SIE, SEI, SII | 5.86364 4.3867 -5.71495 -5.21489 | kickE, kickI 3000 3000
+E_spike, I_spike | 181 1108
+E spike rate= 0.603333
+I spike rate = 11.08
+
+SEE, SIE, SEI, SII | 2.70288 2.78142 -5.04336 -5.46118 | kickE, kickI 3000 3000
+E_spike, I_spike | 643 1203
+E spike rate= 2.14333
+I spike rate = 12.03
+
+SEE, SIE, SEI, SII | 3.86103 5.38277 -5.58788 -5.51533 | kickE, kickI 3000 3000
+E_spike, I_spike | 221 1106
+E spike rate= 0.736667
+I spike rate = 11.06
+
+SEE, SIE, SEI, SII | 7.24204 5.89636 -5.03977 -5.92739 | kickE, kickI 3000 3000
+E_spike, I_spike | 544 1357
+E spike rate= 1.81333
+I spike rate = 13.57
+
+SEE, SIE, SEI, SII | 7.93542 4.5242 -5.49516 -5.65832 | kickE, kickI 3000 3000
+E_spike, I_spike | 492 1247
+E spike rate= 1.64
+I spike rate = 12.47
+
+SEE, SIE, SEI, SII | 6.78794 3.95346 -5.25585 -5.53743 | kickE, kickI 3000 3000
+E_spike, I_spike | 657 1314
+E spike rate= 2.19
+I spike rate = 13.14
+
+SEE, SIE, SEI, SII | 2.13397 6.20698 -5.66244 -5.8056 | kickE, kickI 3000 3000
+E_spike, I_spike | 208 1086
+E spike rate= 0.693333
+I spike rate = 10.86
+
+SEE, SIE, SEI, SII | 2.17518 4.85909 -5.11166 -5.96895 | kickE, kickI 3000 3000
+E_spike, I_spike | 407 1172
+E spike rate= 1.35667
+I spike rate = 11.72
+
+SEE, SIE, SEI, SII | 4.90511 3.82525 -5.33352 -5.19456 | kickE, kickI 3000 3000
+E_spike, I_spike | 369 1193
+E spike rate= 1.23
+I spike rate = 11.93
+
+SEE, SIE, SEI, SII | 7.4662 4.32709 -5.40212 -5.79937 | kickE, kickI 3000 3000
+E_spike, I_spike | 629 1305
+E spike rate= 2.09667
+I spike rate = 13.05
+
+SEE, SIE, SEI, SII | 2.46157 4.63548 -5.88578 -5.58204 | kickE, kickI 3000 3000
+E_spike, I_spike | 164 1040
+E spike rate= 0.546667
+I spike rate = 10.4
+
+SEE, SIE, SEI, SII | 2.49196 4.31517 -5.18221 -5.85389 | kickE, kickI 3000 3000
+E_spike, I_spike | 433 1173
+E spike rate= 1.44333
+I spike rate = 11.73
+
+SEE, SIE, SEI, SII | 6.03698 7.62533 -5.4663 -5.44722 | kickE, kickI 3000 3000
+E_spike, I_spike | 211 1189
+E spike rate= 0.703333
+I spike rate = 11.89
+
+SEE, SIE, SEI, SII | 3.98828 6.04226 -5.37729 -5.42488 | kickE, kickI 3000 3000
+E_spike, I_spike | 231 1161
+E spike rate= 0.77
+I spike rate = 11.61
+
+SEE, SIE, SEI, SII | 7.92832 7.61958 -5.0238 -5.04415 | kickE, kickI 3000 3000
+E_spike, I_spike | 259 1305
+E spike rate= 0.863333
+I spike rate = 13.05
+
+SEE, SIE, SEI, SII | 5.72122 3.56194 -5.81029 -5.6629 | kickE, kickI 3000 3000
+E_spike, I_spike | 328 1103
+E spike rate= 1.09333
+I spike rate = 11.03
+
+SEE, SIE, SEI, SII | 2.99925 6.87182 -5.2592 -5.09111 | kickE, kickI 3000 3000
+E_spike, I_spike | 166 1171
+E spike rate= 0.553333
+I spike rate = 11.71
+
+SEE, SIE, SEI, SII | 2.59175 5.50672 -5.90373 -5.62242 | kickE, kickI 3000 3000
+E_spike, I_spike | 160 1044
+E spike rate= 0.533333
+I spike rate = 10.44
+
+SEE, SIE, SEI, SII | 6.48975 7.97264 -5.11009 -5.92391 | kickE, kickI 5000 5000
+E_spike, I_spike | 557 2112
+E spike rate= 1.85667
+I spike rate = 21.12
+
+SEE, SIE, SEI, SII | 5.45922 7.51569 -5.93878 -5.16722 | kickE, kickI 5000 5000
+E_spike, I_spike | 135 1786
+E spike rate= 0.45
+I spike rate = 17.86
+
+SEE, SIE, SEI, SII | 5.86364 4.3867 -5.71495 -5.21489 | kickE, kickI 5000 5000
+E_spike, I_spike | 393 1857
+E spike rate= 1.31
+I spike rate = 18.57
+
+SEE, SIE, SEI, SII | 2.70288 2.78142 -5.04336 -5.46118 | kickE, kickI 5000 5000
+E_spike, I_spike | 1099 2019
+E spike rate= 3.66333
+I spike rate = 20.19
+
+SEE, SIE, SEI, SII | 3.86103 5.38277 -5.58788 -5.51533 | kickE, kickI 5000 5000
+E_spike, I_spike | 374 1852
+E spike rate= 1.24667
+I spike rate = 18.52
+
+SEE, SIE, SEI, SII | 7.24204 5.89636 -5.03977 -5.92739 | kickE, kickI 5000 5000
+E_spike, I_spike | 997 2308
+E spike rate= 3.32333
+I spike rate = 23.08
+
+SEE, SIE, SEI, SII | 7.93542 4.5242 -5.49516 -5.65832 | kickE, kickI 5000 5000
+E_spike, I_spike | 960 2151
+E spike rate= 3.2
+I spike rate = 21.51
+
+SEE, SIE, SEI, SII | 6.78794 3.95346 -5.25585 -5.53743 | kickE, kickI 5000 5000
+E_spike, I_spike | 1185 2232
+E spike rate= 3.95
+I spike rate = 22.32
+
+SEE, SIE, SEI, SII | 2.13397 6.20698 -5.66244 -5.8056 | kickE, kickI 5000 5000
+E_spike, I_spike | 325 1794
+E spike rate= 1.08333
+I spike rate = 17.94
+
+SEE, SIE, SEI, SII | 2.17518 4.85909 -5.11166 -5.96895 | kickE, kickI 5000 5000
+E_spike, I_spike | 714 1970
+E spike rate= 2.38
+I spike rate = 19.7
+
+SEE, SIE, SEI, SII | 4.90511 3.82525 -5.33352 -5.19456 | kickE, kickI 5000 5000
+E_spike, I_spike | 606 1970
+E spike rate= 2.02
+I spike rate = 19.7
+
+SEE, SIE, SEI, SII | 7.4662 4.32709 -5.40212 -5.79937 | kickE, kickI 5000 5000
+E_spike, I_spike | 1068 2171
+E spike rate= 3.56
+I spike rate = 21.71
+
+SEE, SIE, SEI, SII | 2.46157 4.63548 -5.88578 -5.58204 | kickE, kickI 5000 5000
+E_spike, I_spike | 302 1736
+E spike rate= 1.00667
+I spike rate = 17.36
+
+SEE, SIE, SEI, SII | 2.49196 4.31517 -5.18221 -5.85389 | kickE, kickI 5000 5000
+E_spike, I_spike | 749 1954
+E spike rate= 2.49667
+I spike rate = 19.54
+
+SEE, SIE, SEI, SII | 6.03698 7.62533 -5.4663 -5.44722 | kickE, kickI 5000 5000
+E_spike, I_spike | 319 1934
+E spike rate= 1.06333
+I spike rate = 19.34
+
+SEE, SIE, SEI, SII | 3.98828 6.04226 -5.37729 -5.42488 | kickE, kickI 5000 5000
+E_spike, I_spike | 399 1928
+E spike rate= 1.33
+I spike rate = 19.28
+
+SEE, SIE, SEI, SII | 7.92832 7.61958 -5.0238 -5.04415 | kickE, kickI 5000 5000
+E_spike, I_spike | 425 2154
+E spike rate= 1.41667
+I spike rate = 21.54
+
+SEE, SIE, SEI, SII | 5.72122 3.56194 -5.81029 -5.6629 | kickE, kickI 5000 5000
+E_spike, I_spike | 627 1851
+E spike rate= 2.09
+I spike rate = 18.51
+
+SEE, SIE, SEI, SII | 2.99925 6.87182 -5.2592 -5.09111 | kickE, kickI 5000 5000
+E_spike, I_spike | 300 1957
+E spike rate= 1
+I spike rate = 19.57
+
+SEE, SIE, SEI, SII | 2.59175 5.50672 -5.90373 -5.62242 | kickE, kickI 5000 5000
+E_spike, I_spike | 256 1736
+E spike rate= 0.853333
+I spike rate = 17.36
+
+Data generated at Sun Jun  2 11:39:29 2019
+
+
+SEE, SIE, SEI, SII | 5.19255 4.8374 -3.75943 -2.39013 | kickE, kickI 1000 1000
+E_spike, I_spike | 51 552
+E spike rate= 0.17
+I spike rate = 5.52
+
+SEE, SIE, SEI, SII | 3.15765 4.05803 -1.71717 -4.98184 | kickE, kickI 1000 1000
+E_spike, I_spike | 1398 1270
+E spike rate= 4.66
+I spike rate = 12.7
+
+SEE, SIE, SEI, SII | 2.8968 5.2297 -2.40373 -3.3416 | kickE, kickI 1000 1000
+E_spike, I_spike | 375 834
+E spike rate= 1.25
+I spike rate = 8.34
+
+SEE, SIE, SEI, SII | 4.85056 5.3288 -3.1753 -4.09227 | kickE, kickI 1000 1000
+E_spike, I_spike | 298 661
+E spike rate= 0.993333
+I spike rate = 6.61
+
+SEE, SIE, SEI, SII | 5.13416 4.96173 -2.54318 -2.94408 | kickE, kickI 1000 1000
+E_spike, I_spike | 433 941
+E spike rate= 1.44333
+I spike rate = 9.41
+
+SEE, SIE, SEI, SII | 5.91276 5.75795 -4.67869 -3.24774 | kickE, kickI 1000 1000
+E_spike, I_spike | 27 449
+E spike rate= 0.09
+I spike rate = 4.49
+
+SEE, SIE, SEI, SII | 2.66142 4.7531 -3.52857 -3.69968 | kickE, kickI 1000 1000
+E_spike, I_spike | 180 577
+E spike rate= 0.6
+I spike rate = 5.77
+
+SEE, SIE, SEI, SII | 4.35864 4.91539 -2.82591 -4.67042 | kickE, kickI 1000 1000
+E_spike, I_spike | 567 828
+E spike rate= 1.89
+I spike rate = 8.28
+
+SEE, SIE, SEI, SII | 2.7613 2.9507 -4.4087 -4.4859 | kickE, kickI 1000 1000
+E_spike, I_spike | 221 472
+E spike rate= 0.736667
+I spike rate = 4.72
+
+SEE, SIE, SEI, SII | 2.14381 4.48714 -4.36764 -1.45219 | kickE, kickI 1000 1000
+E_spike, I_spike | 24 636
+E spike rate= 0.08
+I spike rate = 6.36
+
+SEE, SIE, SEI, SII | 5.29825 4.95628 -2.42093 -4.26991 | kickE, kickI 1000 1000
+E_spike, I_spike | 864 1120
+E spike rate= 2.88
+I spike rate = 11.2
+
+SEE, SIE, SEI, SII | 3.95291 2.21006 -2.00151 -4.81476 | kickE, kickI 1000 1000
+E_spike, I_spike | 4529 1999
+E spike rate= 15.0967
+I spike rate = 19.99
+
+SEE, SIE, SEI, SII | 2.82337 4.28699 -2.20238 -3.56833 | kickE, kickI 1000 1000
+E_spike, I_spike | 642 965
+E spike rate= 2.14
+I spike rate = 9.65
+
+SEE, SIE, SEI, SII | 3.0473 2.82026 -4.95471 -3.26409 | kickE, kickI 1000 1000
+E_spike, I_spike | 52 449
+E spike rate= 0.173333
+I spike rate = 4.49
+
+SEE, SIE, SEI, SII | 3.11644 2.05453 -2.0627 -3.21556 | kickE, kickI 1000 1000
+E_spike, I_spike | 1464 1075
+E spike rate= 4.88
+I spike rate = 10.75
+
+SEE, SIE, SEI, SII | 2.7351 5.26505 -3.14586 -4.28468 | kickE, kickI 1000 1000
+E_spike, I_spike | 313 664
+E spike rate= 1.04333
+I spike rate = 6.64
+
+SEE, SIE, SEI, SII | 3.15012 4.15816 -1.05855 -2.53002 | kickE, kickI 1000 1000
+E_spike, I_spike | 1738 2166
+E spike rate= 5.79333
+I spike rate = 21.66
+
+SEE, SIE, SEI, SII | 5.23254 5.66653 -2.32068 -4.54896 | kickE, kickI 1000 1000
+E_spike, I_spike | 804 1140
+E spike rate= 2.68
+I spike rate = 11.4
+
+SEE, SIE, SEI, SII | 5.84417 5.71553 -1.09993 -3.22285 | kickE, kickI 1000 1000
+E_spike, I_spike | 7164 4308
+E spike rate= 23.88
+I spike rate = 43.08
+
+SEE, SIE, SEI, SII | 5.72657 5.51698 -1.23096 -4.40302 | kickE, kickI 1000 1000
+E_spike, I_spike | 6558 3601
+E spike rate= 21.86
+I spike rate = 36.01
+
+SEE, SIE, SEI, SII | 4.30457 5.60406 -3.86513 -3.29827 | kickE, kickI 1000 1000
+E_spike, I_spike | 103 551
+E spike rate= 0.343333
+I spike rate = 5.51
+
+SEE, SIE, SEI, SII | 3.2321 5.42396 -4.81395 -2.09021 | kickE, kickI 1000 1000
+E_spike, I_spike | 10 556
+E spike rate= 0.0333333
+I spike rate = 5.56
+
+SEE, SIE, SEI, SII | 5.97077 5.24778 -3.1924 -2.08328 | kickE, kickI 1000 1000
+E_spike, I_spike | 66 607
+E spike rate= 0.22
+I spike rate = 6.07
+
+SEE, SIE, SEI, SII | 5.30157 2.78558 -1.55346 -3.87235 | kickE, kickI 1000 1000
+E_spike, I_spike | 9728 3997
+E spike rate= 32.4267
+I spike rate = 39.97
+
+SEE, SIE, SEI, SII | 4.95478 4.01977 -4.71302 -1.77868 | kickE, kickI 1000 1000
+E_spike, I_spike | 1 579
+E spike rate= 0.00333333
+I spike rate = 5.79
+
+SEE, SIE, SEI, SII | 4.29419 5.22256 -1.69014 -1.86115 | kickE, kickI 1000 1000
+E_spike, I_spike | 602 1407
+E spike rate= 2.00667
+I spike rate = 14.07
+
+SEE, SIE, SEI, SII | 4.7516 4.10203 -4.36822 -2.92076 | kickE, kickI 1000 1000
+E_spike, I_spike | 54 504
+E spike rate= 0.18
+I spike rate = 5.04
+
+SEE, SIE, SEI, SII | 2.71177 5.64413 -4.34114 -4.0349 | kickE, kickI 1000 1000
+E_spike, I_spike | 76 464
+E spike rate= 0.253333
+I spike rate = 4.64
+
+SEE, SIE, SEI, SII | 5.45581 2.12397 -2.84307 -3.14953 | kickE, kickI 1000 1000
+E_spike, I_spike | 2323 1470
+E spike rate= 7.74333
+I spike rate = 14.7
+
+SEE, SIE, SEI, SII | 5.06479 3.82105 -1.20094 -3.49162 | kickE, kickI 1000 1000
+E_spike, I_spike | 7919 4032
+E spike rate= 26.3967
+I spike rate = 40.32
+
+SEE, SIE, SEI, SII | 2.1692 5.3127 -4.5742 -1.50208 | kickE, kickI 1000 1000
+E_spike, I_spike | 7 624
+E spike rate= 0.0233333
+I spike rate = 6.24
+
+SEE, SIE, SEI, SII | 2.36262 4.26708 -2.09415 -3.97973 | kickE, kickI 1000 1000
+E_spike, I_spike | 735 974
+E spike rate= 2.45
+I spike rate = 9.74
+
+SEE, SIE, SEI, SII | 5.9685 4.76309 -1.19368 -2.09669 | kickE, kickI 1000 1000
+E_spike, I_spike | 6229 3774
+E spike rate= 20.7633
+I spike rate = 37.74
+
+SEE, SIE, SEI, SII | 3.38575 2.717 -3.49284 -1.71011 | kickE, kickI 1000 1000
+E_spike, I_spike | 39 621
+E spike rate= 0.13
+I spike rate = 6.21
+
+SEE, SIE, SEI, SII | 5.90896 3.98948 -2.72585 -3.42381 | kickE, kickI 1000 1000
+E_spike, I_spike | 735 1023
+E spike rate= 2.45
+I spike rate = 10.23
+
+SEE, SIE, SEI, SII | 2.95162 2.00282 -3.58347 -1.45802 | kickE, kickI 1000 1000
+E_spike, I_spike | 30 632
+E spike rate= 0.1
+I spike rate = 6.32
+
+SEE, SIE, SEI, SII | 4.05126 3.01597 -3.00319 -4.66448 | kickE, kickI 1000 1000
+E_spike, I_spike | 938 836
+E spike rate= 3.12667
+I spike rate = 8.36
+
+SEE, SIE, SEI, SII | 2.8944 4.64 -4.01517 -2.36438 | kickE, kickI 1000 1000
+E_spike, I_spike | 9 520
+E spike rate= 0.03
+I spike rate = 5.2
+
+SEE, SIE, SEI, SII | 5.869 4.55819 -3.49557 -1.09003 | kickE, kickI 1000 1000
+E_spike, I_spike | 8 693
+E spike rate= 0.0266667
+I spike rate = 6.93
+
+SEE, SIE, SEI, SII | 2.6738 4.52706 -2.70248 -2.76137 | kickE, kickI 1000 1000
+E_spike, I_spike | 292 765
+E spike rate= 0.973333
+I spike rate = 7.65
+
+SEE, SIE, SEI, SII | 3.4712 2.39227 -1.39387 -2.587 | kickE, kickI 1000 1000
+E_spike, I_spike | 3093 2186
+E spike rate= 10.31
+I spike rate = 21.86
+
+SEE, SIE, SEI, SII | 3.44139 3.06698 -2.44914 -4.14597 | kickE, kickI 1000 1000
+E_spike, I_spike | 923 902
+E spike rate= 3.07667
+I spike rate = 9.02
+
+SEE, SIE, SEI, SII | 5.34386 5.96674 -1.10328 -1.23316 | kickE, kickI 1000 1000
+E_spike, I_spike | 1380 2976
+E spike rate= 4.6
+I spike rate = 29.76
+
+SEE, SIE, SEI, SII | 2.72696 5.2332 -2.80549 -2.00232 | kickE, kickI 1000 1000
+E_spike, I_spike | 134 741
+E spike rate= 0.446667
+I spike rate = 7.41
+
+SEE, SIE, SEI, SII | 3.93088 2.99777 -4.91061 -4.44044 | kickE, kickI 1000 1000
+E_spike, I_spike | 132 432
+E spike rate= 0.44
+I spike rate = 4.32
+
+SEE, SIE, SEI, SII | 5.97034 2.71538 -2.85834 -2.18854 | kickE, kickI 1000 1000
+E_spike, I_spike | 584 934
+E spike rate= 1.94667
+I spike rate = 9.34
+
+SEE, SIE, SEI, SII | 5.24124 5.9166 -2.74896 -1.09993 | kickE, kickI 1000 1000
+E_spike, I_spike | 50 780
+E spike rate= 0.166667
+I spike rate = 7.8
+
+SEE, SIE, SEI, SII | 4.75103 3.58706 -1.06901 -1.7975 | kickE, kickI 1000 1000
+E_spike, I_spike | 5996 4097
+E spike rate= 19.9867
+I spike rate = 40.97
+
+SEE, SIE, SEI, SII | 3.87836 3.6888 -2.85447 -3.16315 | kickE, kickI 1000 1000
+E_spike, I_spike | 413 767
+E spike rate= 1.37667
+I spike rate = 7.67
+
+SEE, SIE, SEI, SII | 3.68264 3.11707 -3.49888 -4.00146 | kickE, kickI 1000 1000
+E_spike, I_spike | 398 629
+E spike rate= 1.32667
+I spike rate = 6.29
+
+SEE, SIE, SEI, SII | 4.68746 2.41898 -4.66399 -2.65706 | kickE, kickI 1000 1000
+E_spike, I_spike | 5 479
+E spike rate= 0.0166667
+I spike rate = 4.79
+
+SEE, SIE, SEI, SII | 2.41157 4.03719 -2.36919 -3.64373 | kickE, kickI 1000 1000
+E_spike, I_spike | 581 866
+E spike rate= 1.93667
+I spike rate = 8.66
+
+SEE, SIE, SEI, SII | 5.90222 2.69689 -4.5201 -2.85204 | kickE, kickI 1000 1000
+E_spike, I_spike | 46 492
+E spike rate= 0.153333
+I spike rate = 4.92
+
+SEE, SIE, SEI, SII | 2.77013 3.51984 -2.40942 -3.64535 | kickE, kickI 1000 1000
+E_spike, I_spike | 661 873
+E spike rate= 2.20333
+I spike rate = 8.73
+
+SEE, SIE, SEI, SII | 4.03143 3.84269 -1.85097 -3.56175 | kickE, kickI 1000 1000
+E_spike, I_spike | 1405 1481
+E spike rate= 4.68333
+I spike rate = 14.81
+
+SEE, SIE, SEI, SII | 4.49407 3.653 -4.13242 -4.81685 | kickE, kickI 1000 1000
+E_spike, I_spike | 277 520
+E spike rate= 0.923333
+I spike rate = 5.2
+
+SEE, SIE, SEI, SII | 4.60558 3.77851 -2.96155 -1.36493 | kickE, kickI 1000 1000
+E_spike, I_spike | 73 723
+E spike rate= 0.243333
+I spike rate = 7.23
+
+SEE, SIE, SEI, SII | 3.04954 5.8088 -1.10473 -4.81553 | kickE, kickI 1000 1000
+E_spike, I_spike | 1984 2231
+E spike rate= 6.61333
+I spike rate = 22.31
+
+SEE, SIE, SEI, SII | 3.83216 5.92495 -2.02128 -3.83939 | kickE, kickI 1000 1000
+E_spike, I_spike | 659 1142
+E spike rate= 2.19667
+I spike rate = 11.42
+
+SEE, SIE, SEI, SII | 4.46614 4.14191 -4.20305 -3.60985 | kickE, kickI 1000 1000
+E_spike, I_spike | 136 519
+E spike rate= 0.453333
+I spike rate = 5.19
+
+SEE, SIE, SEI, SII | 5.14998 4.50987 -3.53481 -4.45793 | kickE, kickI 1000 1000
+E_spike, I_spike | 378 668
+E spike rate= 1.26
+I spike rate = 6.68
+
+SEE, SIE, SEI, SII | 2.13822 3.28404 -1.69522 -4.2789 | kickE, kickI 1000 1000
+E_spike, I_spike | 1227 1113
+E spike rate= 4.09
+I spike rate = 11.13
+
+SEE, SIE, SEI, SII | 3.78566 4.02172 -3.1691 -1.08258 | kickE, kickI 1000 1000
+E_spike, I_spike | 0 688
+E spike rate= 0
+I spike rate = 6.88
+
+SEE, SIE, SEI, SII | 2.77445 2.56002 -1.16868 -2.43525 | kickE, kickI 1000 1000
+E_spike, I_spike | 2394 1975
+E spike rate= 7.98
+I spike rate = 19.75
+
+SEE, SIE, SEI, SII | 4.22765 5.26253 -1.94844 -3.17943 | kickE, kickI 1000 1000
+E_spike, I_spike | 600 1116
+E spike rate= 2
+I spike rate = 11.16
+
+SEE, SIE, SEI, SII | 2.08275 2.7821 -2.44893 -4.71551 | kickE, kickI 1000 1000
+E_spike, I_spike | 953 792
+E spike rate= 3.17667
+I spike rate = 7.92
+
+SEE, SIE, SEI, SII | 2.59312 2.7034 -1.22161 -2.55855 | kickE, kickI 1000 1000
+E_spike, I_spike | 1993 1753
+E spike rate= 6.64333
+I spike rate = 17.53
+
+SEE, SIE, SEI, SII | 4.78465 3.26902 -2.85998 -3.26441 | kickE, kickI 1000 1000
+E_spike, I_spike | 641 878
+E spike rate= 2.13667
+I spike rate = 8.78
+
+SEE, SIE, SEI, SII | 2.37018 5.36644 -1.94887 -3.07967 | kickE, kickI 1000 1000
+E_spike, I_spike | 515 1043
+E spike rate= 1.71667
+I spike rate = 10.43
+
+SEE, SIE, SEI, SII | 3.99799 5.98878 -1.81049 -4.67664 | kickE, kickI 1000 1000
+E_spike, I_spike | 1044 1416
+E spike rate= 3.48
+I spike rate = 14.16
+
+SEE, SIE, SEI, SII | 2.15472 4.2244 -2.26387 -4.77639 | kickE, kickI 1000 1000
+E_spike, I_spike | 736 872
+E spike rate= 2.45333
+I spike rate = 8.72
+
+SEE, SIE, SEI, SII | 5.60226 2.02112 -4.2088 -3.51965 | kickE, kickI 1000 1000
+E_spike, I_spike | 380 576
+E spike rate= 1.26667
+I spike rate = 5.76
+
+SEE, SIE, SEI, SII | 2.54129 4.40353 -3.22014 -1.5239 | kickE, kickI 1000 1000
+E_spike, I_spike | 42 665
+E spike rate= 0.14
+I spike rate = 6.65
+
+SEE, SIE, SEI, SII | 4.88497 2.08248 -1.06901 -1.5314 | kickE, kickI 1000 1000
+E_spike, I_spike | 8188 3389
+E spike rate= 27.2933
+I spike rate = 33.89
+
+SEE, SIE, SEI, SII | 3.08812 3.31651 -1.14568 -3.39761 | kickE, kickI 1000 1000
+E_spike, I_spike | 2802 2285
+E spike rate= 9.34
+I spike rate = 22.85
+
+SEE, SIE, SEI, SII | 5.56168 3.34958 -4.31098 -2.08513 | kickE, kickI 1000 1000
+E_spike, I_spike | 13 531
+E spike rate= 0.0433333
+I spike rate = 5.31
+
+SEE, SIE, SEI, SII | 3.86547 2.58802 -3.97051 -2.03716 | kickE, kickI 1000 1000
+E_spike, I_spike | 21 538
+E spike rate= 0.07
+I spike rate = 5.38
+
+SEE, SIE, SEI, SII | 2.07556 5.08691 -1.8722 -4.33959 | kickE, kickI 1000 1000
+E_spike, I_spike | 714 1009
+E spike rate= 2.38
+I spike rate = 10.09
+
+SEE, SIE, SEI, SII | 5.17488 3.42196 -3.67082 -2.87864 | kickE, kickI 1000 1000
+E_spike, I_spike | 159 571
+E spike rate= 0.53
+I spike rate = 5.71
+
+SEE, SIE, SEI, SII | 2.37112 2.16359 -3.01146 -2.25044 | kickE, kickI 1000 1000
+E_spike, I_spike | 252 645
+E spike rate= 0.84
+I spike rate = 6.45
+
+SEE, SIE, SEI, SII | 5.45967 3.74393 -2.68607 -3.13813 | kickE, kickI 1000 1000
+E_spike, I_spike | 660 975
+E spike rate= 2.2
+I spike rate = 9.75
+
+SEE, SIE, SEI, SII | 5.40499 3.35035 -3.52919 -3.19306 | kickE, kickI 1000 1000
+E_spike, I_spike | 305 636
+E spike rate= 1.01667
+I spike rate = 6.36
+
+SEE, SIE, SEI, SII | 2.52476 3.90491 -1.31606 -2.26833 | kickE, kickI 1000 1000
+E_spike, I_spike | 955 1449
+E spike rate= 3.18333
+I spike rate = 14.49
+
+SEE, SIE, SEI, SII | 3.15028 2.97245 -4.00238 -3.1205 | kickE, kickI 1000 1000
+E_spike, I_spike | 128 530
+E spike rate= 0.426667
+I spike rate = 5.3
+
+SEE, SIE, SEI, SII | 2.54415 5.15738 -3.87066 -4.93044 | kickE, kickI 1000 1000
+E_spike, I_spike | 205 516
+E spike rate= 0.683333
+I spike rate = 5.16
+
+SEE, SIE, SEI, SII | 5.82502 2.73091 -1.44089 -4.01482 | kickE, kickI 1000 1000
+E_spike, I_spike | 10060 3674
+E spike rate= 33.5333
+I spike rate = 36.74
+
+SEE, SIE, SEI, SII | 3.48356 2.33884 -2.42767 -1.50779 | kickE, kickI 1000 1000
+E_spike, I_spike | 372 874
+E spike rate= 1.24
+I spike rate = 8.74
+
+SEE, SIE, SEI, SII | 5.43063 4.37815 -1.79553 -4.92701 | kickE, kickI 1000 1000
+E_spike, I_spike | 4033 3008
+E spike rate= 13.4433
+I spike rate = 30.08
+
+SEE, SIE, SEI, SII | 4.24526 5.03175 -2.0829 -2.30447 | kickE, kickI 1000 1000
+E_spike, I_spike | 497 1123
+E spike rate= 1.65667
+I spike rate = 11.23
+
+SEE, SIE, SEI, SII | 5.08904 3.04161 -2.01557 -4.15137 | kickE, kickI 1000 1000
+E_spike, I_spike | 4194 2533
+E spike rate= 13.98
+I spike rate = 25.33
+
+SEE, SIE, SEI, SII | 2.76069 2.79833 -4.95652 -3.66871 | kickE, kickI 1000 1000
+E_spike, I_spike | 59 442
+E spike rate= 0.196667
+I spike rate = 4.42
+
+SEE, SIE, SEI, SII | 3.68717 5.82803 -2.76803 -4.03398 | kickE, kickI 1000 1000
+E_spike, I_spike | 352 763
+E spike rate= 1.17333
+I spike rate = 7.63
+
+SEE, SIE, SEI, SII | 5.89959 4.74291 -2.56828 -3.02833 | kickE, kickI 1000 1000
+E_spike, I_spike | 537 1022
+E spike rate= 1.79
+I spike rate = 10.22
+
+SEE, SIE, SEI, SII | 5.29151 2.47242 -3.85433 -1.13883 | kickE, kickI 1000 1000
+E_spike, I_spike | 17 682
+E spike rate= 0.0566667
+I spike rate = 6.82
+
+SEE, SIE, SEI, SII | 2.69324 3.41687 -3.807 -4.03758 | kickE, kickI 1000 1000
+E_spike, I_spike | 234 527
+E spike rate= 0.78
+I spike rate = 5.27
+
+SEE, SIE, SEI, SII | 5.682 3.65149 -1.68626 -1.58069 | kickE, kickI 1000 1000
+E_spike, I_spike | 1492 2101
+E spike rate= 4.97333
+I spike rate = 21.01
+
+SEE, SIE, SEI, SII | 4.88161 5.00284 -2.03678 -3.83617 | kickE, kickI 1000 1000
+E_spike, I_spike | 997 1363
+E spike rate= 3.32333
+I spike rate = 13.63
+
+SEE, SIE, SEI, SII | 5.3925 4.10352 -1.58536 -2.05065 | kickE, kickI 1000 1000
+E_spike, I_spike | 1665 2247
+E spike rate= 5.55
+I spike rate = 22.47
+
+SEE, SIE, SEI, SII | 5.26672 2.88355 -3.56244 -4.40733 | kickE, kickI 1000 1000
+E_spike, I_spike | 814 769
+E spike rate= 2.71333
+I spike rate = 7.69
+
+SEE, SIE, SEI, SII | 4.72427 4.93229 -1.96546 -1.85053 | kickE, kickI 1000 1000
+E_spike, I_spike | 474 1190
+E spike rate= 1.58
+I spike rate = 11.9
+
+SEE, SIE, SEI, SII | 3.95669 5.11147 -1.00931 -3.34891 | kickE, kickI 1000 1000
+E_spike, I_spike | 2841 3295
+E spike rate= 9.47
+I spike rate = 32.95
+
+SEE, SIE, SEI, SII | 4.81876 5.66294 -4.17052 -2.50937 | kickE, kickI 1000 1000
+E_spike, I_spike | 22 527
+E spike rate= 0.0733333
+I spike rate = 5.27
+
+SEE, SIE, SEI, SII | 5.57559 5.91585 -2.05233 -3.94509 | kickE, kickI 1000 1000
+E_spike, I_spike | 932 1407
+E spike rate= 3.10667
+I spike rate = 14.07
+
+SEE, SIE, SEI, SII | 3.11172 4.18719 -3.7658 -3.47798 | kickE, kickI 1000 1000
+E_spike, I_spike | 111 519
+E spike rate= 0.37
+I spike rate = 5.19
+
+SEE, SIE, SEI, SII | 4.67244 5.84883 -2.10866 -1.74895 | kickE, kickI 1000 1000
+E_spike, I_spike | 283 1050
+E spike rate= 0.943333
+I spike rate = 10.5
+
+SEE, SIE, SEI, SII | 2.27719 4.79551 -2.72674 -4.96756 | kickE, kickI 1000 1000
+E_spike, I_spike | 403 663
+E spike rate= 1.34333
+I spike rate = 6.63
+
+SEE, SIE, SEI, SII | 2.1175 3.89835 -3.2125 -2.72738 | kickE, kickI 1000 1000
+E_spike, I_spike | 176 613
+E spike rate= 0.586667
+I spike rate = 6.13
+
+SEE, SIE, SEI, SII | 4.51311 2.34191 -2.63322 -1.33623 | kickE, kickI 1000 1000
+E_spike, I_spike | 115 720
+E spike rate= 0.383333
+I spike rate = 7.2
+
+SEE, SIE, SEI, SII | 4.05685 3.26471 -2.92715 -3.16392 | kickE, kickI 1000 1000
+E_spike, I_spike | 483 781
+E spike rate= 1.61
+I spike rate = 7.81
+
+SEE, SIE, SEI, SII | 3.50355 4.37947 -3.39908 -2.12517 | kickE, kickI 1000 1000
+E_spike, I_spike | 246 692
+E spike rate= 0.82
+I spike rate = 6.92
+
+SEE, SIE, SEI, SII | 4.78905 5.93846 -3.62667 -4.4491 | kickE, kickI 1000 1000
+E_spike, I_spike | 213 590
+E spike rate= 0.71
+I spike rate = 5.9
+
+SEE, SIE, SEI, SII | 5.20474 4.89507 -4.00766 -3.55012 | kickE, kickI 1000 1000
+E_spike, I_spike | 72 481
+E spike rate= 0.24
+I spike rate = 4.81
+
+SEE, SIE, SEI, SII | 5.19324 2.63372 -3.57567 -2.22235 | kickE, kickI 1000 1000
+E_spike, I_spike | 30 542
+E spike rate= 0.1
+I spike rate = 5.42
+
+SEE, SIE, SEI, SII | 3.25673 4.35514 -1.1713 -3.28165 | kickE, kickI 1000 1000
+E_spike, I_spike | 1997 2208
+E spike rate= 6.65667
+I spike rate = 22.08
+
+SEE, SIE, SEI, SII | 3.25706 4.11688 -1.83305 -3.18797 | kickE, kickI 1000 1000
+E_spike, I_spike | 886 1217
+E spike rate= 2.95333
+I spike rate = 12.17
+
+SEE, SIE, SEI, SII | 2.94295 5.05846 -1.21401 -4.93741 | kickE, kickI 1000 1000
+E_spike, I_spike | 1971 1959
+E spike rate= 6.57
+I spike rate = 19.59
+
+SEE, SIE, SEI, SII | 4.24217 5.8961 -2.93688 -2.66531 | kickE, kickI 1000 1000
+E_spike, I_spike | 166 714
+E spike rate= 0.553333
+I spike rate = 7.14
+
+SEE, SIE, SEI, SII | 3.26953 5.7534 -4.0167 -1.75451 | kickE, kickI 1000 1000
+E_spike, I_spike | 9 585
+E spike rate= 0.03
+I spike rate = 5.85
+
+SEE, SIE, SEI, SII | 3.79029 5.95404 -1.04318 -3.00555 | kickE, kickI 1000 1000
+E_spike, I_spike | 1596 2427
+E spike rate= 5.32
+I spike rate = 24.27
+
+SEE, SIE, SEI, SII | 4.50779 5.0419 -2.1905 -4.60174 | kickE, kickI 1000 1000
+E_spike, I_spike | 1008 1227
+E spike rate= 3.36
+I spike rate = 12.27
+
+SEE, SIE, SEI, SII | 5.59827 2.85726 -1.00022 -1.04194 | kickE, kickI 1000 1000
+E_spike, I_spike | 8556 4242
+E spike rate= 28.52
+I spike rate = 42.42
+
+SEE, SIE, SEI, SII | 4.83704 5.20591 -3.01455 -1.63068 | kickE, kickI 1000 1000
+E_spike, I_spike | 247 788
+E spike rate= 0.823333
+I spike rate = 7.88
+
+SEE, SIE, SEI, SII | 5.25627 3.8692 -3.60307 -4.54198 | kickE, kickI 1000 1000
+E_spike, I_spike | 500 688
+E spike rate= 1.66667
+I spike rate = 6.88
+
+SEE, SIE, SEI, SII | 5.87726 2.92357 -3.45332 -3.46705 | kickE, kickI 1000 1000
+E_spike, I_spike | 587 773
+E spike rate= 1.95667
+I spike rate = 7.73
+
+SEE, SIE, SEI, SII | 3.69397 5.85342 -1.86133 -1.41808 | kickE, kickI 1000 1000
+E_spike, I_spike | 267 1102
+E spike rate= 0.89
+I spike rate = 11.02
+
+SEE, SIE, SEI, SII | 2.26146 2.2476 -3.45191 -4.49307 | kickE, kickI 1000 1000
+E_spike, I_spike | 570 579
+E spike rate= 1.9
+I spike rate = 5.79
+
+SEE, SIE, SEI, SII | 4.68567 4.82906 -3.94472 -1.92893 | kickE, kickI 1000 1000
+E_spike, I_spike | 0 558
+E spike rate= 0
+I spike rate = 5.58
+
+SEE, SIE, SEI, SII | 4.15471 4.22834 -2.24288 -2.98696 | kickE, kickI 1000 1000
+E_spike, I_spike | 647 1055
+E spike rate= 2.15667
+I spike rate = 10.55
+
+SEE, SIE, SEI, SII | 4.5821 4.49004 -4.02576 -1.11447 | kickE, kickI 1000 1000
+E_spike, I_spike | 5 685
+E spike rate= 0.0166667
+I spike rate = 6.85
+
+SEE, SIE, SEI, SII | 4.69998 5.73422 -2.27428 -1.34274 | kickE, kickI 1000 1000
+E_spike, I_spike | 176 954
+E spike rate= 0.586667
+I spike rate = 9.54
+
+SEE, SIE, SEI, SII | 5.18021 2.44704 -2.34999 -4.92252 | kickE, kickI 1000 1000
+E_spike, I_spike | 8178 3453
+E spike rate= 27.26
+I spike rate = 34.53
+
+SEE, SIE, SEI, SII | 2.36482 5.30553 -4.47439 -1.28607 | kickE, kickI 1000 1000
+E_spike, I_spike | 5 652
+E spike rate= 0.0166667
+I spike rate = 6.52
+
+SEE, SIE, SEI, SII | 3.93142 3.06982 -1.81621 -3.13592 | kickE, kickI 1000 1000
+E_spike, I_spike | 1457 1380
+E spike rate= 4.85667
+I spike rate = 13.8
+
+SEE, SIE, SEI, SII | 4.46968 2.68451 -1.71602 -2.80776 | kickE, kickI 1000 1000
+E_spike, I_spike | 3264 2379
+E spike rate= 10.88
+I spike rate = 23.79
+
+SEE, SIE, SEI, SII | 3.68899 3.67081 -4.01588 -4.35382 | kickE, kickI 1000 1000
+E_spike, I_spike | 232 522
+E spike rate= 0.773333
+I spike rate = 5.22
+
+SEE, SIE, SEI, SII | 3.12157 4.94251 -1.59455 -4.16326 | kickE, kickI 1000 1000
+E_spike, I_spike | 1174 1431
+E spike rate= 3.91333
+I spike rate = 14.31
+
+SEE, SIE, SEI, SII | 2.97735 5.13687 -2.03956 -2.67031 | kickE, kickI 1000 1000
+E_spike, I_spike | 467 1045
+E spike rate= 1.55667
+I spike rate = 10.45
+
+SEE, SIE, SEI, SII | 3.96699 3.99563 -1.19453 -2.68674 | kickE, kickI 1000 1000
+E_spike, I_spike | 2497 2708
+E spike rate= 8.32333
+I spike rate = 27.08
+
+SEE, SIE, SEI, SII | 4.4402 3.7981 -4.9212 -2.20772 | kickE, kickI 1000 1000
+E_spike, I_spike | 5 522
+E spike rate= 0.0166667
+I spike rate = 5.22
+
+SEE, SIE, SEI, SII | 2.80146 4.01131 -1.00552 -2.32063 | kickE, kickI 1000 1000
+E_spike, I_spike | 1856 2310
+E spike rate= 6.18667
+I spike rate = 23.1
+
+SEE, SIE, SEI, SII | 4.85238 5.88551 -3.38085 -3.93611 | kickE, kickI 1000 1000
+E_spike, I_spike | 244 662
+E spike rate= 0.813333
+I spike rate = 6.62
+
+SEE, SIE, SEI, SII | 5.6248 3.1367 -2.68016 -3.54097 | kickE, kickI 1000 1000
+E_spike, I_spike | 1358 1260
+E spike rate= 4.52667
+I spike rate = 12.6
+
+SEE, SIE, SEI, SII | 4.67912 5.11704 -4.10017 -4.033 | kickE, kickI 1000 1000
+E_spike, I_spike | 142 522
+E spike rate= 0.473333
+I spike rate = 5.22
+
+SEE, SIE, SEI, SII | 2.8968 3.3834 -2.10364 -1.83657 | kickE, kickI 1000 1000
+E_spike, I_spike | 420 970
+E spike rate= 1.4
+I spike rate = 9.7
+
+SEE, SIE, SEI, SII | 5.73836 5.96698 -1.68262 -2.87617 | kickE, kickI 1000 1000
+E_spike, I_spike | 1079 1868
+E spike rate= 3.59667
+I spike rate = 18.68
+
+SEE, SIE, SEI, SII | 4.16864 5.46879 -1.05293 -1.56087 | kickE, kickI 1000 1000
+E_spike, I_spike | 1300 2571
+E spike rate= 4.33333
+I spike rate = 25.71
+
+SEE, SIE, SEI, SII | 3.84257 2.33955 -2.68354 -3.61577 | kickE, kickI 1000 1000
+E_spike, I_spike | 1147 950
+E spike rate= 3.82333
+I spike rate = 9.5
+
+SEE, SIE, SEI, SII | 4.92979 3.04372 -1.43818 -4.84899 | kickE, kickI 1000 1000
+E_spike, I_spike | 9017 3716
+E spike rate= 30.0567
+I spike rate = 37.16
+
+SEE, SIE, SEI, SII | 5.10348 3.92 -4.07001 -1.18886 | kickE, kickI 1000 1000
+E_spike, I_spike | 0 662
+E spike rate= 0
+I spike rate = 6.62
+
+SEE, SIE, SEI, SII | 3.48709 3.3637 -1.92995 -3.33728 | kickE, kickI 1000 1000
+E_spike, I_spike | 1025 1135
+E spike rate= 3.41667
+I spike rate = 11.35
+
+SEE, SIE, SEI, SII | 4.43705 3.08403 -1.86844 -3.82904 | kickE, kickI 1000 1000
+E_spike, I_spike | 2755 2004
+E spike rate= 9.18333
+I spike rate = 20.04
+
+SEE, SIE, SEI, SII | 3.03197 5.21233 -4.99036 -4.59951 | kickE, kickI 1000 1000
+E_spike, I_spike | 80 407
+E spike rate= 0.266667
+I spike rate = 4.07
+
+SEE, SIE, SEI, SII | 5.00415 4.13784 -2.27713 -1.37755 | kickE, kickI 1000 1000
+E_spike, I_spike | 270 952
+E spike rate= 0.9
+I spike rate = 9.52
+
+SEE, SIE, SEI, SII | 4.20863 5.86421 -3.88173 -1.84966 | kickE, kickI 1000 1000
+E_spike, I_spike | 16 584
+E spike rate= 0.0533333
+I spike rate = 5.84
+
+SEE, SIE, SEI, SII | 4.33774 2.00685 -2.68124 -2.32552 | kickE, kickI 1000 1000
+E_spike, I_spike | 880 956
+E spike rate= 2.93333
+I spike rate = 9.56
+
+SEE, SIE, SEI, SII | 2.967 3.87082 -1.77154 -4.77429 | kickE, kickI 1000 1000
+E_spike, I_spike | 1280 1188
+E spike rate= 4.26667
+I spike rate = 11.88
+
+SEE, SIE, SEI, SII | 5.97963 5.93971 -1.04029 -1.63867 | kickE, kickI 1000 1000
+E_spike, I_spike | 5321 4078
+E spike rate= 17.7367
+I spike rate = 40.78
+
+SEE, SIE, SEI, SII | 3.30558 3.80993 -3.56896 -2.61156 | kickE, kickI 1000 1000
+E_spike, I_spike | 67 547
+E spike rate= 0.223333
+I spike rate = 5.47
+
+SEE, SIE, SEI, SII | 2.30884 2.96054 -1.41531 -1.6766 | kickE, kickI 1000 1000
+E_spike, I_spike | 968 1402
+E spike rate= 3.22667
+I spike rate = 14.02
+
+SEE, SIE, SEI, SII | 4.40129 3.43362 -3.48622 -3.32991 | kickE, kickI 1000 1000
+E_spike, I_spike | 271 607
+E spike rate= 0.903333
+I spike rate = 6.07
+
+SEE, SIE, SEI, SII | 5.28642 2.19771 -1.56834 -3.31421 | kickE, kickI 1000 1000
+E_spike, I_spike | 9149 3316
+E spike rate= 30.4967
+I spike rate = 33.16
+
+SEE, SIE, SEI, SII | 2.45228 5.97792 -3.05772 -2.18396 | kickE, kickI 1000 1000
+E_spike, I_spike | 96 684
+E spike rate= 0.32
+I spike rate = 6.84
+
+SEE, SIE, SEI, SII | 3.41781 2.04492 -4.99469 -2.1808 | kickE, kickI 1000 1000
+E_spike, I_spike | 0 525
+E spike rate= 0
+I spike rate = 5.25
+
+SEE, SIE, SEI, SII | 3.30757 2.73515 -3.36334 -4.39104 | kickE, kickI 1000 1000
+E_spike, I_spike | 557 632
+E spike rate= 1.85667
+I spike rate = 6.32
+
+SEE, SIE, SEI, SII | 2.75623 2.16443 -2.67844 -4.90217 | kickE, kickI 1000 1000
+E_spike, I_spike | 1338 828
+E spike rate= 4.46
+I spike rate = 8.28
+
+SEE, SIE, SEI, SII | 3.31393 4.32966 -4.34226 -2.30804 | kickE, kickI 1000 1000
+E_spike, I_spike | 16 533
+E spike rate= 0.0533333
+I spike rate = 5.33
+
+SEE, SIE, SEI, SII | 4.08663 4.08917 -2.76403 -2.20264 | kickE, kickI 1000 1000
+E_spike, I_spike | 164 704
+E spike rate= 0.546667
+I spike rate = 7.04
+
+SEE, SIE, SEI, SII | 3.69978 3.17157 -3.3939 -3.97021 | kickE, kickI 1000 1000
+E_spike, I_spike | 418 640
+E spike rate= 1.39333
+I spike rate = 6.4
+
+SEE, SIE, SEI, SII | 2.28105 2.47184 -3.62866 -3.92996 | kickE, kickI 1000 1000
+E_spike, I_spike | 349 554
+E spike rate= 1.16333
+I spike rate = 5.54
+
+SEE, SIE, SEI, SII | 4.71848 2.39534 -1.7241 -1.99875 | kickE, kickI 1000 1000
+E_spike, I_spike | 3142 2437
+E spike rate= 10.4733
+I spike rate = 24.37
+
+SEE, SIE, SEI, SII | 5.86464 3.93751 -2.02769 -4.19255 | kickE, kickI 1000 1000
+E_spike, I_spike | 3623 2745
+E spike rate= 12.0767
+I spike rate = 27.45
+
+SEE, SIE, SEI, SII | 4.16524 3.94748 -3.47728 -3.30681 | kickE, kickI 1000 1000
+E_spike, I_spike | 231 622
+E spike rate= 0.77
+I spike rate = 6.22
+
+SEE, SIE, SEI, SII | 4.84823 3.05902 -2.52235 -3.33135 | kickE, kickI 1000 1000
+E_spike, I_spike | 1051 1103
+E spike rate= 3.50333
+I spike rate = 11.03
+
+SEE, SIE, SEI, SII | 2.89971 2.3311 -1.41523 -1.56491 | kickE, kickI 1000 1000
+E_spike, I_spike | 1480 1610
+E spike rate= 4.93333
+I spike rate = 16.1
+
+SEE, SIE, SEI, SII | 4.64105 2.81071 -2.77322 -2.77418 | kickE, kickI 1000 1000
+E_spike, I_spike | 648 892
+E spike rate= 2.16
+I spike rate = 8.92
+
+SEE, SIE, SEI, SII | 2.7875 4.09776 -2.16325 -1.95672 | kickE, kickI 1000 1000
+E_spike, I_spike | 335 928
+E spike rate= 1.11667
+I spike rate = 9.28
+
+SEE, SIE, SEI, SII | 3.18056 3.18261 -2.31023 -2.61462 | kickE, kickI 1000 1000
+E_spike, I_spike | 579 928
+E spike rate= 1.93
+I spike rate = 9.28
+
+SEE, SIE, SEI, SII | 5.98359 2.46004 -2.38679 -4.70615 | kickE, kickI 1000 1000
+E_spike, I_spike | 11355 4154
+E spike rate= 37.85
+I spike rate = 41.54
+
+SEE, SIE, SEI, SII | 3.53968 3.92741 -3.72808 -2.83408 | kickE, kickI 1000 1000
+E_spike, I_spike | 110 567
+E spike rate= 0.366667
+I spike rate = 5.67
+
+SEE, SIE, SEI, SII | 5.78827 2.32907 -3.09889 -1.53358 | kickE, kickI 1000 1000
+E_spike, I_spike | 124 693
+E spike rate= 0.413333
+I spike rate = 6.93
+
+SEE, SIE, SEI, SII | 4.93192 2.56082 -1.41508 -2.84129 | kickE, kickI 1000 1000
+E_spike, I_spike | 8337 3784
+E spike rate= 27.79
+I spike rate = 37.84
+
+SEE, SIE, SEI, SII | 5.13549 4.64512 -4.60809 -2.1349 | kickE, kickI 1000 1000
+E_spike, I_spike | 15 543
+E spike rate= 0.05
+I spike rate = 5.43
+
+SEE, SIE, SEI, SII | 2.24828 3.80562 -1.6314 -4.52008 | kickE, kickI 1000 1000
+E_spike, I_spike | 1238 1176
+E spike rate= 4.12667
+I spike rate = 11.76
+
+SEE, SIE, SEI, SII | 2.35635 4.68283 -3.33455 -4.82269 | kickE, kickI 1000 1000
+E_spike, I_spike | 305 590
+E spike rate= 1.01667
+I spike rate = 5.9
+
+SEE, SIE, SEI, SII | 4.93105 5.23881 -2.09014 -3.99908 | kickE, kickI 1000 1000
+E_spike, I_spike | 927 1303
+E spike rate= 3.09
+I spike rate = 13.03
+
+SEE, SIE, SEI, SII | 3.33766 3.12434 -2.27577 -3.5496 | kickE, kickI 1000 1000
+E_spike, I_spike | 793 921
+E spike rate= 2.64333
+I spike rate = 9.21
+
+SEE, SIE, SEI, SII | 3.02755 3.2069 -2.82136 -1.93462 | kickE, kickI 1000 1000
+E_spike, I_spike | 212 737
+E spike rate= 0.706667
+I spike rate = 7.37
+
+SEE, SIE, SEI, SII | 4.17971 3.32125 -3.78672 -4.49029 | kickE, kickI 1000 1000
+E_spike, I_spike | 344 563
+E spike rate= 1.14667
+I spike rate = 5.63
+
+SEE, SIE, SEI, SII | 3.3264 5.85798 -2.24023 -4.85204 | kickE, kickI 1000 1000
+E_spike, I_spike | 666 994
+E spike rate= 2.22
+I spike rate = 9.94
+
+SEE, SIE, SEI, SII | 4.60498 2.74387 -1.51303 -1.93515 | kickE, kickI 1000 1000
+E_spike, I_spike | 3463 2866
+E spike rate= 11.5433
+I spike rate = 28.66
+
+SEE, SIE, SEI, SII | 2.05809 5.31168 -2.48754 -4.75457 | kickE, kickI 1000 1000
+E_spike, I_spike | 502 803
+E spike rate= 1.67333
+I spike rate = 8.03
+
+SEE, SIE, SEI, SII | 3.94637 3.55791 -4.58924 -2.36223 | kickE, kickI 1000 1000
+E_spike, I_spike | 15 519
+E spike rate= 0.05
+I spike rate = 5.19
+
+SEE, SIE, SEI, SII | 3.06723 2.14675 -1.96293 -3.74469 | kickE, kickI 1000 1000
+E_spike, I_spike | 2062 1255
+E spike rate= 6.87333
+I spike rate = 12.55
+
+SEE, SIE, SEI, SII | 3.7159 4.79245 -2.22593 -3.07304 | kickE, kickI 1000 1000
+E_spike, I_spike | 552 1015
+E spike rate= 1.84
+I spike rate = 10.15
+
+SEE, SIE, SEI, SII | 4.83652 4.49492 -1.1502 -2.45326 | kickE, kickI 1000 1000
+E_spike, I_spike | 3828 4215
+E spike rate= 12.76
+I spike rate = 42.15
+
+SEE, SIE, SEI, SII | 5.25209 2.03107 -2.71209 -3.52913 | kickE, kickI 1000 1000
+E_spike, I_spike | 3913 1962
+E spike rate= 13.0433
+I spike rate = 19.62
+
+SEE, SIE, SEI, SII | 5.40233 2.05755 -3.34707 -1.54412 | kickE, kickI 1000 1000
+E_spike, I_spike | 88 644
+E spike rate= 0.293333
+I spike rate = 6.44
+
+SEE, SIE, SEI, SII | 4.38403 5.4843 -2.53686 -1.37519 | kickE, kickI 1000 1000
+E_spike, I_spike | 115 809
+E spike rate= 0.383333
+I spike rate = 8.09
+
+SEE, SIE, SEI, SII | 5.40959 2.74385 -3.25349 -2.87621 | kickE, kickI 1000 1000
+E_spike, I_spike | 404 712
+E spike rate= 1.34667
+I spike rate = 7.12
+
+SEE, SIE, SEI, SII | 3.13531 5.06391 -4.95946 -2.46027 | kickE, kickI 1000 1000
+E_spike, I_spike | 159 602
+E spike rate= 0.53
+I spike rate = 6.02
+
+SEE, SIE, SEI, SII | 5.19255 4.8374 -3.75943 -2.39013 | kickE, kickI 3000 3000
+E_spike, I_spike | 164 1686
+E spike rate= 0.546667
+I spike rate = 16.86
+
+SEE, SIE, SEI, SII | 3.15765 4.05803 -1.71717 -4.98184 | kickE, kickI 3000 3000
+E_spike, I_spike | 5196 4223
+E spike rate= 17.32
+I spike rate = 42.23
+
+SEE, SIE, SEI, SII | 2.8968 5.2297 -2.40373 -3.3416 | kickE, kickI 3000 3000
+E_spike, I_spike | 1286 2591
+E spike rate= 4.28667
+I spike rate = 25.91
+
+SEE, SIE, SEI, SII | 4.85056 5.3288 -3.1753 -4.09227 | kickE, kickI 3000 3000
+E_spike, I_spike | 1070 2171
+E spike rate= 3.56667
+I spike rate = 21.71
+
+SEE, SIE, SEI, SII | 5.13416 4.96173 -2.54318 -2.94408 | kickE, kickI 3000 3000
+E_spike, I_spike | 1412 2819
+E spike rate= 4.70667
+I spike rate = 28.19
+
+SEE, SIE, SEI, SII | 5.91276 5.75795 -4.67869 -3.24774 | kickE, kickI 3000 3000
+E_spike, I_spike | 58 1359
+E spike rate= 0.193333
+I spike rate = 13.59
+
+SEE, SIE, SEI, SII | 2.66142 4.7531 -3.52857 -3.69968 | kickE, kickI 3000 3000
+E_spike, I_spike | 596 1737
+E spike rate= 1.98667
+I spike rate = 17.37
+
+SEE, SIE, SEI, SII | 4.35864 4.91539 -2.82591 -4.67042 | kickE, kickI 3000 3000
+E_spike, I_spike | 1845 2554
+E spike rate= 6.15
+I spike rate = 25.54
+
+SEE, SIE, SEI, SII | 2.7613 2.9507 -4.4087 -4.4859 | kickE, kickI 3000 3000
+E_spike, I_spike | 635 1394
+E spike rate= 2.11667
+I spike rate = 13.94
+
+SEE, SIE, SEI, SII | 2.14381 4.48714 -4.36764 -1.45219 | kickE, kickI 3000 3000
+E_spike, I_spike | 8 1824
+E spike rate= 0.0266667
+I spike rate = 18.24
+
+SEE, SIE, SEI, SII | 5.29825 4.95628 -2.42093 -4.26991 | kickE, kickI 3000 3000
+E_spike, I_spike | 2948 3585
+E spike rate= 9.82667
+I spike rate = 35.85
+
+SEE, SIE, SEI, SII | 3.95291 2.21006 -2.00151 -4.81476 | kickE, kickI 3000 3000
+E_spike, I_spike | 12740 5273
+E spike rate= 42.4667
+I spike rate = 52.73
+
+SEE, SIE, SEI, SII | 2.82337 4.28699 -2.20238 -3.56833 | kickE, kickI 3000 3000
+E_spike, I_spike | 2078 2897
+E spike rate= 6.92667
+I spike rate = 28.97
+
+SEE, SIE, SEI, SII | 3.0473 2.82026 -4.95471 -3.26409 | kickE, kickI 3000 3000
+E_spike, I_spike | 47 1306
+E spike rate= 0.156667
+I spike rate = 13.06
+
+SEE, SIE, SEI, SII | 3.11644 2.05453 -2.0627 -3.21556 | kickE, kickI 3000 3000
+E_spike, I_spike | 5411 3481
+E spike rate= 18.0367
+I spike rate = 34.81
+
+SEE, SIE, SEI, SII | 2.7351 5.26505 -3.14586 -4.28468 | kickE, kickI 3000 3000
+E_spike, I_spike | 958 1974
+E spike rate= 3.19333
+I spike rate = 19.74
+
+SEE, SIE, SEI, SII | 3.15012 4.15816 -1.05855 -2.53002 | kickE, kickI 3000 3000
+E_spike, I_spike | 6970 7085
+E spike rate= 23.2333
+I spike rate = 70.85
+
+SEE, SIE, SEI, SII | 5.23254 5.66653 -2.32068 -4.54896 | kickE, kickI 3000 3000
+E_spike, I_spike | 2818 3672
+E spike rate= 9.39333
+I spike rate = 36.72
+
+SEE, SIE, SEI, SII | 5.84417 5.71553 -1.09993 -3.22285 | kickE, kickI 3000 3000
+E_spike, I_spike | 18115 9518
+E spike rate= 60.3833
+I spike rate = 95.18
+
+SEE, SIE, SEI, SII | 5.72657 5.51698 -1.23096 -4.40302 | kickE, kickI 3000 3000
+E_spike, I_spike | 17907 9036
+E spike rate= 59.69
+I spike rate = 90.36
+
+SEE, SIE, SEI, SII | 4.30457 5.60406 -3.86513 -3.29827 | kickE, kickI 3000 3000
+E_spike, I_spike | 313 1635
+E spike rate= 1.04333
+I spike rate = 16.35
+
+SEE, SIE, SEI, SII | 3.2321 5.42396 -4.81395 -2.09021 | kickE, kickI 3000 3000
+E_spike, I_spike | 16 1592
+E spike rate= 0.0533333
+I spike rate = 15.92
+
+SEE, SIE, SEI, SII | 5.97077 5.24778 -3.1924 -2.08328 | kickE, kickI 3000 3000
+E_spike, I_spike | 357 2034
+E spike rate= 1.19
+I spike rate = 20.34
+
+SEE, SIE, SEI, SII | 5.30157 2.78558 -1.55346 -3.87235 | kickE, kickI 3000 3000
+E_spike, I_spike | 22553 9102
+E spike rate= 75.1767
+I spike rate = 91.02
+
+SEE, SIE, SEI, SII | 4.95478 4.01977 -4.71302 -1.77868 | kickE, kickI 3000 3000
+E_spike, I_spike | 0 1680
+E spike rate= 0
+I spike rate = 16.8
+
+SEE, SIE, SEI, SII | 4.29419 5.22256 -1.69014 -1.86115 | kickE, kickI 3000 3000
+E_spike, I_spike | 2114 4291
+E spike rate= 7.04667
+I spike rate = 42.91
+
+SEE, SIE, SEI, SII | 4.7516 4.10203 -4.36822 -2.92076 | kickE, kickI 3000 3000
+E_spike, I_spike | 75 1426
+E spike rate= 0.25
+I spike rate = 14.26
+
+SEE, SIE, SEI, SII | 2.71177 5.64413 -4.34114 -4.0349 | kickE, kickI 3000 3000
+E_spike, I_spike | 236 1398
+E spike rate= 0.786667
+I spike rate = 13.98
+
+SEE, SIE, SEI, SII | 5.45581 2.12397 -2.84307 -3.14953 | kickE, kickI 3000 3000
+E_spike, I_spike | 7710 4528
+E spike rate= 25.7
+I spike rate = 45.28
+
+SEE, SIE, SEI, SII | 5.06479 3.82105 -1.20094 -3.49162 | kickE, kickI 3000 3000
+E_spike, I_spike | 19387 9338
+E spike rate= 64.6233
+I spike rate = 93.38
+
+SEE, SIE, SEI, SII | 2.1692 5.3127 -4.5742 -1.50208 | kickE, kickI 3000 3000
+E_spike, I_spike | 5 1778
+E spike rate= 0.0166667
+I spike rate = 17.78
+
+SEE, SIE, SEI, SII | 2.36262 4.26708 -2.09415 -3.97973 | kickE, kickI 3000 3000
+E_spike, I_spike | 2175 2810
+E spike rate= 7.25
+I spike rate = 28.1
+
+SEE, SIE, SEI, SII | 5.9685 4.76309 -1.19368 -2.09669 | kickE, kickI 3000 3000
+E_spike, I_spike | 17499 9272
+E spike rate= 58.33
+I spike rate = 92.72
+
+SEE, SIE, SEI, SII | 3.38575 2.717 -3.49284 -1.71011 | kickE, kickI 3000 3000
+E_spike, I_spike | 97 1790
+E spike rate= 0.323333
+I spike rate = 17.9
+
+SEE, SIE, SEI, SII | 5.90896 3.98948 -2.72585 -3.42381 | kickE, kickI 3000 3000
+E_spike, I_spike | 2708 3255
+E spike rate= 9.02667
+I spike rate = 32.55
+
+SEE, SIE, SEI, SII | 2.95162 2.00282 -3.58347 -1.45802 | kickE, kickI 3000 3000
+E_spike, I_spike | 12 1815
+E spike rate= 0.04
+I spike rate = 18.15
+
+SEE, SIE, SEI, SII | 4.05126 3.01597 -3.00319 -4.66448 | kickE, kickI 3000 3000
+E_spike, I_spike | 3018 2545
+E spike rate= 10.06
+I spike rate = 25.45
+
+SEE, SIE, SEI, SII | 2.8944 4.64 -4.01517 -2.36438 | kickE, kickI 3000 3000
+E_spike, I_spike | 57 1560
+E spike rate= 0.19
+I spike rate = 15.6
+
+SEE, SIE, SEI, SII | 5.869 4.55819 -3.49557 -1.09003 | kickE, kickI 3000 3000
+E_spike, I_spike | 11 1972
+E spike rate= 0.0366667
+I spike rate = 19.72
+
+SEE, SIE, SEI, SII | 2.6738 4.52706 -2.70248 -2.76137 | kickE, kickI 3000 3000
+E_spike, I_spike | 859 2249
+E spike rate= 2.86333
+I spike rate = 22.49
+
+SEE, SIE, SEI, SII | 3.4712 2.39227 -1.39387 -2.587 | kickE, kickI 3000 3000
+E_spike, I_spike | 9725 5989
+E spike rate= 32.4167
+I spike rate = 59.89
+
+SEE, SIE, SEI, SII | 3.44139 3.06698 -2.44914 -4.14597 | kickE, kickI 3000 3000
+E_spike, I_spike | 3336 2909
+E spike rate= 11.12
+I spike rate = 29.09
+
+SEE, SIE, SEI, SII | 5.34386 5.96674 -1.10328 -1.23316 | kickE, kickI 3000 3000
+E_spike, I_spike | 10816 8392
+E spike rate= 36.0533
+I spike rate = 83.92
+
+SEE, SIE, SEI, SII | 2.72696 5.2332 -2.80549 -2.00232 | kickE, kickI 3000 3000
+E_spike, I_spike | 407 2147
+E spike rate= 1.35667
+I spike rate = 21.47
+
+SEE, SIE, SEI, SII | 3.93088 2.99777 -4.91061 -4.44044 | kickE, kickI 3000 3000
+E_spike, I_spike | 413 1281
+E spike rate= 1.37667
+I spike rate = 12.81
+
+SEE, SIE, SEI, SII | 5.97034 2.71538 -2.85834 -2.18854 | kickE, kickI 3000 3000
+E_spike, I_spike | 2391 3089
+E spike rate= 7.97
+I spike rate = 30.89
+
+SEE, SIE, SEI, SII | 5.24124 5.9166 -2.74896 -1.09993 | kickE, kickI 3000 3000
+E_spike, I_spike | 210 2296
+E spike rate= 0.7
+I spike rate = 22.96
+
+SEE, SIE, SEI, SII | 4.75103 3.58706 -1.06901 -1.7975 | kickE, kickI 3000 3000
+E_spike, I_spike | 16194 8866
+E spike rate= 53.98
+I spike rate = 88.66
+
+SEE, SIE, SEI, SII | 3.87836 3.6888 -2.85447 -3.16315 | kickE, kickI 3000 3000
+E_spike, I_spike | 1410 2352
+E spike rate= 4.7
+I spike rate = 23.52
+
+SEE, SIE, SEI, SII | 3.68264 3.11707 -3.49888 -4.00146 | kickE, kickI 3000 3000
+E_spike, I_spike | 1283 1879
+E spike rate= 4.27667
+I spike rate = 18.79
+
+SEE, SIE, SEI, SII | 4.68746 2.41898 -4.66399 -2.65706 | kickE, kickI 3000 3000
+E_spike, I_spike | 29 1442
+E spike rate= 0.0966667
+I spike rate = 14.42
+
+SEE, SIE, SEI, SII | 2.41157 4.03719 -2.36919 -3.64373 | kickE, kickI 3000 3000
+E_spike, I_spike | 1775 2538
+E spike rate= 5.91667
+I spike rate = 25.38
+
+SEE, SIE, SEI, SII | 5.90222 2.69689 -4.5201 -2.85204 | kickE, kickI 3000 3000
+E_spike, I_spike | 79 1426
+E spike rate= 0.263333
+I spike rate = 14.26
+
+SEE, SIE, SEI, SII | 2.77013 3.51984 -2.40942 -3.64535 | kickE, kickI 3000 3000
+E_spike, I_spike | 2073 2599
+E spike rate= 6.91
+I spike rate = 25.99
+
+SEE, SIE, SEI, SII | 4.03143 3.84269 -1.85097 -3.56175 | kickE, kickI 3000 3000
+E_spike, I_spike | 4580 4413
+E spike rate= 15.2667
+I spike rate = 44.13
+
+SEE, SIE, SEI, SII | 4.49407 3.653 -4.13242 -4.81685 | kickE, kickI 3000 3000
+E_spike, I_spike | 901 1570
+E spike rate= 3.00333
+I spike rate = 15.7
+
+SEE, SIE, SEI, SII | 4.60558 3.77851 -2.96155 -1.36493 | kickE, kickI 3000 3000
+E_spike, I_spike | 166 2048
+E spike rate= 0.553333
+I spike rate = 20.48
+
+SEE, SIE, SEI, SII | 3.04954 5.8088 -1.10473 -4.81553 | kickE, kickI 3000 3000
+E_spike, I_spike | 6216 6331
+E spike rate= 20.72
+I spike rate = 63.31
+
+SEE, SIE, SEI, SII | 3.83216 5.92495 -2.02128 -3.83939 | kickE, kickI 3000 3000
+E_spike, I_spike | 2202 3503
+E spike rate= 7.34
+I spike rate = 35.03
+
+SEE, SIE, SEI, SII | 4.46614 4.14191 -4.20305 -3.60985 | kickE, kickI 3000 3000
+E_spike, I_spike | 373 1509
+E spike rate= 1.24333
+I spike rate = 15.09
+
+SEE, SIE, SEI, SII | 5.14998 4.50987 -3.53481 -4.45793 | kickE, kickI 3000 3000
+E_spike, I_spike | 1210 2007
+E spike rate= 4.03333
+I spike rate = 20.07
+
+SEE, SIE, SEI, SII | 2.13822 3.28404 -1.69522 -4.2789 | kickE, kickI 3000 3000
+E_spike, I_spike | 4138 3393
+E spike rate= 13.7933
+I spike rate = 33.93
+
+SEE, SIE, SEI, SII | 3.78566 4.02172 -3.1691 -1.08258 | kickE, kickI 3000 3000
+E_spike, I_spike | 87 2050
+E spike rate= 0.29
+I spike rate = 20.5
+
+SEE, SIE, SEI, SII | 2.77445 2.56002 -1.16868 -2.43525 | kickE, kickI 3000 3000
+E_spike, I_spike | 7853 5620
+E spike rate= 26.1767
+I spike rate = 56.2
+
+SEE, SIE, SEI, SII | 4.22765 5.26253 -1.94844 -3.17943 | kickE, kickI 3000 3000
+E_spike, I_spike | 2496 3860
+E spike rate= 8.32
+I spike rate = 38.6
+
+SEE, SIE, SEI, SII | 2.08275 2.7821 -2.44893 -4.71551 | kickE, kickI 3000 3000
+E_spike, I_spike | 2914 2372
+E spike rate= 9.71333
+I spike rate = 23.72
+
+SEE, SIE, SEI, SII | 2.59312 2.7034 -1.22161 -2.55855 | kickE, kickI 3000 3000
+E_spike, I_spike | 6612 5159
+E spike rate= 22.04
+I spike rate = 51.59
+
+SEE, SIE, SEI, SII | 4.78465 3.26902 -2.85998 -3.26441 | kickE, kickI 3000 3000
+E_spike, I_spike | 2122 2680
+E spike rate= 7.07333
+I spike rate = 26.8
+
+SEE, SIE, SEI, SII | 2.37018 5.36644 -1.94887 -3.07967 | kickE, kickI 3000 3000
+E_spike, I_spike | 1661 3133
+E spike rate= 5.53667
+I spike rate = 31.33
+
+SEE, SIE, SEI, SII | 3.99799 5.98878 -1.81049 -4.67664 | kickE, kickI 3000 3000
+E_spike, I_spike | 3354 4227
+E spike rate= 11.18
+I spike rate = 42.27
+
+SEE, SIE, SEI, SII | 2.15472 4.2244 -2.26387 -4.77639 | kickE, kickI 3000 3000
+E_spike, I_spike | 2324 2630
+E spike rate= 7.74667
+I spike rate = 26.3
+
+SEE, SIE, SEI, SII | 5.60226 2.02112 -4.2088 -3.51965 | kickE, kickI 3000 3000
+E_spike, I_spike | 1303 1755
+E spike rate= 4.34333
+I spike rate = 17.55
+
+SEE, SIE, SEI, SII | 2.54129 4.40353 -3.22014 -1.5239 | kickE, kickI 3000 3000
+E_spike, I_spike | 99 1915
+E spike rate= 0.33
+I spike rate = 19.15
+
+SEE, SIE, SEI, SII | 4.88497 2.08248 -1.06901 -1.5314 | kickE, kickI 3000 3000
+E_spike, I_spike | 21748 8560
+E spike rate= 72.4933
+I spike rate = 85.6
+
+SEE, SIE, SEI, SII | 3.08812 3.31651 -1.14568 -3.39761 | kickE, kickI 3000 3000
+E_spike, I_spike | 9231 6522
+E spike rate= 30.77
+I spike rate = 65.22
+
+SEE, SIE, SEI, SII | 5.56168 3.34958 -4.31098 -2.08513 | kickE, kickI 3000 3000
+E_spike, I_spike | 23 1583
+E spike rate= 0.0766667
+I spike rate = 15.83
+
+SEE, SIE, SEI, SII | 3.86547 2.58802 -3.97051 -2.03716 | kickE, kickI 3000 3000
+E_spike, I_spike | 4 1602
+E spike rate= 0.0133333
+I spike rate = 16.02
+
+SEE, SIE, SEI, SII | 2.07556 5.08691 -1.8722 -4.33959 | kickE, kickI 3000 3000
+E_spike, I_spike | 2346 3126
+E spike rate= 7.82
+I spike rate = 31.26
+
+SEE, SIE, SEI, SII | 5.17488 3.42196 -3.67082 -2.87864 | kickE, kickI 3000 3000
+E_spike, I_spike | 474 1718
+E spike rate= 1.58
+I spike rate = 17.18
+
+SEE, SIE, SEI, SII | 2.37112 2.16359 -3.01146 -2.25044 | kickE, kickI 3000 3000
+E_spike, I_spike | 902 2017
+E spike rate= 3.00667
+I spike rate = 20.17
+
+SEE, SIE, SEI, SII | 5.45967 3.74393 -2.68607 -3.13813 | kickE, kickI 3000 3000
+E_spike, I_spike | 2358 3100
+E spike rate= 7.86
+I spike rate = 31
+
+SEE, SIE, SEI, SII | 5.40499 3.35035 -3.52919 -3.19306 | kickE, kickI 3000 3000
+E_spike, I_spike | 983 1971
+E spike rate= 3.27667
+I spike rate = 19.71
+
+SEE, SIE, SEI, SII | 2.52476 3.90491 -1.31606 -2.26833 | kickE, kickI 3000 3000
+E_spike, I_spike | 3704 4685
+E spike rate= 12.3467
+I spike rate = 46.85
+
+SEE, SIE, SEI, SII | 3.15028 2.97245 -4.00238 -3.1205 | kickE, kickI 3000 3000
+E_spike, I_spike | 390 1534
+E spike rate= 1.3
+I spike rate = 15.34
+
+SEE, SIE, SEI, SII | 2.54415 5.15738 -3.87066 -4.93044 | kickE, kickI 3000 3000
+E_spike, I_spike | 667 1570
+E spike rate= 2.22333
+I spike rate = 15.7
+
+SEE, SIE, SEI, SII | 5.82502 2.73091 -1.44089 -4.01482 | kickE, kickI 3000 3000
+E_spike, I_spike | 23988 8566
+E spike rate= 79.96
+I spike rate = 85.66
+
+SEE, SIE, SEI, SII | 3.48356 2.33884 -2.42767 -1.50779 | kickE, kickI 3000 3000
+E_spike, I_spike | 1477 2691
+E spike rate= 4.92333
+I spike rate = 26.91
+
+SEE, SIE, SEI, SII | 5.43063 4.37815 -1.79553 -4.92701 | kickE, kickI 3000 3000
+E_spike, I_spike | 16691 9822
+E spike rate= 55.6367
+I spike rate = 98.22
+
+SEE, SIE, SEI, SII | 4.24526 5.03175 -2.0829 -2.30447 | kickE, kickI 3000 3000
+E_spike, I_spike | 1552 3317
+E spike rate= 5.17333
+I spike rate = 33.17
+
+SEE, SIE, SEI, SII | 5.08904 3.04161 -2.01557 -4.15137 | kickE, kickI 3000 3000
+E_spike, I_spike | 13663 7477
+E spike rate= 45.5433
+I spike rate = 74.77
+
+SEE, SIE, SEI, SII | 2.76069 2.79833 -4.95652 -3.66871 | kickE, kickI 3000 3000
+E_spike, I_spike | 120 1269
+E spike rate= 0.4
+I spike rate = 12.69
+
+SEE, SIE, SEI, SII | 3.68717 5.82803 -2.76803 -4.03398 | kickE, kickI 3000 3000
+E_spike, I_spike | 1157 2356
+E spike rate= 3.85667
+I spike rate = 23.56
+
+SEE, SIE, SEI, SII | 5.89959 4.74291 -2.56828 -3.02833 | kickE, kickI 3000 3000
+E_spike, I_spike | 1880 3129
+E spike rate= 6.26667
+I spike rate = 31.29
+
+SEE, SIE, SEI, SII | 5.29151 2.47242 -3.85433 -1.13883 | kickE, kickI 3000 3000
+E_spike, I_spike | 0 1960
+E spike rate= 0
+I spike rate = 19.6
+
+SEE, SIE, SEI, SII | 2.69324 3.41687 -3.807 -4.03758 | kickE, kickI 3000 3000
+E_spike, I_spike | 769 1619
+E spike rate= 2.56333
+I spike rate = 16.19
+
+SEE, SIE, SEI, SII | 5.682 3.65149 -1.68626 -1.58069 | kickE, kickI 3000 3000
+E_spike, I_spike | 12429 8822
+E spike rate= 41.43
+I spike rate = 88.22
+
+SEE, SIE, SEI, SII | 4.88161 5.00284 -2.03678 -3.83617 | kickE, kickI 3000 3000
+E_spike, I_spike | 3347 4142
+E spike rate= 11.1567
+I spike rate = 41.42
+
+SEE, SIE, SEI, SII | 5.3925 4.10352 -1.58536 -2.05065 | kickE, kickI 3000 3000
+E_spike, I_spike | 9982 8890
+E spike rate= 33.2733
+I spike rate = 88.9
+
+SEE, SIE, SEI, SII | 5.26672 2.88355 -3.56244 -4.40733 | kickE, kickI 3000 3000
+E_spike, I_spike | 2537 2329
+E spike rate= 8.45667
+I spike rate = 23.29
+
+SEE, SIE, SEI, SII | 4.72427 4.93229 -1.96546 -1.85053 | kickE, kickI 3000 3000
+E_spike, I_spike | 1701 3706
+E spike rate= 5.67
+I spike rate = 37.06
+
+SEE, SIE, SEI, SII | 3.95669 5.11147 -1.00931 -3.34891 | kickE, kickI 3000 3000
+E_spike, I_spike | 12184 10012
+E spike rate= 40.6133
+I spike rate = 100.12
+
+SEE, SIE, SEI, SII | 4.81876 5.66294 -4.17052 -2.50937 | kickE, kickI 3000 3000
+E_spike, I_spike | 45 1529
+E spike rate= 0.15
+I spike rate = 15.29
+
+SEE, SIE, SEI, SII | 5.57559 5.91585 -2.05233 -3.94509 | kickE, kickI 3000 3000
+E_spike, I_spike | 3175 4402
+E spike rate= 10.5833
+I spike rate = 44.02
+
+SEE, SIE, SEI, SII | 3.11172 4.18719 -3.7658 -3.47798 | kickE, kickI 3000 3000
+E_spike, I_spike | 477 1640
+E spike rate= 1.59
+I spike rate = 16.4
+
+SEE, SIE, SEI, SII | 4.67244 5.84883 -2.10866 -1.74895 | kickE, kickI 3000 3000
+E_spike, I_spike | 1005 3204
+E spike rate= 3.35
+I spike rate = 32.04
+
+SEE, SIE, SEI, SII | 2.27719 4.79551 -2.72674 -4.96756 | kickE, kickI 3000 3000
+E_spike, I_spike | 1487 2143
+E spike rate= 4.95667
+I spike rate = 21.43
+
+SEE, SIE, SEI, SII | 2.1175 3.89835 -3.2125 -2.72738 | kickE, kickI 3000 3000
+E_spike, I_spike | 536 1884
+E spike rate= 1.78667
+I spike rate = 18.84
+
+SEE, SIE, SEI, SII | 4.51311 2.34191 -2.63322 -1.33623 | kickE, kickI 3000 3000
+E_spike, I_spike | 989 2528
+E spike rate= 3.29667
+I spike rate = 25.28
+
+SEE, SIE, SEI, SII | 4.05685 3.26471 -2.92715 -3.16392 | kickE, kickI 3000 3000
+E_spike, I_spike | 1581 2356
+E spike rate= 5.27
+I spike rate = 23.56
+
+SEE, SIE, SEI, SII | 3.50355 4.37947 -3.39908 -2.12517 | kickE, kickI 3000 3000
+E_spike, I_spike | 220 1817
+E spike rate= 0.733333
+I spike rate = 18.17
+
+SEE, SIE, SEI, SII | 4.78905 5.93846 -3.62667 -4.4491 | kickE, kickI 3000 3000
+E_spike, I_spike | 724 1801
+E spike rate= 2.41333
+I spike rate = 18.01
+
+SEE, SIE, SEI, SII | 5.20474 4.89507 -4.00766 -3.55012 | kickE, kickI 3000 3000
+E_spike, I_spike | 390 1604
+E spike rate= 1.3
+I spike rate = 16.04
+
+SEE, SIE, SEI, SII | 5.19324 2.63372 -3.57567 -2.22235 | kickE, kickI 3000 3000
+E_spike, I_spike | 385 1782
+E spike rate= 1.28333
+I spike rate = 17.82
+
+SEE, SIE, SEI, SII | 3.25673 4.35514 -1.1713 -3.28165 | kickE, kickI 3000 3000
+E_spike, I_spike | 6895 6570
+E spike rate= 22.9833
+I spike rate = 65.7
+
+SEE, SIE, SEI, SII | 3.25706 4.11688 -1.83305 -3.18797 | kickE, kickI 3000 3000
+E_spike, I_spike | 3067 3765
+E spike rate= 10.2233
+I spike rate = 37.65
+
+SEE, SIE, SEI, SII | 2.94295 5.05846 -1.21401 -4.93741 | kickE, kickI 3000 3000
+E_spike, I_spike | 6036 5567
+E spike rate= 20.12
+I spike rate = 55.67
+
+SEE, SIE, SEI, SII | 4.24217 5.8961 -2.93688 -2.66531 | kickE, kickI 3000 3000
+E_spike, I_spike | 577 2176
+E spike rate= 1.92333
+I spike rate = 21.76
+
+SEE, SIE, SEI, SII | 3.26953 5.7534 -4.0167 -1.75451 | kickE, kickI 3000 3000
+E_spike, I_spike | 2 1700
+E spike rate= 0.00666667
+I spike rate = 17
+
+SEE, SIE, SEI, SII | 3.79029 5.95404 -1.04318 -3.00555 | kickE, kickI 3000 3000
+E_spike, I_spike | 6955 8464
+E spike rate= 23.1833
+I spike rate = 84.64
+
+SEE, SIE, SEI, SII | 4.50779 5.0419 -2.1905 -4.60174 | kickE, kickI 3000 3000
+E_spike, I_spike | 3177 3639
+E spike rate= 10.59
+I spike rate = 36.39
+
+SEE, SIE, SEI, SII | 5.59827 2.85726 -1.00022 -1.04194 | kickE, kickI 3000 3000
+E_spike, I_spike | 22340 9750
+E spike rate= 74.4667
+I spike rate = 97.5
+
+SEE, SIE, SEI, SII | 4.83704 5.20591 -3.01455 -1.63068 | kickE, kickI 3000 3000
+E_spike, I_spike | 241 2072
+E spike rate= 0.803333
+I spike rate = 20.72
+
+SEE, SIE, SEI, SII | 5.25627 3.8692 -3.60307 -4.54198 | kickE, kickI 3000 3000
+E_spike, I_spike | 1539 2067
+E spike rate= 5.13
+I spike rate = 20.67
+
+SEE, SIE, SEI, SII | 5.87726 2.92357 -3.45332 -3.46705 | kickE, kickI 3000 3000
+E_spike, I_spike | 1961 2363
+E spike rate= 6.53667
+I spike rate = 23.63
+
+SEE, SIE, SEI, SII | 3.69397 5.85342 -1.86133 -1.41808 | kickE, kickI 3000 3000
+E_spike, I_spike | 1038 3472
+E spike rate= 3.46
+I spike rate = 34.72
+
+SEE, SIE, SEI, SII | 2.26146 2.2476 -3.45191 -4.49307 | kickE, kickI 3000 3000
+E_spike, I_spike | 1787 1748
+E spike rate= 5.95667
+I spike rate = 17.48
+
+SEE, SIE, SEI, SII | 4.68567 4.82906 -3.94472 -1.92893 | kickE, kickI 3000 3000
+E_spike, I_spike | 15 1641
+E spike rate= 0.05
+I spike rate = 16.41
+
+SEE, SIE, SEI, SII | 4.15471 4.22834 -2.24288 -2.98696 | kickE, kickI 3000 3000
+E_spike, I_spike | 2203 3251
+E spike rate= 7.34333
+I spike rate = 32.51
+
+SEE, SIE, SEI, SII | 4.5821 4.49004 -4.02576 -1.11447 | kickE, kickI 3000 3000
+E_spike, I_spike | 15 1970
+E spike rate= 0.05
+I spike rate = 19.7
+
+SEE, SIE, SEI, SII | 4.69998 5.73422 -2.27428 -1.34274 | kickE, kickI 3000 3000
+E_spike, I_spike | 638 2861
+E spike rate= 2.12667
+I spike rate = 28.61
+
+SEE, SIE, SEI, SII | 5.18021 2.44704 -2.34999 -4.92252 | kickE, kickI 3000 3000
+E_spike, I_spike | 17815 7101
+E spike rate= 59.3833
+I spike rate = 71.01
+
+SEE, SIE, SEI, SII | 2.36482 5.30553 -4.47439 -1.28607 | kickE, kickI 3000 3000
+E_spike, I_spike | 3 1885
+E spike rate= 0.01
+I spike rate = 18.85
+
+SEE, SIE, SEI, SII | 3.93142 3.06982 -1.81621 -3.13592 | kickE, kickI 3000 3000
+E_spike, I_spike | 5927 4789
+E spike rate= 19.7567
+I spike rate = 47.89
+
+SEE, SIE, SEI, SII | 4.46968 2.68451 -1.71602 -2.80776 | kickE, kickI 3000 3000
+E_spike, I_spike | 11344 7071
+E spike rate= 37.8133
+I spike rate = 70.71
+
+SEE, SIE, SEI, SII | 3.68899 3.67081 -4.01588 -4.35382 | kickE, kickI 3000 3000
+E_spike, I_spike | 820 1596
+E spike rate= 2.73333
+I spike rate = 15.96
+
+SEE, SIE, SEI, SII | 3.12157 4.94251 -1.59455 -4.16326 | kickE, kickI 3000 3000
+E_spike, I_spike | 3804 4315
+E spike rate= 12.68
+I spike rate = 43.15
+
+SEE, SIE, SEI, SII | 2.97735 5.13687 -2.03956 -2.67031 | kickE, kickI 3000 3000
+E_spike, I_spike | 1542 3113
+E spike rate= 5.14
+I spike rate = 31.13
+
+SEE, SIE, SEI, SII | 3.96699 3.99563 -1.19453 -2.68674 | kickE, kickI 3000 3000
+E_spike, I_spike | 10101 8448
+E spike rate= 33.67
+I spike rate = 84.48
+
+SEE, SIE, SEI, SII | 4.4402 3.7981 -4.9212 -2.20772 | kickE, kickI 3000 3000
+E_spike, I_spike | 20 1541
+E spike rate= 0.0666667
+I spike rate = 15.41
+
+SEE, SIE, SEI, SII | 2.80146 4.01131 -1.00552 -2.32063 | kickE, kickI 3000 3000
+E_spike, I_spike | 6448 6699
+E spike rate= 21.4933
+I spike rate = 66.99
+
+SEE, SIE, SEI, SII | 4.85238 5.88551 -3.38085 -3.93611 | kickE, kickI 3000 3000
+E_spike, I_spike | 706 1925
+E spike rate= 2.35333
+I spike rate = 19.25
+
+SEE, SIE, SEI, SII | 5.6248 3.1367 -2.68016 -3.54097 | kickE, kickI 3000 3000
+E_spike, I_spike | 4624 3906
+E spike rate= 15.4133
+I spike rate = 39.06
+
+SEE, SIE, SEI, SII | 4.67912 5.11704 -4.10017 -4.033 | kickE, kickI 3000 3000
+E_spike, I_spike | 459 1573
+E spike rate= 1.53
+I spike rate = 15.73
+
+SEE, SIE, SEI, SII | 2.8968 3.3834 -2.10364 -1.83657 | kickE, kickI 3000 3000
+E_spike, I_spike | 1538 2998
+E spike rate= 5.12667
+I spike rate = 29.98
+
+SEE, SIE, SEI, SII | 5.73836 5.96698 -1.68262 -2.87617 | kickE, kickI 3000 3000
+E_spike, I_spike | 4192 6172
+E spike rate= 13.9733
+I spike rate = 61.72
+
+SEE, SIE, SEI, SII | 4.16864 5.46879 -1.05293 -1.56087 | kickE, kickI 3000 3000
+E_spike, I_spike | 7082 9159
+E spike rate= 23.6067
+I spike rate = 91.59
+
+SEE, SIE, SEI, SII | 3.84257 2.33955 -2.68354 -3.61577 | kickE, kickI 3000 3000
+E_spike, I_spike | 3708 2826
+E spike rate= 12.36
+I spike rate = 28.26
+
+SEE, SIE, SEI, SII | 4.92979 3.04372 -1.43818 -4.84899 | kickE, kickI 3000 3000
+E_spike, I_spike | 21060 8683
+E spike rate= 70.2
+I spike rate = 86.83
+
+SEE, SIE, SEI, SII | 5.10348 3.92 -4.07001 -1.18886 | kickE, kickI 3000 3000
+E_spike, I_spike | 21 1934
+E spike rate= 0.07
+I spike rate = 19.34
+
+SEE, SIE, SEI, SII | 3.48709 3.3637 -1.92995 -3.33728 | kickE, kickI 3000 3000
+E_spike, I_spike | 4093 3876
+E spike rate= 13.6433
+I spike rate = 38.76
+
+SEE, SIE, SEI, SII | 4.43705 3.08403 -1.86844 -3.82904 | kickE, kickI 3000 3000
+E_spike, I_spike | 9595 6096
+E spike rate= 31.9833
+I spike rate = 60.96
+
+SEE, SIE, SEI, SII | 3.03197 5.21233 -4.99036 -4.59951 | kickE, kickI 3000 3000
+E_spike, I_spike | 183 1209
+E spike rate= 0.61
+I spike rate = 12.09
+
+SEE, SIE, SEI, SII | 5.00415 4.13784 -2.27713 -1.37755 | kickE, kickI 3000 3000
+E_spike, I_spike | 977 2949
+E spike rate= 3.25667
+I spike rate = 29.49
+
+SEE, SIE, SEI, SII | 4.20863 5.86421 -3.88173 -1.84966 | kickE, kickI 3000 3000
+E_spike, I_spike | 16 1691
+E spike rate= 0.0533333
+I spike rate = 16.91
+
+SEE, SIE, SEI, SII | 4.33774 2.00685 -2.68124 -2.32552 | kickE, kickI 3000 3000
+E_spike, I_spike | 3000 2928
+E spike rate= 10
+I spike rate = 29.28
+
+SEE, SIE, SEI, SII | 2.967 3.87082 -1.77154 -4.77429 | kickE, kickI 3000 3000
+E_spike, I_spike | 4625 3871
+E spike rate= 15.4167
+I spike rate = 38.71
+
+SEE, SIE, SEI, SII | 5.97963 5.93971 -1.04029 -1.63867 | kickE, kickI 3000 3000
+E_spike, I_spike | 15913 9585
+E spike rate= 53.0433
+I spike rate = 95.85
+
+SEE, SIE, SEI, SII | 3.30558 3.80993 -3.56896 -2.61156 | kickE, kickI 3000 3000
+E_spike, I_spike | 376 1749
+E spike rate= 1.25333
+I spike rate = 17.49
+
+SEE, SIE, SEI, SII | 2.30884 2.96054 -1.41531 -1.6766 | kickE, kickI 3000 3000
+E_spike, I_spike | 3453 4266
+E spike rate= 11.51
+I spike rate = 42.66
+
+SEE, SIE, SEI, SII | 4.40129 3.43362 -3.48622 -3.32991 | kickE, kickI 3000 3000
+E_spike, I_spike | 951 1918
+E spike rate= 3.17
+I spike rate = 19.18
+
+SEE, SIE, SEI, SII | 5.28642 2.19771 -1.56834 -3.31421 | kickE, kickI 3000 3000
+E_spike, I_spike | 22934 8186
+E spike rate= 76.4467
+I spike rate = 81.86
+
+SEE, SIE, SEI, SII | 2.45228 5.97792 -3.05772 -2.18396 | kickE, kickI 3000 3000
+E_spike, I_spike | 318 1994
+E spike rate= 1.06
+I spike rate = 19.94
+
+SEE, SIE, SEI, SII | 3.41781 2.04492 -4.99469 -2.1808 | kickE, kickI 3000 3000
+E_spike, I_spike | 8 1550
+E spike rate= 0.0266667
+I spike rate = 15.5
+
+SEE, SIE, SEI, SII | 3.30757 2.73515 -3.36334 -4.39104 | kickE, kickI 3000 3000
+E_spike, I_spike | 1856 1955
+E spike rate= 6.18667
+I spike rate = 19.55
+
+SEE, SIE, SEI, SII | 2.75623 2.16443 -2.67844 -4.90217 | kickE, kickI 3000 3000
+E_spike, I_spike | 4016 2413
+E spike rate= 13.3867
+I spike rate = 24.13
+
+SEE, SIE, SEI, SII | 3.31393 4.32966 -4.34226 -2.30804 | kickE, kickI 3000 3000
+E_spike, I_spike | 19 1535
+E spike rate= 0.0633333
+I spike rate = 15.35
+
+SEE, SIE, SEI, SII | 4.08663 4.08917 -2.76403 -2.20264 | kickE, kickI 3000 3000
+E_spike, I_spike | 818 2350
+E spike rate= 2.72667
+I spike rate = 23.5
+
+SEE, SIE, SEI, SII | 3.69978 3.17157 -3.3939 -3.97021 | kickE, kickI 3000 3000
+E_spike, I_spike | 1261 1883
+E spike rate= 4.20333
+I spike rate = 18.83
+
+SEE, SIE, SEI, SII | 2.28105 2.47184 -3.62866 -3.92996 | kickE, kickI 3000 3000
+E_spike, I_spike | 1160 1667
+E spike rate= 3.86667
+I spike rate = 16.67
+
+SEE, SIE, SEI, SII | 4.71848 2.39534 -1.7241 -1.99875 | kickE, kickI 3000 3000
+E_spike, I_spike | 12098 7622
+E spike rate= 40.3267
+I spike rate = 76.22
+
+SEE, SIE, SEI, SII | 5.86464 3.93751 -2.02769 -4.19255 | kickE, kickI 3000 3000
+E_spike, I_spike | 15615 9214
+E spike rate= 52.05
+I spike rate = 92.14
+
+SEE, SIE, SEI, SII | 4.16524 3.94748 -3.47728 -3.30681 | kickE, kickI 3000 3000
+E_spike, I_spike | 739 1864
+E spike rate= 2.46333
+I spike rate = 18.64
+
+SEE, SIE, SEI, SII | 4.84823 3.05902 -2.52235 -3.33135 | kickE, kickI 3000 3000
+E_spike, I_spike | 3834 3534
+E spike rate= 12.78
+I spike rate = 35.34
+
+SEE, SIE, SEI, SII | 2.89971 2.3311 -1.41523 -1.56491 | kickE, kickI 3000 3000
+E_spike, I_spike | 5193 4794
+E spike rate= 17.31
+I spike rate = 47.94
+
+SEE, SIE, SEI, SII | 4.64105 2.81071 -2.77322 -2.77418 | kickE, kickI 3000 3000
+E_spike, I_spike | 2221 2734
+E spike rate= 7.40333
+I spike rate = 27.34
+
+SEE, SIE, SEI, SII | 2.7875 4.09776 -2.16325 -1.95672 | kickE, kickI 3000 3000
+E_spike, I_spike | 1193 2833
+E spike rate= 3.97667
+I spike rate = 28.33
+
+SEE, SIE, SEI, SII | 3.18056 3.18261 -2.31023 -2.61462 | kickE, kickI 3000 3000
+E_spike, I_spike | 2033 2859
+E spike rate= 6.77667
+I spike rate = 28.59
+
+SEE, SIE, SEI, SII | 5.98359 2.46004 -2.38679 -4.70615 | kickE, kickI 3000 3000
+E_spike, I_spike | 23065 8342
+E spike rate= 76.8833
+I spike rate = 83.42
+
+SEE, SIE, SEI, SII | 3.53968 3.92741 -3.72808 -2.83408 | kickE, kickI 3000 3000
+E_spike, I_spike | 324 1674
+E spike rate= 1.08
+I spike rate = 16.74
+
+SEE, SIE, SEI, SII | 5.78827 2.32907 -3.09889 -1.53358 | kickE, kickI 3000 3000
+E_spike, I_spike | 753 2218
+E spike rate= 2.51
+I spike rate = 22.18
+
+SEE, SIE, SEI, SII | 4.93192 2.56082 -1.41508 -2.84129 | kickE, kickI 3000 3000
+E_spike, I_spike | 20221 8651
+E spike rate= 67.4033
+I spike rate = 86.51
+
+SEE, SIE, SEI, SII | 5.13549 4.64512 -4.60809 -2.1349 | kickE, kickI 3000 3000
+E_spike, I_spike | 2 1567
+E spike rate= 0.00666667
+I spike rate = 15.67
+
+SEE, SIE, SEI, SII | 2.24828 3.80562 -1.6314 -4.52008 | kickE, kickI 3000 3000
+E_spike, I_spike | 4012 3586
+E spike rate= 13.3733
+I spike rate = 35.86
+
+SEE, SIE, SEI, SII | 2.35635 4.68283 -3.33455 -4.82269 | kickE, kickI 3000 3000
+E_spike, I_spike | 1046 1824
+E spike rate= 3.48667
+I spike rate = 18.24
+
+SEE, SIE, SEI, SII | 4.93105 5.23881 -2.09014 -3.99908 | kickE, kickI 3000 3000
+E_spike, I_spike | 3297 4122
+E spike rate= 10.99
+I spike rate = 41.22
+
+SEE, SIE, SEI, SII | 3.33766 3.12434 -2.27577 -3.5496 | kickE, kickI 3000 3000
+E_spike, I_spike | 3109 3043
+E spike rate= 10.3633
+I spike rate = 30.43
+
+SEE, SIE, SEI, SII | 3.02755 3.2069 -2.82136 -1.93462 | kickE, kickI 3000 3000
+E_spike, I_spike | 686 2177
+E spike rate= 2.28667
+I spike rate = 21.77
+
+SEE, SIE, SEI, SII | 4.17971 3.32125 -3.78672 -4.49029 | kickE, kickI 3000 3000
+E_spike, I_spike | 1262 1795
+E spike rate= 4.20667
+I spike rate = 17.95
+
+SEE, SIE, SEI, SII | 3.3264 5.85798 -2.24023 -4.85204 | kickE, kickI 3000 3000
+E_spike, I_spike | 2093 2992
+E spike rate= 6.97667
+I spike rate = 29.92
+
+SEE, SIE, SEI, SII | 4.60498 2.74387 -1.51303 -1.93515 | kickE, kickI 3000 3000
+E_spike, I_spike | 13761 8471
+E spike rate= 45.87
+I spike rate = 84.71
+
+SEE, SIE, SEI, SII | 2.05809 5.31168 -2.48754 -4.75457 | kickE, kickI 3000 3000
+E_spike, I_spike | 1559 2391
+E spike rate= 5.19667
+I spike rate = 23.91
+
+SEE, SIE, SEI, SII | 3.94637 3.55791 -4.58924 -2.36223 | kickE, kickI 3000 3000
+E_spike, I_spike | 16 1511
+E spike rate= 0.0533333
+I spike rate = 15.11
+
+SEE, SIE, SEI, SII | 3.06723 2.14675 -1.96293 -3.74469 | kickE, kickI 3000 3000
+E_spike, I_spike | 6176 3623
+E spike rate= 20.5867
+I spike rate = 36.23
+
+SEE, SIE, SEI, SII | 3.7159 4.79245 -2.22593 -3.07304 | kickE, kickI 3000 3000
+E_spike, I_spike | 1783 3062
+E spike rate= 5.94333
+I spike rate = 30.62
+
+SEE, SIE, SEI, SII | 4.83652 4.49492 -1.1502 -2.45326 | kickE, kickI 3000 3000
+E_spike, I_spike | 15609 9568
+E spike rate= 52.03
+I spike rate = 95.68
+
+SEE, SIE, SEI, SII | 5.25209 2.03107 -2.71209 -3.52913 | kickE, kickI 3000 3000
+E_spike, I_spike | 11872 5529
+E spike rate= 39.5733
+I spike rate = 55.29
+
+SEE, SIE, SEI, SII | 5.40233 2.05755 -3.34707 -1.54412 | kickE, kickI 3000 3000
+E_spike, I_spike | 232 1897
+E spike rate= 0.773333
+I spike rate = 18.97
+
+SEE, SIE, SEI, SII | 4.38403 5.4843 -2.53686 -1.37519 | kickE, kickI 3000 3000
+E_spike, I_spike | 417 2502
+E spike rate= 1.39
+I spike rate = 25.02
+
+SEE, SIE, SEI, SII | 5.40959 2.74385 -3.25349 -2.87621 | kickE, kickI 3000 3000
+E_spike, I_spike | 1502 2266
+E spike rate= 5.00667
+I spike rate = 22.66
+
+SEE, SIE, SEI, SII | 3.13531 5.06391 -4.95946 -2.46027 | kickE, kickI 3000 3000
+E_spike, I_spike | 13 1475
+E spike rate= 0.0433333
+I spike rate = 14.75
+
+SEE, SIE, SEI, SII | 5.19255 4.8374 -3.75943 -2.39013 | kickE, kickI 5000 5000
+E_spike, I_spike | 318 2792
+E spike rate= 1.06
+I spike rate = 27.92
+
+SEE, SIE, SEI, SII | 3.15765 4.05803 -1.71717 -4.98184 | kickE, kickI 5000 5000
+E_spike, I_spike | 9094 6848
+E spike rate= 30.3133
+I spike rate = 68.48
+
+SEE, SIE, SEI, SII | 2.8968 5.2297 -2.40373 -3.3416 | kickE, kickI 5000 5000
+E_spike, I_spike | 2342 4349
+E spike rate= 7.80667
+I spike rate = 43.49
+
+SEE, SIE, SEI, SII | 4.85056 5.3288 -3.1753 -4.09227 | kickE, kickI 5000 5000
+E_spike, I_spike | 1973 3658
+E spike rate= 6.57667
+I spike rate = 36.58
+
+SEE, SIE, SEI, SII | 5.13416 4.96173 -2.54318 -2.94408 | kickE, kickI 5000 5000
+E_spike, I_spike | 2838 4941
+E spike rate= 9.46
+I spike rate = 49.41
+
+SEE, SIE, SEI, SII | 5.91276 5.75795 -4.67869 -3.24774 | kickE, kickI 5000 5000
+E_spike, I_spike | 116 2250
+E spike rate= 0.386667
+I spike rate = 22.5
+
+SEE, SIE, SEI, SII | 2.66142 4.7531 -3.52857 -3.69968 | kickE, kickI 5000 5000
+E_spike, I_spike | 1021 2890
+E spike rate= 3.40333
+I spike rate = 28.9
+
+SEE, SIE, SEI, SII | 4.35864 4.91539 -2.82591 -4.67042 | kickE, kickI 5000 5000
+E_spike, I_spike | 3331 4302
+E spike rate= 11.1033
+I spike rate = 43.02
+
+SEE, SIE, SEI, SII | 2.7613 2.9507 -4.4087 -4.4859 | kickE, kickI 5000 5000
+E_spike, I_spike | 1101 2323
+E spike rate= 3.67
+I spike rate = 23.23
+
+SEE, SIE, SEI, SII | 2.14381 4.48714 -4.36764 -1.45219 | kickE, kickI 5000 5000
+E_spike, I_spike | 9 2942
+E spike rate= 0.03
+I spike rate = 29.42
+
+SEE, SIE, SEI, SII | 5.29825 4.95628 -2.42093 -4.26991 | kickE, kickI 5000 5000
+E_spike, I_spike | 5558 6127
+E spike rate= 18.5267
+I spike rate = 61.27
+
+SEE, SIE, SEI, SII | 3.95291 2.21006 -2.00151 -4.81476 | kickE, kickI 5000 5000
+E_spike, I_spike | 18360 7367
+E spike rate= 61.2
+I spike rate = 73.67
+
+SEE, SIE, SEI, SII | 2.82337 4.28699 -2.20238 -3.56833 | kickE, kickI 5000 5000
+E_spike, I_spike | 3635 4828
+E spike rate= 12.1167
+I spike rate = 48.28
+
+SEE, SIE, SEI, SII | 3.0473 2.82026 -4.95471 -3.26409 | kickE, kickI 5000 5000
+E_spike, I_spike | 78 2157
+E spike rate= 0.26
+I spike rate = 21.57
+
+SEE, SIE, SEI, SII | 3.11644 2.05453 -2.0627 -3.21556 | kickE, kickI 5000 5000
+E_spike, I_spike | 9316 5644
+E spike rate= 31.0533
+I spike rate = 56.44
+
+SEE, SIE, SEI, SII | 2.7351 5.26505 -3.14586 -4.28468 | kickE, kickI 5000 5000
+E_spike, I_spike | 1649 3275
+E spike rate= 5.49667
+I spike rate = 32.75
+
+SEE, SIE, SEI, SII | 3.15012 4.15816 -1.05855 -2.53002 | kickE, kickI 5000 5000
+E_spike, I_spike | 13694 11041
+E spike rate= 45.6467
+I spike rate = 110.41
+
+SEE, SIE, SEI, SII | 5.23254 5.66653 -2.32068 -4.54896 | kickE, kickI 5000 5000
+E_spike, I_spike | 5233 6253
+E spike rate= 17.4433
+I spike rate = 62.53
+
+SEE, SIE, SEI, SII | 5.84417 5.71553 -1.09993 -3.22285 | kickE, kickI 5000 5000
+E_spike, I_spike | 27230 13002
+E spike rate= 90.7667
+I spike rate = 130.02
+
+SEE, SIE, SEI, SII | 5.72657 5.51698 -1.23096 -4.40302 | kickE, kickI 5000 5000
+E_spike, I_spike | 27306 12925
+E spike rate= 91.02
+I spike rate = 129.25
+
+SEE, SIE, SEI, SII | 4.30457 5.60406 -3.86513 -3.29827 | kickE, kickI 5000 5000
+E_spike, I_spike | 596 2722
+E spike rate= 1.98667
+I spike rate = 27.22
+
+SEE, SIE, SEI, SII | 3.2321 5.42396 -4.81395 -2.09021 | kickE, kickI 5000 5000
+E_spike, I_spike | 8 2604
+E spike rate= 0.0266667
+I spike rate = 26.04
+
+SEE, SIE, SEI, SII | 5.97077 5.24778 -3.1924 -2.08328 | kickE, kickI 5000 5000
+E_spike, I_spike | 623 3332
+E spike rate= 2.07667
+I spike rate = 33.32
+
+SEE, SIE, SEI, SII | 5.30157 2.78558 -1.55346 -3.87235 | kickE, kickI 5000 5000
+E_spike, I_spike | 29025 11331
+E spike rate= 96.75
+I spike rate = 113.31
+
+SEE, SIE, SEI, SII | 4.95478 4.01977 -4.71302 -1.77868 | kickE, kickI 5000 5000
+E_spike, I_spike | 0 2754
+E spike rate= 0
+I spike rate = 27.54
+
+SEE, SIE, SEI, SII | 4.29419 5.22256 -1.69014 -1.86115 | kickE, kickI 5000 5000
+E_spike, I_spike | 4710 7680
+E spike rate= 15.7
+I spike rate = 76.8
+
+SEE, SIE, SEI, SII | 4.7516 4.10203 -4.36822 -2.92076 | kickE, kickI 5000 5000
+E_spike, I_spike | 138 2362
+E spike rate= 0.46
+I spike rate = 23.62
+
+SEE, SIE, SEI, SII | 2.71177 5.64413 -4.34114 -4.0349 | kickE, kickI 5000 5000
+E_spike, I_spike | 467 2353
+E spike rate= 1.55667
+I spike rate = 23.53
+
+SEE, SIE, SEI, SII | 5.45581 2.12397 -2.84307 -3.14953 | kickE, kickI 5000 5000
+E_spike, I_spike | 14659 7517
+E spike rate= 48.8633
+I spike rate = 75.17
+
+SEE, SIE, SEI, SII | 5.06479 3.82105 -1.20094 -3.49162 | kickE, kickI 5000 5000
+E_spike, I_spike | 27338 12249
+E spike rate= 91.1267
+I spike rate = 122.49
+
+SEE, SIE, SEI, SII | 2.1692 5.3127 -4.5742 -1.50208 | kickE, kickI 5000 5000
+E_spike, I_spike | 7 2883
+E spike rate= 0.0233333
+I spike rate = 28.83
+
+SEE, SIE, SEI, SII | 2.36262 4.26708 -2.09415 -3.97973 | kickE, kickI 5000 5000
+E_spike, I_spike | 4117 4850
+E spike rate= 13.7233
+I spike rate = 48.5
+
+SEE, SIE, SEI, SII | 5.9685 4.76309 -1.19368 -2.09669 | kickE, kickI 5000 5000
+E_spike, I_spike | 27405 13179
+E spike rate= 91.35
+I spike rate = 131.79
+
+SEE, SIE, SEI, SII | 3.38575 2.717 -3.49284 -1.71011 | kickE, kickI 5000 5000
+E_spike, I_spike | 246 2933
+E spike rate= 0.82
+I spike rate = 29.33
+
+SEE, SIE, SEI, SII | 5.90896 3.98948 -2.72585 -3.42381 | kickE, kickI 5000 5000
+E_spike, I_spike | 5095 5713
+E spike rate= 16.9833
+I spike rate = 57.13
+
+SEE, SIE, SEI, SII | 2.95162 2.00282 -3.58347 -1.45802 | kickE, kickI 5000 5000
+E_spike, I_spike | 57 2978
+E spike rate= 0.19
+I spike rate = 29.78
+
+SEE, SIE, SEI, SII | 4.05126 3.01597 -3.00319 -4.66448 | kickE, kickI 5000 5000
+E_spike, I_spike | 5278 4213
+E spike rate= 17.5933
+I spike rate = 42.13
+
+SEE, SIE, SEI, SII | 2.8944 4.64 -4.01517 -2.36438 | kickE, kickI 5000 5000
+E_spike, I_spike | 131 2580
+E spike rate= 0.436667
+I spike rate = 25.8
+
+SEE, SIE, SEI, SII | 5.869 4.55819 -3.49557 -1.09003 | kickE, kickI 5000 5000
+E_spike, I_spike | 5 3163
+E spike rate= 0.0166667
+I spike rate = 31.63
+
+SEE, SIE, SEI, SII | 2.6738 4.52706 -2.70248 -2.76137 | kickE, kickI 5000 5000
+E_spike, I_spike | 1632 3798
+E spike rate= 5.44
+I spike rate = 37.98
+
+SEE, SIE, SEI, SII | 3.4712 2.39227 -1.39387 -2.587 | kickE, kickI 5000 5000
+E_spike, I_spike | 16390 9147
+E spike rate= 54.6333
+I spike rate = 91.47
+
+SEE, SIE, SEI, SII | 3.44139 3.06698 -2.44914 -4.14597 | kickE, kickI 5000 5000
+E_spike, I_spike | 5946 4856
+E spike rate= 19.82
+I spike rate = 48.56
+
+SEE, SIE, SEI, SII | 5.34386 5.96674 -1.10328 -1.23316 | kickE, kickI 5000 5000
+E_spike, I_spike | 20012 12311
+E spike rate= 66.7067
+I spike rate = 123.11
+
+SEE, SIE, SEI, SII | 2.72696 5.2332 -2.80549 -2.00232 | kickE, kickI 5000 5000
+E_spike, I_spike | 795 3624
+E spike rate= 2.65
+I spike rate = 36.24
+
+SEE, SIE, SEI, SII | 3.93088 2.99777 -4.91061 -4.44044 | kickE, kickI 5000 5000
+E_spike, I_spike | 708 2127
+E spike rate= 2.36
+I spike rate = 21.27
+
+SEE, SIE, SEI, SII | 5.97034 2.71538 -2.85834 -2.18854 | kickE, kickI 5000 5000
+E_spike, I_spike | 5482 5729
+E spike rate= 18.2733
+I spike rate = 57.29
+
+SEE, SIE, SEI, SII | 5.24124 5.9166 -2.74896 -1.09993 | kickE, kickI 5000 5000
+E_spike, I_spike | 389 3758
+E spike rate= 1.29667
+I spike rate = 37.58
+
+SEE, SIE, SEI, SII | 4.75103 3.58706 -1.06901 -1.7975 | kickE, kickI 5000 5000
+E_spike, I_spike | 25519 12535
+E spike rate= 85.0633
+I spike rate = 125.35
+
+SEE, SIE, SEI, SII | 3.87836 3.6888 -2.85447 -3.16315 | kickE, kickI 5000 5000
+E_spike, I_spike | 2546 3940
+E spike rate= 8.48667
+I spike rate = 39.4
+
+SEE, SIE, SEI, SII | 3.68264 3.11707 -3.49888 -4.00146 | kickE, kickI 5000 5000
+E_spike, I_spike | 2333 3165
+E spike rate= 7.77667
+I spike rate = 31.65
+
+SEE, SIE, SEI, SII | 4.68746 2.41898 -4.66399 -2.65706 | kickE, kickI 5000 5000
+E_spike, I_spike | 33 2345
+E spike rate= 0.11
+I spike rate = 23.45
+
+SEE, SIE, SEI, SII | 2.41157 4.03719 -2.36919 -3.64373 | kickE, kickI 5000 5000
+E_spike, I_spike | 3152 4282
+E spike rate= 10.5067
+I spike rate = 42.82
+
+SEE, SIE, SEI, SII | 5.90222 2.69689 -4.5201 -2.85204 | kickE, kickI 5000 5000
+E_spike, I_spike | 125 2316
+E spike rate= 0.416667
+I spike rate = 23.16
+
+SEE, SIE, SEI, SII | 2.77013 3.51984 -2.40942 -3.64535 | kickE, kickI 5000 5000
+E_spike, I_spike | 3761 4376
+E spike rate= 12.5367
+I spike rate = 43.76
+
+SEE, SIE, SEI, SII | 4.03143 3.84269 -1.85097 -3.56175 | kickE, kickI 5000 5000
+E_spike, I_spike | 8928 7648
+E spike rate= 29.76
+I spike rate = 76.48
+
+SEE, SIE, SEI, SII | 4.49407 3.653 -4.13242 -4.81685 | kickE, kickI 5000 5000
+E_spike, I_spike | 1792 2746
+E spike rate= 5.97333
+I spike rate = 27.46
+
+SEE, SIE, SEI, SII | 4.60558 3.77851 -2.96155 -1.36493 | kickE, kickI 5000 5000
+E_spike, I_spike | 552 3553
+E spike rate= 1.84
+I spike rate = 35.53
+
+SEE, SIE, SEI, SII | 3.04954 5.8088 -1.10473 -4.81553 | kickE, kickI 5000 5000
+E_spike, I_spike | 11993 10434
+E spike rate= 39.9767
+I spike rate = 104.34
+
+SEE, SIE, SEI, SII | 3.83216 5.92495 -2.02128 -3.83939 | kickE, kickI 5000 5000
+E_spike, I_spike | 4007 5890
+E spike rate= 13.3567
+I spike rate = 58.9
+
+SEE, SIE, SEI, SII | 4.46614 4.14191 -4.20305 -3.60985 | kickE, kickI 5000 5000
+E_spike, I_spike | 602 2478
+E spike rate= 2.00667
+I spike rate = 24.78
+
+SEE, SIE, SEI, SII | 5.14998 4.50987 -3.53481 -4.45793 | kickE, kickI 5000 5000
+E_spike, I_spike | 2121 3374
+E spike rate= 7.07
+I spike rate = 33.74
+
+SEE, SIE, SEI, SII | 2.13822 3.28404 -1.69522 -4.2789 | kickE, kickI 5000 5000
+E_spike, I_spike | 7099 5532
+E spike rate= 23.6633
+I spike rate = 55.32
+
+SEE, SIE, SEI, SII | 3.78566 4.02172 -3.1691 -1.08258 | kickE, kickI 5000 5000
+E_spike, I_spike | 57 3255
+E spike rate= 0.19
+I spike rate = 32.55
+
+SEE, SIE, SEI, SII | 2.77445 2.56002 -1.16868 -2.43525 | kickE, kickI 5000 5000
+E_spike, I_spike | 13697 8683
+E spike rate= 45.6567
+I spike rate = 86.83
+
+SEE, SIE, SEI, SII | 4.22765 5.26253 -1.94844 -3.17943 | kickE, kickI 5000 5000
+E_spike, I_spike | 4719 6555
+E spike rate= 15.73
+I spike rate = 65.55
+
+SEE, SIE, SEI, SII | 2.08275 2.7821 -2.44893 -4.71551 | kickE, kickI 5000 5000
+E_spike, I_spike | 5022 3930
+E spike rate= 16.74
+I spike rate = 39.3
+
+SEE, SIE, SEI, SII | 2.59312 2.7034 -1.22161 -2.55855 | kickE, kickI 5000 5000
+E_spike, I_spike | 11321 7931
+E spike rate= 37.7367
+I spike rate = 79.31
+
+SEE, SIE, SEI, SII | 4.78465 3.26902 -2.85998 -3.26441 | kickE, kickI 5000 5000
+E_spike, I_spike | 3732 4435
+E spike rate= 12.44
+I spike rate = 44.35
+
+SEE, SIE, SEI, SII | 2.37018 5.36644 -1.94887 -3.07967 | kickE, kickI 5000 5000
+E_spike, I_spike | 2981 5201
+E spike rate= 9.93667
+I spike rate = 52.01
+
+SEE, SIE, SEI, SII | 3.99799 5.98878 -1.81049 -4.67664 | kickE, kickI 5000 5000
+E_spike, I_spike | 6304 7148
+E spike rate= 21.0133
+I spike rate = 71.48
+
+SEE, SIE, SEI, SII | 2.15472 4.2244 -2.26387 -4.77639 | kickE, kickI 5000 5000
+E_spike, I_spike | 4061 4366
+E spike rate= 13.5367
+I spike rate = 43.66
+
+SEE, SIE, SEI, SII | 5.60226 2.02112 -4.2088 -3.51965 | kickE, kickI 5000 5000
+E_spike, I_spike | 2391 2952
+E spike rate= 7.97
+I spike rate = 29.52
+
+SEE, SIE, SEI, SII | 2.54129 4.40353 -3.22014 -1.5239 | kickE, kickI 5000 5000
+E_spike, I_spike | 225 3156
+E spike rate= 0.75
+I spike rate = 31.56
+
+SEE, SIE, SEI, SII | 4.88497 2.08248 -1.06901 -1.5314 | kickE, kickI 5000 5000
+E_spike, I_spike | 30105 11400
+E spike rate= 100.35
+I spike rate = 114
+
+SEE, SIE, SEI, SII | 3.08812 3.31651 -1.14568 -3.39761 | kickE, kickI 5000 5000
+E_spike, I_spike | 15528 9615
+E spike rate= 51.76
+I spike rate = 96.15
+
+SEE, SIE, SEI, SII | 5.56168 3.34958 -4.31098 -2.08513 | kickE, kickI 5000 5000
+E_spike, I_spike | 1 2601
+E spike rate= 0.00333333
+I spike rate = 26.01
+
+SEE, SIE, SEI, SII | 3.86547 2.58802 -3.97051 -2.03716 | kickE, kickI 5000 5000
+E_spike, I_spike | 115 2651
+E spike rate= 0.383333
+I spike rate = 26.51
+
+SEE, SIE, SEI, SII | 2.07556 5.08691 -1.8722 -4.33959 | kickE, kickI 5000 5000
+E_spike, I_spike | 4150 5141
+E spike rate= 13.8333
+I spike rate = 51.41
+
+SEE, SIE, SEI, SII | 5.17488 3.42196 -3.67082 -2.87864 | kickE, kickI 5000 5000
+E_spike, I_spike | 1100 3023
+E spike rate= 3.66667
+I spike rate = 30.23
+
+SEE, SIE, SEI, SII | 2.37112 2.16359 -3.01146 -2.25044 | kickE, kickI 5000 5000
+E_spike, I_spike | 1653 3350
+E spike rate= 5.51
+I spike rate = 33.5
+
+SEE, SIE, SEI, SII | 5.45967 3.74393 -2.68607 -3.13813 | kickE, kickI 5000 5000
+E_spike, I_spike | 4727 5446
+E spike rate= 15.7567
+I spike rate = 54.46
+
+SEE, SIE, SEI, SII | 5.40499 3.35035 -3.52919 -3.19306 | kickE, kickI 5000 5000
+E_spike, I_spike | 1846 3347
+E spike rate= 6.15333
+I spike rate = 33.47
+
+SEE, SIE, SEI, SII | 2.52476 3.90491 -1.31606 -2.26833 | kickE, kickI 5000 5000
+E_spike, I_spike | 7204 7829
+E spike rate= 24.0133
+I spike rate = 78.29
+
+SEE, SIE, SEI, SII | 3.15028 2.97245 -4.00238 -3.1205 | kickE, kickI 5000 5000
+E_spike, I_spike | 685 2574
+E spike rate= 2.28333
+I spike rate = 25.74
+
+SEE, SIE, SEI, SII | 2.54415 5.15738 -3.87066 -4.93044 | kickE, kickI 5000 5000
+E_spike, I_spike | 1177 2622
+E spike rate= 3.92333
+I spike rate = 26.22
+
+SEE, SIE, SEI, SII | 5.82502 2.73091 -1.44089 -4.01482 | kickE, kickI 5000 5000
+E_spike, I_spike | 32858 11906
+E spike rate= 109.527
+I spike rate = 119.06
+
+SEE, SIE, SEI, SII | 3.48356 2.33884 -2.42767 -1.50779 | kickE, kickI 5000 5000
+E_spike, I_spike | 2768 4563
+E spike rate= 9.22667
+I spike rate = 45.63
+
+SEE, SIE, SEI, SII | 5.43063 4.37815 -1.79553 -4.92701 | kickE, kickI 5000 5000
+E_spike, I_spike | 24066 12211
+E spike rate= 80.22
+I spike rate = 122.11
+
+SEE, SIE, SEI, SII | 4.24526 5.03175 -2.0829 -2.30447 | kickE, kickI 5000 5000
+E_spike, I_spike | 3081 5716
+E spike rate= 10.27
+I spike rate = 57.16
+
+SEE, SIE, SEI, SII | 5.08904 3.04161 -2.01557 -4.15137 | kickE, kickI 5000 5000
+E_spike, I_spike | 21811 10496
+E spike rate= 72.7033
+I spike rate = 104.96
+
+SEE, SIE, SEI, SII | 2.76069 2.79833 -4.95652 -3.66871 | kickE, kickI 5000 5000
+E_spike, I_spike | 202 2098
+E spike rate= 0.673333
+I spike rate = 20.98
+
+SEE, SIE, SEI, SII | 3.68717 5.82803 -2.76803 -4.03398 | kickE, kickI 5000 5000
+E_spike, I_spike | 2020 3907
+E spike rate= 6.73333
+I spike rate = 39.07
+
+SEE, SIE, SEI, SII | 5.89959 4.74291 -2.56828 -3.02833 | kickE, kickI 5000 5000
+E_spike, I_spike | 3663 5484
+E spike rate= 12.21
+I spike rate = 54.84
+
+SEE, SIE, SEI, SII | 5.29151 2.47242 -3.85433 -1.13883 | kickE, kickI 5000 5000
+E_spike, I_spike | 6 3158
+E spike rate= 0.02
+I spike rate = 31.58
+
+SEE, SIE, SEI, SII | 2.69324 3.41687 -3.807 -4.03758 | kickE, kickI 5000 5000
+E_spike, I_spike | 1337 2696
+E spike rate= 4.45667
+I spike rate = 26.96
+
+SEE, SIE, SEI, SII | 5.682 3.65149 -1.68626 -1.58069 | kickE, kickI 5000 5000
+E_spike, I_spike | 20750 11371
+E spike rate= 69.1667
+I spike rate = 113.71
+
+SEE, SIE, SEI, SII | 4.88161 5.00284 -2.03678 -3.83617 | kickE, kickI 5000 5000
+E_spike, I_spike | 6869 7455
+E spike rate= 22.8967
+I spike rate = 74.55
+
+SEE, SIE, SEI, SII | 5.3925 4.10352 -1.58536 -2.05065 | kickE, kickI 5000 5000
+E_spike, I_spike | 20567 11739
+E spike rate= 68.5567
+I spike rate = 117.39
+
+SEE, SIE, SEI, SII | 5.26672 2.88355 -3.56244 -4.40733 | kickE, kickI 5000 5000
+E_spike, I_spike | 4537 3936
+E spike rate= 15.1233
+I spike rate = 39.36
+
+SEE, SIE, SEI, SII | 4.72427 4.93229 -1.96546 -1.85053 | kickE, kickI 5000 5000
+E_spike, I_spike | 3635 6557
+E spike rate= 12.1167
+I spike rate = 65.57
+
+SEE, SIE, SEI, SII | 3.95669 5.11147 -1.00931 -3.34891 | kickE, kickI 5000 5000
+E_spike, I_spike | 21223 13430
+E spike rate= 70.7433
+I spike rate = 134.3
+
+SEE, SIE, SEI, SII | 4.81876 5.66294 -4.17052 -2.50937 | kickE, kickI 5000 5000
+E_spike, I_spike | 117 2513
+E spike rate= 0.39
+I spike rate = 25.13
+
+SEE, SIE, SEI, SII | 5.57559 5.91585 -2.05233 -3.94509 | kickE, kickI 5000 5000
+E_spike, I_spike | 6905 8149
+E spike rate= 23.0167
+I spike rate = 81.49
+
+SEE, SIE, SEI, SII | 3.11172 4.18719 -3.7658 -3.47798 | kickE, kickI 5000 5000
+E_spike, I_spike | 857 2725
+E spike rate= 2.85667
+I spike rate = 27.25
+
+SEE, SIE, SEI, SII | 4.67244 5.84883 -2.10866 -1.74895 | kickE, kickI 5000 5000
+E_spike, I_spike | 2053 5491
+E spike rate= 6.84333
+I spike rate = 54.91
+
+SEE, SIE, SEI, SII | 2.27719 4.79551 -2.72674 -4.96756 | kickE, kickI 5000 5000
+E_spike, I_spike | 2756 3690
+E spike rate= 9.18667
+I spike rate = 36.9
+
+SEE, SIE, SEI, SII | 2.1175 3.89835 -3.2125 -2.72738 | kickE, kickI 5000 5000
+E_spike, I_spike | 1008 3122
+E spike rate= 3.36
+I spike rate = 31.22
+
+SEE, SIE, SEI, SII | 4.51311 2.34191 -2.63322 -1.33623 | kickE, kickI 5000 5000
+E_spike, I_spike | 2378 4470
+E spike rate= 7.92667
+I spike rate = 44.7
+
+SEE, SIE, SEI, SII | 4.05685 3.26471 -2.92715 -3.16392 | kickE, kickI 5000 5000
+E_spike, I_spike | 2842 3959
+E spike rate= 9.47333
+I spike rate = 39.59
+
+SEE, SIE, SEI, SII | 3.50355 4.37947 -3.39908 -2.12517 | kickE, kickI 5000 5000
+E_spike, I_spike | 446 3036
+E spike rate= 1.48667
+I spike rate = 30.36
+
+SEE, SIE, SEI, SII | 4.78905 5.93846 -3.62667 -4.4491 | kickE, kickI 5000 5000
+E_spike, I_spike | 1237 3023
+E spike rate= 4.12333
+I spike rate = 30.23
+
+SEE, SIE, SEI, SII | 5.20474 4.89507 -4.00766 -3.55012 | kickE, kickI 5000 5000
+E_spike, I_spike | 692 2667
+E spike rate= 2.30667
+I spike rate = 26.67
+
+SEE, SIE, SEI, SII | 5.19324 2.63372 -3.57567 -2.22235 | kickE, kickI 5000 5000
+E_spike, I_spike | 846 3023
+E spike rate= 2.82
+I spike rate = 30.23
+
+SEE, SIE, SEI, SII | 3.25673 4.35514 -1.1713 -3.28165 | kickE, kickI 5000 5000
+E_spike, I_spike | 13246 10346
+E spike rate= 44.1533
+I spike rate = 103.46
+
+SEE, SIE, SEI, SII | 3.25706 4.11688 -1.83305 -3.18797 | kickE, kickI 5000 5000
+E_spike, I_spike | 5703 6315
+E spike rate= 19.01
+I spike rate = 63.15
+
+SEE, SIE, SEI, SII | 2.94295 5.05846 -1.21401 -4.93741 | kickE, kickI 5000 5000
+E_spike, I_spike | 11273 9175
+E spike rate= 37.5767
+I spike rate = 91.75
+
+SEE, SIE, SEI, SII | 4.24217 5.8961 -2.93688 -2.66531 | kickE, kickI 5000 5000
+E_spike, I_spike | 1069 3644
+E spike rate= 3.56333
+I spike rate = 36.44
+
+SEE, SIE, SEI, SII | 3.26953 5.7534 -4.0167 -1.75451 | kickE, kickI 5000 5000
+E_spike, I_spike | 11 2787
+E spike rate= 0.0366667
+I spike rate = 27.87
+
+SEE, SIE, SEI, SII | 3.79029 5.95404 -1.04318 -3.00555 | kickE, kickI 5000 5000
+E_spike, I_spike | 17028 13188
+E spike rate= 56.76
+I spike rate = 131.88
+
+SEE, SIE, SEI, SII | 4.50779 5.0419 -2.1905 -4.60174 | kickE, kickI 5000 5000
+E_spike, I_spike | 6293 6431
+E spike rate= 20.9767
+I spike rate = 64.31
+
+SEE, SIE, SEI, SII | 5.59827 2.85726 -1.00022 -1.04194 | kickE, kickI 5000 5000
+E_spike, I_spike | 32145 13088
+E spike rate= 107.15
+I spike rate = 130.88
+
+SEE, SIE, SEI, SII | 4.83704 5.20591 -3.01455 -1.63068 | kickE, kickI 5000 5000
+E_spike, I_spike | 494 3470
+E spike rate= 1.64667
+I spike rate = 34.7
+
+SEE, SIE, SEI, SII | 5.25627 3.8692 -3.60307 -4.54198 | kickE, kickI 5000 5000
+E_spike, I_spike | 2735 3466
+E spike rate= 9.11667
+I spike rate = 34.66
+
+SEE, SIE, SEI, SII | 5.87726 2.92357 -3.45332 -3.46705 | kickE, kickI 5000 5000
+E_spike, I_spike | 3460 3933
+E spike rate= 11.5333
+I spike rate = 39.33
+
+SEE, SIE, SEI, SII | 3.69397 5.85342 -1.86133 -1.41808 | kickE, kickI 5000 5000
+E_spike, I_spike | 2083 5881
+E spike rate= 6.94333
+I spike rate = 58.81
+
+SEE, SIE, SEI, SII | 2.26146 2.2476 -3.45191 -4.49307 | kickE, kickI 5000 5000
+E_spike, I_spike | 3004 2894
+E spike rate= 10.0133
+I spike rate = 28.94
+
+SEE, SIE, SEI, SII | 4.68567 4.82906 -3.94472 -1.92893 | kickE, kickI 5000 5000
+E_spike, I_spike | 39 2726
+E spike rate= 0.13
+I spike rate = 27.26
+
+SEE, SIE, SEI, SII | 4.15471 4.22834 -2.24288 -2.98696 | kickE, kickI 5000 5000
+E_spike, I_spike | 4112 5508
+E spike rate= 13.7067
+I spike rate = 55.08
+
+SEE, SIE, SEI, SII | 4.5821 4.49004 -4.02576 -1.11447 | kickE, kickI 5000 5000
+E_spike, I_spike | 11 3182
+E spike rate= 0.0366667
+I spike rate = 31.82
+
+SEE, SIE, SEI, SII | 4.69998 5.73422 -2.27428 -1.34274 | kickE, kickI 5000 5000
+E_spike, I_spike | 1259 4813
+E spike rate= 4.19667
+I spike rate = 48.13
+
+SEE, SIE, SEI, SII | 5.18021 2.44704 -2.34999 -4.92252 | kickE, kickI 5000 5000
+E_spike, I_spike | 24091 9216
+E spike rate= 80.3033
+I spike rate = 92.16
+
+SEE, SIE, SEI, SII | 2.36482 5.30553 -4.47439 -1.28607 | kickE, kickI 5000 5000
+E_spike, I_spike | 0 3035
+E spike rate= 0
+I spike rate = 30.35
+
+SEE, SIE, SEI, SII | 3.93142 3.06982 -1.81621 -3.13592 | kickE, kickI 5000 5000
+E_spike, I_spike | 11053 7935
+E spike rate= 36.8433
+I spike rate = 79.35
+
+SEE, SIE, SEI, SII | 4.46968 2.68451 -1.71602 -2.80776 | kickE, kickI 5000 5000
+E_spike, I_spike | 19300 10193
+E spike rate= 64.3333
+I spike rate = 101.93
+
+SEE, SIE, SEI, SII | 3.68899 3.67081 -4.01588 -4.35382 | kickE, kickI 5000 5000
+E_spike, I_spike | 1396 2664
+E spike rate= 4.65333
+I spike rate = 26.64
+
+SEE, SIE, SEI, SII | 3.12157 4.94251 -1.59455 -4.16326 | kickE, kickI 5000 5000
+E_spike, I_spike | 7231 7259
+E spike rate= 24.1033
+I spike rate = 72.59
+
+SEE, SIE, SEI, SII | 2.97735 5.13687 -2.03956 -2.67031 | kickE, kickI 5000 5000
+E_spike, I_spike | 2867 5238
+E spike rate= 9.55667
+I spike rate = 52.38
+
+SEE, SIE, SEI, SII | 3.96699 3.99563 -1.19453 -2.68674 | kickE, kickI 5000 5000
+E_spike, I_spike | 19042 12150
+E spike rate= 63.4733
+I spike rate = 121.5
+
+SEE, SIE, SEI, SII | 4.4402 3.7981 -4.9212 -2.20772 | kickE, kickI 5000 5000
+E_spike, I_spike | 168 2627
+E spike rate= 0.56
+I spike rate = 26.27
+
+SEE, SIE, SEI, SII | 2.80146 4.01131 -1.00552 -2.32063 | kickE, kickI 5000 5000
+E_spike, I_spike | 12520 10398
+E spike rate= 41.7333
+I spike rate = 103.98
+
+SEE, SIE, SEI, SII | 4.85238 5.88551 -3.38085 -3.93611 | kickE, kickI 5000 5000
+E_spike, I_spike | 1320 3290
+E spike rate= 4.4
+I spike rate = 32.9
+
+SEE, SIE, SEI, SII | 5.6248 3.1367 -2.68016 -3.54097 | kickE, kickI 5000 5000
+E_spike, I_spike | 10207 7373
+E spike rate= 34.0233
+I spike rate = 73.73
+
+SEE, SIE, SEI, SII | 4.67912 5.11704 -4.10017 -4.033 | kickE, kickI 5000 5000
+E_spike, I_spike | 749 2568
+E spike rate= 2.49667
+I spike rate = 25.68
+
+SEE, SIE, SEI, SII | 2.8968 3.3834 -2.10364 -1.83657 | kickE, kickI 5000 5000
+E_spike, I_spike | 3108 5102
+E spike rate= 10.36
+I spike rate = 51.02
+
+SEE, SIE, SEI, SII | 5.73836 5.96698 -1.68262 -2.87617 | kickE, kickI 5000 5000
+E_spike, I_spike | 17460 12810
+E spike rate= 58.2
+I spike rate = 128.1
+
+SEE, SIE, SEI, SII | 4.16864 5.46879 -1.05293 -1.56087 | kickE, kickI 5000 5000
+E_spike, I_spike | 18069 12983
+E spike rate= 60.23
+I spike rate = 129.83
+
+SEE, SIE, SEI, SII | 3.84257 2.33955 -2.68354 -3.61577 | kickE, kickI 5000 5000
+E_spike, I_spike | 6683 4781
+E spike rate= 22.2767
+I spike rate = 47.81
+
+SEE, SIE, SEI, SII | 4.92979 3.04372 -1.43818 -4.84899 | kickE, kickI 5000 5000
+E_spike, I_spike | 27761 11085
+E spike rate= 92.5367
+I spike rate = 110.85
+
+SEE, SIE, SEI, SII | 5.10348 3.92 -4.07001 -1.18886 | kickE, kickI 5000 5000
+E_spike, I_spike | 24 3135
+E spike rate= 0.08
+I spike rate = 31.35
+
+SEE, SIE, SEI, SII | 3.48709 3.3637 -1.92995 -3.33728 | kickE, kickI 5000 5000
+E_spike, I_spike | 7286 6312
+E spike rate= 24.2867
+I spike rate = 63.12
+
+SEE, SIE, SEI, SII | 4.43705 3.08403 -1.86844 -3.82904 | kickE, kickI 5000 5000
+E_spike, I_spike | 16428 9332
+E spike rate= 54.76
+I spike rate = 93.32
+
+SEE, SIE, SEI, SII | 3.03197 5.21233 -4.99036 -4.59951 | kickE, kickI 5000 5000
+E_spike, I_spike | 383 2073
+E spike rate= 1.27667
+I spike rate = 20.73
+
+SEE, SIE, SEI, SII | 5.00415 4.13784 -2.27713 -1.37755 | kickE, kickI 5000 5000
+E_spike, I_spike | 2253 5279
+E spike rate= 7.51
+I spike rate = 52.79
+
+SEE, SIE, SEI, SII | 4.20863 5.86421 -3.88173 -1.84966 | kickE, kickI 5000 5000
+E_spike, I_spike | 30 2752
+E spike rate= 0.1
+I spike rate = 27.52
+
+SEE, SIE, SEI, SII | 4.33774 2.00685 -2.68124 -2.32552 | kickE, kickI 5000 5000
+E_spike, I_spike | 6062 5135
+E spike rate= 20.2067
+I spike rate = 51.35
+
+SEE, SIE, SEI, SII | 2.967 3.87082 -1.77154 -4.77429 | kickE, kickI 5000 5000
+E_spike, I_spike | 8120 6316
+E spike rate= 27.0667
+I spike rate = 63.16
+
+SEE, SIE, SEI, SII | 5.97963 5.93971 -1.04029 -1.63867 | kickE, kickI 5000 5000
+E_spike, I_spike | 25853 13647
+E spike rate= 86.1767
+I spike rate = 136.47
+
+SEE, SIE, SEI, SII | 3.30558 3.80993 -3.56896 -2.61156 | kickE, kickI 5000 5000
+E_spike, I_spike | 664 2899
+E spike rate= 2.21333
+I spike rate = 28.99
+
+SEE, SIE, SEI, SII | 2.30884 2.96054 -1.41531 -1.6766 | kickE, kickI 5000 5000
+E_spike, I_spike | 6685 7020
+E spike rate= 22.2833
+I spike rate = 70.2
+
+SEE, SIE, SEI, SII | 4.40129 3.43362 -3.48622 -3.32991 | kickE, kickI 5000 5000
+E_spike, I_spike | 1681 3213
+E spike rate= 5.60333
+I spike rate = 32.13
+
+SEE, SIE, SEI, SII | 5.28642 2.19771 -1.56834 -3.31421 | kickE, kickI 5000 5000
+E_spike, I_spike | 30157 10817
+E spike rate= 100.523
+I spike rate = 108.17
+
+SEE, SIE, SEI, SII | 2.45228 5.97792 -3.05772 -2.18396 | kickE, kickI 5000 5000
+E_spike, I_spike | 682 3372
+E spike rate= 2.27333
+I spike rate = 33.72
+
+SEE, SIE, SEI, SII | 3.41781 2.04492 -4.99469 -2.1808 | kickE, kickI 5000 5000
+E_spike, I_spike | 9 2550
+E spike rate= 0.03
+I spike rate = 25.5
+
+SEE, SIE, SEI, SII | 3.30757 2.73515 -3.36334 -4.39104 | kickE, kickI 5000 5000
+E_spike, I_spike | 3161 3231
+E spike rate= 10.5367
+I spike rate = 32.31
+
+SEE, SIE, SEI, SII | 2.75623 2.16443 -2.67844 -4.90217 | kickE, kickI 5000 5000
+E_spike, I_spike | 6869 3945
+E spike rate= 22.8967
+I spike rate = 39.45
+
+SEE, SIE, SEI, SII | 3.31393 4.32966 -4.34226 -2.30804 | kickE, kickI 5000 5000
+E_spike, I_spike | 8 2487
+E spike rate= 0.0266667
+I spike rate = 24.87
+
+SEE, SIE, SEI, SII | 4.08663 4.08917 -2.76403 -2.20264 | kickE, kickI 5000 5000
+E_spike, I_spike | 1489 3879
+E spike rate= 4.96333
+I spike rate = 38.79
+
+SEE, SIE, SEI, SII | 3.69978 3.17157 -3.3939 -3.97021 | kickE, kickI 5000 5000
+E_spike, I_spike | 2437 3257
+E spike rate= 8.12333
+I spike rate = 32.57
+
+SEE, SIE, SEI, SII | 2.28105 2.47184 -3.62866 -3.92996 | kickE, kickI 5000 5000
+E_spike, I_spike | 1990 2781
+E spike rate= 6.63333
+I spike rate = 27.81
+
+SEE, SIE, SEI, SII | 4.71848 2.39534 -1.7241 -1.99875 | kickE, kickI 5000 5000
+E_spike, I_spike | 21998 10730
+E spike rate= 73.3267
+I spike rate = 107.3
+
+SEE, SIE, SEI, SII | 5.86464 3.93751 -2.02769 -4.19255 | kickE, kickI 5000 5000
+E_spike, I_spike | 23139 11232
+E spike rate= 77.13
+I spike rate = 112.32
+
+SEE, SIE, SEI, SII | 4.16524 3.94748 -3.47728 -3.30681 | kickE, kickI 5000 5000
+E_spike, I_spike | 1291 3102
+E spike rate= 4.30333
+I spike rate = 31.02
+
+SEE, SIE, SEI, SII | 4.84823 3.05902 -2.52235 -3.33135 | kickE, kickI 5000 5000
+E_spike, I_spike | 7559 6203
+E spike rate= 25.1967
+I spike rate = 62.03
+
+SEE, SIE, SEI, SII | 2.89971 2.3311 -1.41523 -1.56491 | kickE, kickI 5000 5000
+E_spike, I_spike | 10101 7874
+E spike rate= 33.67
+I spike rate = 78.74
+
+SEE, SIE, SEI, SII | 4.64105 2.81071 -2.77322 -2.77418 | kickE, kickI 5000 5000
+E_spike, I_spike | 3997 4580
+E spike rate= 13.3233
+I spike rate = 45.8
+
+SEE, SIE, SEI, SII | 2.7875 4.09776 -2.16325 -1.95672 | kickE, kickI 5000 5000
+E_spike, I_spike | 2387 4832
+E spike rate= 7.95667
+I spike rate = 48.32
+
+SEE, SIE, SEI, SII | 3.18056 3.18261 -2.31023 -2.61462 | kickE, kickI 5000 5000
+E_spike, I_spike | 3778 4795
+E spike rate= 12.5933
+I spike rate = 47.95
+
+SEE, SIE, SEI, SII | 5.98359 2.46004 -2.38679 -4.70615 | kickE, kickI 5000 5000
+E_spike, I_spike | 28856 10369
+E spike rate= 96.1867
+I spike rate = 103.69
+
+SEE, SIE, SEI, SII | 3.53968 3.92741 -3.72808 -2.83408 | kickE, kickI 5000 5000
+E_spike, I_spike | 615 2758
+E spike rate= 2.05
+I spike rate = 27.58
+
+SEE, SIE, SEI, SII | 5.78827 2.32907 -3.09889 -1.53358 | kickE, kickI 5000 5000
+E_spike, I_spike | 1665 3837
+E spike rate= 5.55
+I spike rate = 38.37
+
+SEE, SIE, SEI, SII | 4.93192 2.56082 -1.41508 -2.84129 | kickE, kickI 5000 5000
+E_spike, I_spike | 27608 11404
+E spike rate= 92.0267
+I spike rate = 114.04
+
+SEE, SIE, SEI, SII | 5.13549 4.64512 -4.60809 -2.1349 | kickE, kickI 5000 5000
+E_spike, I_spike | 0 2552
+E spike rate= 0
+I spike rate = 25.52
+
+SEE, SIE, SEI, SII | 2.24828 3.80562 -1.6314 -4.52008 | kickE, kickI 5000 5000
+E_spike, I_spike | 7102 5907
+E spike rate= 23.6733
+I spike rate = 59.07
+
+SEE, SIE, SEI, SII | 2.35635 4.68283 -3.33455 -4.82269 | kickE, kickI 5000 5000
+E_spike, I_spike | 1773 3023
+E spike rate= 5.91
+I spike rate = 30.23
+
+SEE, SIE, SEI, SII | 4.93105 5.23881 -2.09014 -3.99908 | kickE, kickI 5000 5000
+E_spike, I_spike | 6274 7120
+E spike rate= 20.9133
+I spike rate = 71.2
+
+SEE, SIE, SEI, SII | 3.33766 3.12434 -2.27577 -3.5496 | kickE, kickI 5000 5000
+E_spike, I_spike | 5612 5143
+E spike rate= 18.7067
+I spike rate = 51.43
+
+SEE, SIE, SEI, SII | 3.02755 3.2069 -2.82136 -1.93462 | kickE, kickI 5000 5000
+E_spike, I_spike | 1330 3665
+E spike rate= 4.43333
+I spike rate = 36.65
+
+SEE, SIE, SEI, SII | 4.17971 3.32125 -3.78672 -4.49029 | kickE, kickI 5000 5000
+E_spike, I_spike | 2292 3015
+E spike rate= 7.64
+I spike rate = 30.15
+
+SEE, SIE, SEI, SII | 3.3264 5.85798 -2.24023 -4.85204 | kickE, kickI 5000 5000
+E_spike, I_spike | 3635 4923
+E spike rate= 12.1167
+I spike rate = 49.23
+
+SEE, SIE, SEI, SII | 4.60498 2.74387 -1.51303 -1.93515 | kickE, kickI 5000 5000
+E_spike, I_spike | 21937 11530
+E spike rate= 73.1233
+I spike rate = 115.3
+
+SEE, SIE, SEI, SII | 2.05809 5.31168 -2.48754 -4.75457 | kickE, kickI 5000 5000
+E_spike, I_spike | 2701 3966
+E spike rate= 9.00333
+I spike rate = 39.66
+
+SEE, SIE, SEI, SII | 3.94637 3.55791 -4.58924 -2.36223 | kickE, kickI 5000 5000
+E_spike, I_spike | 20 2491
+E spike rate= 0.0666667
+I spike rate = 24.91
+
+SEE, SIE, SEI, SII | 3.06723 2.14675 -1.96293 -3.74469 | kickE, kickI 5000 5000
+E_spike, I_spike | 10874 5867
+E spike rate= 36.2467
+I spike rate = 58.67
+
+SEE, SIE, SEI, SII | 3.7159 4.79245 -2.22593 -3.07304 | kickE, kickI 5000 5000
+E_spike, I_spike | 3365 5175
+E spike rate= 11.2167
+I spike rate = 51.75
+
+SEE, SIE, SEI, SII | 4.83652 4.49492 -1.1502 -2.45326 | kickE, kickI 5000 5000
+E_spike, I_spike | 23237 12450
+E spike rate= 77.4567
+I spike rate = 124.5
+
+SEE, SIE, SEI, SII | 5.25209 2.03107 -2.71209 -3.52913 | kickE, kickI 5000 5000
+E_spike, I_spike | 19090 8143
+E spike rate= 63.6333
+I spike rate = 81.43
+
+SEE, SIE, SEI, SII | 5.40233 2.05755 -3.34707 -1.54412 | kickE, kickI 5000 5000
+E_spike, I_spike | 685 3220
+E spike rate= 2.28333
+I spike rate = 32.2
+
+SEE, SIE, SEI, SII | 4.38403 5.4843 -2.53686 -1.37519 | kickE, kickI 5000 5000
+E_spike, I_spike | 865 4180
+E spike rate= 2.88333
+I spike rate = 41.8
+
+SEE, SIE, SEI, SII | 5.40959 2.74385 -3.25349 -2.87621 | kickE, kickI 5000 5000
+E_spike, I_spike | 3235 4046
+E spike rate= 10.7833
+I spike rate = 40.46
+
+SEE, SIE, SEI, SII | 3.13531 5.06391 -4.95946 -2.46027 | kickE, kickI 5000 5000
+E_spike, I_spike | 6 2415
+E spike rate= 0.02
+I spike rate = 24.15
+

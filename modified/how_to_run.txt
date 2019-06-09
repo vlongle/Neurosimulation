@@ -1,0 +1,1 @@
+g++-6 -o march -fopenmp Markov_simple_modified_march.cpp
