@@ -1,2 +1,2 @@
-# Neurosimulation
-Use NN to simulate a neuron population.
+# NEUROSIMULATION/DEEP LEARNING
+Given a small population of biological neurons, we have a stochastic simulation to model how that population would react to an external current drive and interact among themselves. Some characteristics of the population like the synapse connection strength between neurons would largely influence the its dynamics. In this project, we aim to use deep learning and leverage the power of big data to infer those characteristics.
