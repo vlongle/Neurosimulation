@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# variable
+NUM_RUNS=${1?Error: Must give number of runs}
+PROGRAM=${2?Error: Must give name of program}
+echo "Run $PROGRAM $NUM_RUNS times"
+
+for i in $(seq 1 $NUM_RUNS);
+    do $PROGRAM 100;
+done

@@ -36,14 +36,20 @@ double SEI = -3.0;
 double SII = -3.0;
 
 
-double kickE = 1000.0;
-double kickI = 1000.0;
+double kickE = 7000.0;
+double kickI = 7000.0;
 
 
 
 double Ref = 250.0;
-double HitE = 1000.0;
-double HitI = 1000.0;
+
+// double HitE = 400.0;
+double HitEE = 130.0;
+double HitIE = 95.0;
+
+double HitI = 450.0;
+
+
 int Reverse = -66;
 int E_spike = 0;
 int I_spike = 0;
@@ -191,8 +197,8 @@ void spikeE(const int whichHit, Vector<double>& Clock, vector<int> &VE, Vector<i
             HIE.push_back(i);
         }
     }
-    Clock.switch_element(2, HitE*HEE.size());
-    Clock.switch_element(3, HitE*HIE.size());
+    Clock.switch_element(2, HitEE*HEE.size());
+    Clock.switch_element(3, HitIE*HIE.size());
 
 }
 
@@ -282,7 +288,7 @@ void update(vector<double>& time_spike, vector<int>& num_spike, Vector<double>& 
                     }
                 }
 //                cout<<" after "<<VE[whichHit]<<endl;
-                Clock.switch_element(2, HitE*HEE.size());
+                Clock.switch_element(2, HitEE*HEE.size());
                 break;
             case 3:
                 whichHit = HIE.select(mt, u);
@@ -297,7 +303,7 @@ void update(vector<double>& time_spike, vector<int>& num_spike, Vector<double>& 
                         num_spike.push_back(whichHit + NE);
                     }
                 }
-                Clock.switch_element(3, HitE*HIE.size());
+                Clock.switch_element(3, HitIE*HIE.size());
                 break;
             case 4:
                 whichHit = HEI.select(mt, u);
@@ -341,7 +347,7 @@ int main()
     random_device rd;
     mt19937 mt(rd());
     uniform_real_distribution<double> u(0, 1);
-    myfile.open("spike_info.txt");
+    myfile.open("spike_sync.txt");
 
     Vector<int> VE, VI;
     VE.reserve(NE);
